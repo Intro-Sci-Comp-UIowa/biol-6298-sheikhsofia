@@ -2,6 +2,7 @@
 
 The *B. mori* sequences were collected from NCBI using accession numbers from the supplementary data of Sun *et al*, 2012. Donor sequences were collected from NCBI using accession numbers provided in Zhu *et al*, 2011. 
 
+The B. mori HGT sequences will continue to be verified as potential HGTs unique to B. mori by using BLAST to determine homology with other insects, and eukaryotes generally. To test this, first pre-set BLAST parameters were used, and then word size and E value parameters were relaxed in order to exclude the possibility of rapidly diverging eukaryotic genes. Donor genes will continue to be verified if present in the recipient, *B. mori*, by using donor protein sequences to BLAST against the *B. mori* genome using the non-redundant protein sequences database.
 
 
 Citations
