@@ -8,6 +8,8 @@ The windows win32 program was downloaded [Phylogenetic Analysis by Maximum Likel
 
 Archieve paml4.9i.tgz package containing executable files was also downloaded. It was extracted into a local folder. The following source code was used: 
 
+sh'''
+
 $ cd Programs/PAML/paml4.9i
 $ rm bin/*.exe
 $ make -f Makefile
@@ -16,6 +18,7 @@ $ mv baseml basemlg codeml pamp evolver yn00 chi2 ../bin
 $ cd ..
 $ ls -lF bin
 
+'''
 
 
 
