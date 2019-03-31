@@ -5,11 +5,15 @@ The *B. mori* sequences were collected from NCBI using accession numbers from th
 ### B.mori sequence validation
 The B. mori HGT sequences are verified as potential HGTs unique to B. mori by using BLAST to determine homology with other insects, and eukaryotes generally. To test this, first pre-set BLAST parameters are used to do an a BLAST search with the *b. mori* nucelotide sequence that is unrestricted to any organism within the nr/nt database. Then word size and E value parameters are relaxed in order to exclude the possibility of rapidly diverging eukaryotic genes. This is done by reducing the word size to 20 nucelotides, and increasing the E value threshold to 20. List of hits are evaluated to see if any matches returned reflect actual genes, or only map partially to other areas of non-bmori genomes. 
 
+Note: the original paper uses e-value cut-off of 10^-10 and a continuous overlap threshold of 33% (i.e. there is a continuous segment of overlap between the query and hit sequences that stretches at least 33%). These criterion are used to detect for the presence of similar genes in invertebrates. 
+
 ### Donor sequence validation
 Donor genes are verified as present in the recipient, *B. mori*, by using donor protein sequences to BLAST against the *B. mori* genome using the non-redundant protein sequences database.
 
+### Issues
 
-Note: the original paper uses e-value cut-off of 10^-10 and a continuous overlap threshold of 33% (i.e. there is a continuous segment of overlap between the query and hit sequences that stretches at least 33%). These criterion are used to detect for the presence of similar genes in invertebrates. 
+The accession numbers provided by the *Sun et al.* paper are incomplete mRNA sequences, and thus do not reflect the full coding sequence of the gene. In order to overcome this issue, several sets of data are collected to do PAML analysis. Specifically, the mRNA sequences from the *Sun et al* paper are used as BLAST query to find hits that consist of the full mRNA. Next, the accession number is submitted to ORFinder to find the largest open reading frame. The resulting CDS indicates protein size. This correctness of this pipeline is tested by using the donor sequence as a BLAST protein query againt the b. mori genome. The best protein hit is compared to the one derived via this alternative pipeline.
+
 
 Citations
 
