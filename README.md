@@ -129,4 +129,4 @@ In order to reproduce the graphs in figure 6, the following steps will be taken:
 
 ## Caveats 
 
-There are considerable gaps within the pipeline presented in the paper that complicate the possibility of reproducing the figure accurately. For example, sequence alignment program and codeml parameters are not specified. Additionally, the original gene ID's provided in referenced papers used by Sun *et al* are stored in a database that is inaccessible. 
+There are a few gaps within the pipeline presented in the paper that complicate the possibility of reproducing the figure accurately. For example, sequence alignment program and codeml parameters are not specified. Additionally, the original gene ID's provided in referenced papers used by Sun *et al* are stored in a database that is inaccessible. 
