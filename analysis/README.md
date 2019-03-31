@@ -20,6 +20,8 @@ $ ls -lF
 
 ```
 
+Executable files were renamed to incorporate version information (4.9). 
+
 ## Running Codeml
 
 In order to conduct selection analysis, codeml free-ratio and site-specific models are used, which requires the following information:
@@ -32,7 +34,7 @@ Sequences are aligned using pre-set parameters of [PRANK](https://www.ebi.ac.uk/
 
 ### Control file
 
-The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acoid. 
+The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acid. 
 
 
 
