@@ -22,7 +22,7 @@ $ ls -lF
 
 ## Running Codeml
 
-In order to conduct selection analysis, codeml is used, which requires the following information:
+In order to conduct selection analysis, codeml free-ratio and site-specific models are used, which requires the following information:
 1. a pairwise sequence alignment, with gaps removed to allow codeml to read sequences properly and limit false signals of selection
 2. control file indicating run parameters
 
@@ -32,7 +32,7 @@ Sequences are aligned using pre-set parameters of [PRANK](https://www.ebi.ac.uk/
 
 ### Control file
 
-
+The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acoid. 
 
 
 
