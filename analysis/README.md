@@ -1,10 +1,10 @@
 # Data Analysis 
 
-PAML4 software will be used to conduct selection analysis. 
+PAML4 version 4.9 software will be used to conduct selection analysis. 
 
 ## PAML Installation 
 
-The windows win32 program was downloaded [Phylogenetic Analysis by Maximum Likelihood (PAML4)](http://abacus.gene.ucl.ac.uk/software/paml.html).
+The windows win32 program was downloaded from [Phylogenetic Analysis by Maximum Likelihood (PAML4)](http://abacus.gene.ucl.ac.uk/software/paml.html).
 
 Archieve paml4.9i.tgz package containing executable files was also downloaded. It was extracted into a local folder. The following source code was used to compile the program:
 
@@ -20,6 +20,8 @@ $ ls -lF
 
 ```
 
+Executable files were renamed to incorporate version information (4.9). 
+
 ## Running Codeml
 
 In order to conduct selection analysis, codeml free-ratio and site-specific models are used, which requires the following information:
@@ -32,7 +34,7 @@ Sequences are aligned using pre-set parameters of [PRANK](https://www.ebi.ac.uk/
 
 ### Control file
 
-The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acoid. 
+The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acid. 
 
 
 
