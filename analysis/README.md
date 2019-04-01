@@ -6,17 +6,16 @@ PAML4 version 4.9 software will be used to conduct selection analysis.
 
 The windows win32 program was downloaded from [Phylogenetic Analysis by Maximum Likelihood (PAML4)](http://abacus.gene.ucl.ac.uk/software/paml.html).
 
-Archieve paml4.9i.tgz package containing executable files was also downloaded. It was extracted into a local folder. The following source code was used to compile the program:
+Archieve paml4.9i.tgz package containing executable files was also downloaded. It was extracted into the local PAML folder in the Programs directory. The following source code was used to compile the program:
 
 ```sh
 
 $ cd Programs/PAML/paml4.9i
-$ rm bin/*.exe
+$ cd src
 $ make -f Makefile
 $ ls -lF
 $ mv baseml basemlg codeml pamp evolver yn00 chi2 ..
 $ cd ..
-$ ls -lF
 
 ```
 
