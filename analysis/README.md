@@ -33,7 +33,8 @@ Sequences are aligned using pre-set parameters of [PRANK](https://www.ebi.ac.uk/
 
 ### Control file
 
-The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acid. 
+The control file (.ctl) is used to indicate input and output files, and parameters used. Seqtype specifies the type of data- codon or amino acid. An example of a control is included under the control file folder. This ctrl file was used for sequence analysis of the Agp gene in recipient and donor.
+ 
 
 
 
