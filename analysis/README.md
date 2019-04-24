@@ -29,7 +29,7 @@ In order to conduct selection analysis, codeml free-ratio and site-specific mode
 
 ### Pairwise sequence alignments
 
-Sequences are aligned using pre-set parameters of [PRANK](https://www.ebi.ac.uk/Tools/msa/prank/), and output is copied and pasted into input field of [Gblocks 0.91b](http://phylogeny.lirmm.fr/phylo_cgi/one_task.cgi?task_type=gblocks&tab_index=2) for a gap-free alignment. Pre-set parameters are used. The output is saved in PHY (phylip) format for execution in codeml. 
+Sequences are aligned using pre-set parameters of [PRANK](https://www.ebi.ac.uk/Tools/msa/prank/), and output is copied and pasted into input field of [PAL2NAL v14](http://www.bork.embl.de/pal2nal/) for a gap-free alignment. Pre-set parameters are used. The output is saved in PHY (phylip) format for execution in codeml. 
 
 ### Control file
 
