@@ -7,9 +7,8 @@
 
 
 
-for file in ./biol-6298-sheikhsofia/data/B.mori HGT sequences/mRNA sequences from paper accession numbers/*.fasta #$in
+# for file in ../data/B-mori-HGT-sequences/mRNA-sequences/*.fasta
+for file in ../data/B-mori-HGT-sequences/mRNA-sequences/bmori_Chi_DC438817.1.fasta
 do
-	../../ncbi-blast-2.9.0+/bin/blastx.exe -query $file -db ./data/B.mori HGT sequences/protein sequences \ #arguments
-		-out ./$file.out  #$out
-		
-	done
+	../../Programs/ncbi-blast-2.9.0+/bin/blastx -query $file -db ./data/B-mori-HGT-sequences/protein-sequences -out ./$file.out  #$out
+done
