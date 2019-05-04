@@ -1,5 +1,6 @@
-      seqfile = Agp_seq.phy * sequence data filename
-      outfile = codeml_results_agp.txt          * main result file name
+      seqfile = alignment.phy * sequence data filename
+      treefile = tree.phy
+	  outfile = results.phy         * main result file name
 
         noisy = 9  * 0,1,2,3,9: how much rubbish on the screen
       verbose = 1  * 0: concise; 1: detailed, 2: too much
@@ -15,7 +16,7 @@
    aaRatefile = dat/jones.dat  * only used for aa seqs with model=empirical(_F)
                    * dayhoff.dat, jones.dat, wag.dat, mtmam.dat, or your own
 
-        model = 2
+        model = 1
                    * models for codons:
                        * 0:one, 1:b, 2:2 or more dN/dS ratios for branches
                    * models for AAs or codon-translated AAs:
