@@ -1,6 +1,0 @@
-sleep: missing operand
-Try 'sleep --help' for more information.
-
-real	0m10.020s
-user	0m0.001s
-sys	0m0.000s
