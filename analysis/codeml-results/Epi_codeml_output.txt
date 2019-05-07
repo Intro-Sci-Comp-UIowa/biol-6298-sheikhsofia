@@ -1,0 +1,243 @@
+
+Before deleting alignment gaps
+      7    441
+
+aeromonas_caviae_Epi_CP025705.1  ??? CGA ??? CGG ??? CGG GGC TGG GAG GCG CAG ATC CGG GCT CAC ??? GCA GAT GGC GCT CTC CCC TTG ??? CGG CTC GCG GAT CTT GCC CGG TAC CAG ACC GTC GAC GAA GCC CTT GCG GCT GTA GTC GTT GAC CAG CAG TTC CCC CAT GGC CTT CTG GGC GAG GTG GGG GTG AGC GCC GTG CCG TCA TTC ACC AGC TCC GGC AGC GGG CCG CCA GCG AGC GAG CTG GTG AAG ACG AAG CGG ATG CCC GGC CGG GCA CAG CAG GGT GCG GGT GGT GTC CAG GTT GAC CTG CCA GCC CAG ATC GAA ATC CTG CTC CGC GTG GGC CGC CAG GTG GTA GAC CAC GGC GGT CCG CTC GCT GAT GAG GGA CTC GGC GAC ACC GGC GGT GAG GTC GGC AGA CAG CGA ACC CTG GGG TCC GGC GAG GGG ATT GCG GCT GCT CAC CAG 
+bmori_Epi_XM_004931326.3        ??? GGT ??? CTT ??? AGC AAC GAA AAG CCT CCG TTT TGT CTT CAC ??? CGC TGT TGC TGT TTT CGG CGG ??? TCT ACC TCC AGT GTC ATG CCT ACA TAT GGA ACA GCC AAA GCC ATG AGC GAG CTT CTG GTC AAT GAT TAT TCC AGA CGG GGT TTC GTT GAT GGT GCA CCG AAC AGA GCT ATG ACA TCA TTT GCT AGT GGC ATC ATC AGG GAG CCT GTG AAG AAT ATT GTG CAC GCG GCA ACA TTG CCC AAA GCA TTG TGC GTT ACT TTG CCA GGA ATT TGC GTA TCC GTG AAG GAG ATG GTG GAT GCT TTG TAC ACT GTG GGA AAG AAA GTG GCC GAT CTG GTT AGG TTT GAA AAG GAT GAC GTA ATA AGC CAA GTG GTA AGC AGA TTT GAT CGT GCA CTC AAT CTT GGA TTC GAT GAC ACA AAA TTC GTT GAT CGA GAT 
+chromohalobacter_salexigens_Epi_CP000285.1  ??? CGT ??? TCT ??? GGC GAC ACA CCG CTT GCG TTT CCT GTT CGC ??? CTC TCT GGC GGT GTT TGG CCC ??? ACT GGC ACA GCC CCT CAG CCG TCC TAT GGC GCG CAA AAG GCC ATC GGC GAG CTG CTG GTC AAC GAC TAC AGC CGA CGG GGC TTC ATC GAT GGC AAG CCC AAT CAG GCG GCT TCC TCG TTC GCC AGC TCG ATC ATT CGT GAA CCG GTT GGC AAT CTG CGC CAT GCC TTG CAA CTC GAC GAC GCT GCA ACG CTC AAC TTG CCG GGC ATC ACC GTC ACG GTG ACG CAG CTG CTG GAT GCA CTT GAG CGC CAG GGC GCC GAG ACG CGC GGG CTG GTG GAC TTC ACG CCG GAT GCT GCC ATC GAC AAG ATC GTC GGG GGA CTG GAT CGC CCG TTG TCG CTG GGC TTC CAG GAT ACC GAT GTC GAT GCC GAG GAT 
+providencia_rustigianii_Epi_LR134189.1  ??? GGT ??? CTT ??? AGC AAC TCG AGC AAT CAA ATT CTT ATT CAC ??? CTC ACT GGC AGT ATT TGG TGG ??? ATT GCC GGA TGT GTT AAT CCG TCT TAC GGC GCT CAA AAA GCC ATG TGC GAA CTG ATG GTG AAT GAT TAC TCA CGC AAA GGT TAT GTT GAT GGA GTT CCG AAT AAA GCC GCT TCT TCT TTC GCT AGC GGC ATT ATT CGT GAG CCA ATT AAT AAC TTT ATC CAT GCA GTC AGT ATT CCT GCT CAA CAA ACC GTT AAT TTG CCG GGA ATT ACC GTT ACG GTA CAA GAT ATG ATT GAC GCA CTG CGT GAT GTT GGG CAA AAA GCG GTG GAT TTA ATC CGT TTT GAG CCA GAT GAA GCA ATT AAT CGT ATT GTG GGT AAA TTC GAT CGT GCT TTG AGC TTG GGT TTC CGC GAT GGA TCA TTC AGT GAT AAG CAT 
+hmelpomene_Epi_HMEL009928       ??? CGT ??? TTT ??? CGC CAC GCG CAC GCT GCG CTT CGT CTT CGC ??? CAC GGT GGG TGT GTT CGG CGG ??? GCT GCC CGC CGT GTC ACG CCG TCG TAC GGC GCG GCG AAG GTG ATG TGC GAA GTG CTG CTG TGC GAG TAC GCG CGG CGC GGG TTT GTG GAC GGC GCC CCC AAC AAG GCG GTC ACC TCG TTC GCC AGC GGG ATC ATC CGC GAA CCG GTG AGC AAC CTG GTA CAC GCT GCA GCG TTG CGG CCG GGC GAA GTT GTC AAC TTG CCT GGT ATA AGC GTG TCT GTC AGC GAG ATG CTG AAT GCG CTC CGC GAG GTG GGG GAC CAG GTC GCA TCA CTG GTC CGG TTT AAG CGC GAT GAC TTC ATA GAG AAA ATA GTC AAC AAG TTT GAC CGC GCT CTA CAG CTC GGC TTC ACA GAC GAG AAC TTT GCT GGC CGC GAC 
+photorhabdus_luminescens_Epi_BX571867.1  ??? AGT ??? CTT ??? TGT TAC TCG AAA ATT GAA ATT TAT TTT CAC ??? CTC CTT GGC CGT ATT TGG TGG ??? ATT ACC CGC AAC GTT AAT CCT TCC TAT GGT GCA CAG AAA GCC ATG TGT GAA TTG ATG ATT AAC GAT TAC TCC CGC AAA GGA TAC GTC GAT GGG AAG CCA AAC AAA GCA GCA TCC TCT TTT GCC AGT GCT ATC ATC CGT GAA CCT ATC CAC AAC TTT ATA CAT GCG GTT CAA ATT CCG GCG GAA AAA ACA GTC AAT TTA CCG GGT ATT AGT GTC ACG GTT CAG GAG ATG ATT GAT GCA CTG GCA GAG GTT GGG CAG AAA GCG GTG GAA CTC ATC CGC TTC GAA CCA GAC GAA AAC ATT AAC CGT ATT GTT GGT CAT TTC GAT CGT GGC TTA TCA CTG GGT TTT CAT GAT AAT ACT TTC AGT GAT ACC AAT 
+providencia_rettgeri_Epi_CP029736.1  ??? GGT ??? CTT ??? AGC TAC TCG AGC AAT CAA ATT TAT GTT CAC ??? TTC TCT TGC CGT GTT TGG TGG ??? GCT ACC GGA TGT GTT AAC CCA TCC TAT GGC GCT CAA AAA GCG ATG TGT GAA CTG ATG GTC AAT GAC TAT TCA CGT AAA GGC TTT GTT GAT GGT GTA CCC AAT AAA GCG GCG TCT TCA TTC GCA AGT GGC ATT ATT CGT GAG CCA ATT AAC AAC TTT ATT CAT GCG GTC AGT ATC CCT GCT GAG AAA ACT GTG AAC CTA CCA GGT ATT ACG GTT ACT GTT CAA GGC ATG ATT GAT GCC CTG CGT GAT GTT GGC CAA GAA GCG GTG GAT CTT ATT CGT TTT GAA CCA GAT GAA GCT ATT AAC CGC ATT GTG GGT AAA TTT GAT CGT GCA TTG GAT CTC GGT TTC CGT GAT GGC TCA TTT GGT GAT ACT CAC 
+
+
+
+After deleting gaps. 426 sites
+      7    426
+
+aeromonas_caviae_Epi_CP025705.1  CGA CGG CGG GGC TGG GAG GCG CAG ATC CGG GCT CAC GCA GAT GGC GCT CTC CCC TTG CGG CTC GCG GAT CTT GCC CGG TAC CAG ACC GTC GAC GAA GCC CTT GCG GCT GTA GTC GTT GAC CAG CAG TTC CCC CAT GGC CTT CTG GGC GAG GTG GGG GTG AGC GCC GTG CCG TCA TTC ACC AGC TCC GGC AGC GGG CCG CCA GCG AGC GAG CTG GTG AAG ACG AAG CGG ATG CCC GGC CGG GCA CAG CAG GGT GCG GGT GGT GTC CAG GTT GAC CTG CCA GCC CAG ATC GAA ATC CTG CTC CGC GTG GGC CGC CAG GTG GTA GAC CAC GGC GGT CCG CTC GCT GAT GAG GGA CTC GGC GAC ACC GGC GGT GAG GTC GGC AGA CAG CGA ACC CTG GGG TCC GGC GAG GGG ATT GCG GCT GCT CAC CAG 
+bmori_Epi_XM_004931326.3        GGT CTT AGC AAC GAA AAG CCT CCG TTT TGT CTT CAC CGC TGT TGC TGT TTT CGG CGG TCT ACC TCC AGT GTC ATG CCT ACA TAT GGA ACA GCC AAA GCC ATG AGC GAG CTT CTG GTC AAT GAT TAT TCC AGA CGG GGT TTC GTT GAT GGT GCA CCG AAC AGA GCT ATG ACA TCA TTT GCT AGT GGC ATC ATC AGG GAG CCT GTG AAG AAT ATT GTG CAC GCG GCA ACA TTG CCC AAA GCA TTG TGC GTT ACT TTG CCA GGA ATT TGC GTA TCC GTG AAG GAG ATG GTG GAT GCT TTG TAC ACT GTG GGA AAG AAA GTG GCC GAT CTG GTT AGG TTT GAA AAG GAT GAC GTA ATA AGC CAA GTG GTA AGC AGA TTT GAT CGT GCA CTC AAT CTT GGA TTC GAT GAC ACA AAA TTC GTT GAT CGA GAT 
+chromohalobacter_salexigens_Epi_CP000285.1  CGT TCT GGC GAC ACA CCG CTT GCG TTT CCT GTT CGC CTC TCT GGC GGT GTT TGG CCC ACT GGC ACA GCC CCT CAG CCG TCC TAT GGC GCG CAA AAG GCC ATC GGC GAG CTG CTG GTC AAC GAC TAC AGC CGA CGG GGC TTC ATC GAT GGC AAG CCC AAT CAG GCG GCT TCC TCG TTC GCC AGC TCG ATC ATT CGT GAA CCG GTT GGC AAT CTG CGC CAT GCC TTG CAA CTC GAC GAC GCT GCA ACG CTC AAC TTG CCG GGC ATC ACC GTC ACG GTG ACG CAG CTG CTG GAT GCA CTT GAG CGC CAG GGC GCC GAG ACG CGC GGG CTG GTG GAC TTC ACG CCG GAT GCT GCC ATC GAC AAG ATC GTC GGG GGA CTG GAT CGC CCG TTG TCG CTG GGC TTC CAG GAT ACC GAT GTC GAT GCC GAG GAT 
+providencia_rustigianii_Epi_LR134189.1  GGT CTT AGC AAC TCG AGC AAT CAA ATT CTT ATT CAC CTC ACT GGC AGT ATT TGG TGG ATT GCC GGA TGT GTT AAT CCG TCT TAC GGC GCT CAA AAA GCC ATG TGC GAA CTG ATG GTG AAT GAT TAC TCA CGC AAA GGT TAT GTT GAT GGA GTT CCG AAT AAA GCC GCT TCT TCT TTC GCT AGC GGC ATT ATT CGT GAG CCA ATT AAT AAC TTT ATC CAT GCA GTC AGT ATT CCT GCT CAA CAA ACC GTT AAT TTG CCG GGA ATT ACC GTT ACG GTA CAA GAT ATG ATT GAC GCA CTG CGT GAT GTT GGG CAA AAA GCG GTG GAT TTA ATC CGT TTT GAG CCA GAT GAA GCA ATT AAT CGT ATT GTG GGT AAA TTC GAT CGT GCT TTG AGC TTG GGT TTC CGC GAT GGA TCA TTC AGT GAT AAG CAT 
+hmelpomene_Epi_HMEL009928       CGT TTT CGC CAC GCG CAC GCT GCG CTT CGT CTT CGC CAC GGT GGG TGT GTT CGG CGG GCT GCC CGC CGT GTC ACG CCG TCG TAC GGC GCG GCG AAG GTG ATG TGC GAA GTG CTG CTG TGC GAG TAC GCG CGG CGC GGG TTT GTG GAC GGC GCC CCC AAC AAG GCG GTC ACC TCG TTC GCC AGC GGG ATC ATC CGC GAA CCG GTG AGC AAC CTG GTA CAC GCT GCA GCG TTG CGG CCG GGC GAA GTT GTC AAC TTG CCT GGT ATA AGC GTG TCT GTC AGC GAG ATG CTG AAT GCG CTC CGC GAG GTG GGG GAC CAG GTC GCA TCA CTG GTC CGG TTT AAG CGC GAT GAC TTC ATA GAG AAA ATA GTC AAC AAG TTT GAC CGC GCT CTA CAG CTC GGC TTC ACA GAC GAG AAC TTT GCT GGC CGC GAC 
+photorhabdus_luminescens_Epi_BX571867.1  AGT CTT TGT TAC TCG AAA ATT GAA ATT TAT TTT CAC CTC CTT GGC CGT ATT TGG TGG ATT ACC CGC AAC GTT AAT CCT TCC TAT GGT GCA CAG AAA GCC ATG TGT GAA TTG ATG ATT AAC GAT TAC TCC CGC AAA GGA TAC GTC GAT GGG AAG CCA AAC AAA GCA GCA TCC TCT TTT GCC AGT GCT ATC ATC CGT GAA CCT ATC CAC AAC TTT ATA CAT GCG GTT CAA ATT CCG GCG GAA AAA ACA GTC AAT TTA CCG GGT ATT AGT GTC ACG GTT CAG GAG ATG ATT GAT GCA CTG GCA GAG GTT GGG CAG AAA GCG GTG GAA CTC ATC CGC TTC GAA CCA GAC GAA AAC ATT AAC CGT ATT GTT GGT CAT TTC GAT CGT GGC TTA TCA CTG GGT TTT CAT GAT AAT ACT TTC AGT GAT ACC AAT 
+providencia_rettgeri_Epi_CP029736.1  GGT CTT AGC TAC TCG AGC AAT CAA ATT TAT GTT CAC TTC TCT TGC CGT GTT TGG TGG GCT ACC GGA TGT GTT AAC CCA TCC TAT GGC GCT CAA AAA GCG ATG TGT GAA CTG ATG GTC AAT GAC TAT TCA CGT AAA GGC TTT GTT GAT GGT GTA CCC AAT AAA GCG GCG TCT TCA TTC GCA AGT GGC ATT ATT CGT GAG CCA ATT AAC AAC TTT ATT CAT GCG GTC AGT ATC CCT GCT GAG AAA ACT GTG AAC CTA CCA GGT ATT ACG GTT ACT GTT CAA GGC ATG ATT GAT GCC CTG CGT GAT GTT GGC CAA GAA GCG GTG GAT CTT ATT CGT TTT GAA CCA GAT GAA GCT ATT AAC CGC ATT GTG GGT AAA TTT GAT CGT GCA TTG GAT CTC GGT TTC CGT GAT GGC TCA TTT GGT GAT ACT CAC 
+
+
+
+Printing out site pattern counts
+
+
+         7        423  P
+
+aeromonas_caviae_Epi_CP025705.1  AAG AAG ACC ACC ACC ACC ACG AGA AGC AGC AGC AGC ATC ATC ATC ATG ATT CAC CAC CAC CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAT CCA CCA CCC CCC CCC CCG CCG CCG CGA CGA CGC CGC CGG CGG CGG CGG CGG CGG CGG CTC CTC CTC CTC CTC CTG CTG CTG CTG CTG CTT CTT CTT GAA GAA GAC GAC GAC GAC GAC GAG GAG GAG GAG GAG GAG GAT GAT GAT GCA GCA GCC GCC GCC GCC GCG GCG GCG GCG GCG GCG GCT GCT GCT GCT GCT GCT GGA GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGG GGG GGG GGG GGT GGT GGT GGT GGT GTA GTA GTC GTC GTC GTC GTG GTG GTG GTG GTG GTG GTT GTT TAC TCA TCC TCC TGG TTC TTC TTG 
+bmori_Epi_XM_004931326.3        C.C GCA .AT G.T GGA GTG G.. C.T .AG ..A ..T .T. GCT G.G T.T T.. .AA ... .GA .TG A.A AT. .C. G.T G.T GCA GTT T.T T.T TGC TGC .GG AAG ..T AGA ... .GG A.A GA. TTT .TC G.T AAG ACT ACA A.C .CT .TT GCA TCT T.T AC. A.A GAA TA. T.T A.T ..T G.. G.T T.. A.G G.C T.C A.. ..T A.T C.A ..T .C. TC. A.. A.T AGA ..C ..C .GT AG. ... TG. CGC TTG ATG .AG ... ..T AGC C.T .T. T.C TTC TT. AAG CT. .AG .A. .T. TG. .T. AAA AA. A.. AT. .AT .AT ..A ..T .TA .TT T.. ACA A.. CC. ..A AC. A.C A.G CCA ..A C.T .CC ACA A.T C.G T.T AAC A.. .CA ... ... ... ..A ..C ACA ... GG. .T. GAA .C. ..T CG. 
+chromohalobacter_salexigens_Epi_CP000285.1  C.T TT. T.G G.. GG. .T. G.C C.C G.. CAG ... .TT GCA C.G T.T C.C GA. .G. G.G .TG G.. .T. GC. G.C G.T .C. .TC T.C T.T ACC AC. .GG A.G ..G .GA GA. TGG T.C GAA TTC TTG ..T GC. ... .AA G.C .C. TCT GCT ACT .CT GG. A.. ACG GAG G.T ... ... G.. A.C ..T A.C .C. T.C A.G ..T A.. A.G .GG C.A ACG CC. A.T .GA ..T .CT .GC .CC ... TC. CTC ... CAG CAG ... ..G .GC CTT .TT A.A .TC TT. C.G .T. .AG ..C .A. .G. .CC .A. .A. .A. AT. CAG .AT ... ... .T. .TG ... ACC C.T CCC ..C AAC ..G .AC CCG ..C C.G CGC .CG A.. C.G C.G AAT .CT AA. AC. CA. CGC ..C ..C .C. ..G ..G .T. ACA AG. ... CCC 
+providencia_rustigianii_Epi_LR134189.1  C.T GTC .G. G.T GG. .TT G.A C.T .AT .AA ... .TT GCA ..T ..T ..T TCA ... A.G TTA A.A AT. ..A G.T ..T GCT GTT T.C T.C ACC ACC A.A .A. ... .G. ..T TGG T.T GA. TTT TTG G.T .AA GAT A.T A.C .C. .TT .AA ATT .TT GC. A.T GAG .GT A.T T.T T.. G.A G.T ... A.G G.. TA. A.. ..C A.T CGT ..T C.A ACG AGC A.C A.A ..T ..A .GA TG. ... AC. CTC CA. AAT .AT ... ... TGC AAT ATT .GA TTC TT. C.A AT. .AA .A. AG. AG. .C. .CT AA. AAT ATT C.. .AT ..G ..T .TG AT. ... ..A C.T CC. ..T AA. ... C.. CCG ..A C.G ..G .CT A.T A.G T.. AAT .CT ..T .C. ..T A.C ... ..G .CT ..T GG. .T. .C. .CA ... .G. 
+hmelpomene_Epi_HMEL009928       C.C GCA CAG G.. GG. .TA G.T C.C ... .AG ... .T. GCG C.G C.T T.. .AC .G. .G. .TG ... AT. GC. G.. G.C GCT GTC T.C T.C AGC GTT .GC AGC ..G .GG .GG .GG A.C GAA TTT .T. ..T GA. GAG GC. ..C .C. TTT G.C GCT ..T GC. A.A AAG .G. G.T ... ..C G.C G.. ..C A.G G.C T.. A.G A.T TG. A.A TCA .CG TCT C.C A.C A.. ..C ..C .GC CG. ... .G. CAC .A. A.G .AG .TG ..G TGC ..T .T. CGC TTT TT. CGC CT. .AA .GC ... TG. TTC CCG CA. .AG AT. ACA .A. ..G ..G .T. .T. ..G .A. C.C CCC ..C AAC AAC C.G CC. ... ..G .C. .CG A.A C.G T.T AAC ..C .CC ..C ... ..A ..G C.G .CG ..G GGG .T. GC. GCG ... CG. 
+photorhabdus_luminescens_Epi_BX571867.1  C.T GTT T.A G.. GGT .TT G.. C.T CA. .AA ..T .T. GCA ..T ..T ..T .C. ... AC. .T. A.A AT. G.A G.T A.T GGC GTC T.C T.T AGT ACA A.A .AG ..T .G. ..G TGG T.C GAA TTC TT. A.T .AG GAG .AA T.T .CT .TT GAA ATT TAT AC. A.T GAA GCA A.T T.T ... G.T G.C ... A.G G.. TAC A.. ..T A.. CGT ..A C.G ACG A.A A.C C.T ..T ..A .G. A.C ..C CT. CTC AA. AAT .AG ... ..A TGT ATT ATC CGC TTC TTA C.A TT. .AA .A. AG. CG. AAC .CG TA. AA. AT. CAT .AT ..G ..A .TT AT. ... AAT C.T CCA ..T AA. ... C.C CCG ... T.G ..G .CA A.T A.G T.. AAC .CA AA. .C. ..T A.A ..C A.. .C. ..T G.T .TT .C. .C. ..T .G. 
+providencia_rettgeri_Epi_CP029736.1  C.T GTC GAT G.A GG. .TT G.. C.T .A. .AA ..T .TT GC. ..T ..T ..C TCA ... ACT .TT G.A AT. ..A G.C ..C GCA GT. T.T T.T AC. ACT A.A .A. ... .GT ..T TGG T.T GA. TTT TTG G.T .AA GAT A.T A.C .CA .TT GA. GCT TAT AC. A.T GAA .GT G.T T.T ..C G.T G.T ... A.G G.. T.. A.. ..T A.T CG. ..T C.A ACT AGC A.C A.A ..T ..A .GT TG. ... TC. TTC AA. AA. .G. ..G ..G TGT AAT ATT .GA TTT CTA C.A .T. .AA .A. .G. CG. .CT .CT TA. AA. ATT C.T .AT ... ... .TG ATT T.. ..C C.T CCC ..T AAC ... C.. CCA ... C.G ..G .CT A.T A.G T.T AAT .C. ..A .C. ..T A.T ... ..C .C. ... GG. .T. .C. .CA ... .G. 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    2
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1
+
+CODONML (in paml version 4.9i, September 2018)  Epi_gblocks_alignment.fasta
+Model: free dN/dS Ratios for branches, 
+Codon frequency model: F3x4
+ns =   7  ls = 142
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   5   1   2   5   4 | Ser TCT   0   1   2   3   1   1 | Tyr TAT   0   2   1   1   0   2 | Cys TGT   0   3   0   1   1   2
+    TTC   2   3   4   4   3   3 |     TCC   2   3   2   0   0   3 |     TAC   1   1   1   2   2   3 |     TGC   0   3   0   1   2   0
+Leu TTA   0   0   0   1   0   2 |     TCA   1   1   0   2   1   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   4   3   3   2   1 |     TCG   0   0   3   1   2   1 |     TAG   0   0   0   0   0   0 | Trp TGG   1   0   1   2   0   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   3   4   2   2   2   2 | Pro CCT   0   3   2   1   1   2 | His CAT   1   0   1   2   0   3 | Arg CGT   0   1   2   5   3   4
+    CTC   5   1   3   1   2   2 |     CCC   3   1   2   0   1   0 |     CAC   3   2   0   1   4   2 |     CGC   2   1   5   2   9   3
+    CTA   0   0   0   0   1   0 |     CCA   2   1   0   2   0   2 | Gln CAA   0   1   2   6   0   1 |     CGA   2   1   1   0   0   0
+    CTG   5   2   8   2   5   2 |     CCG   3   2   6   3   3   2 |     CAG  11   0   5   0   2   3 |     CGG   7   3   1   0   5   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   2   1  12   0  10 | Thr ACT   0   2   1   1   0   1 | Asn AAT   0   3   2   7   1   4 | Ser AGT   0   2   0   3   0   4
+    ATC   3   2   6   2   2   4 |     ACC   4   1   2   2   1   2 |     AAC   0   2   2   2   5   6 |     AGC   4   4   2   4   4   0
+    ATA   0   1   0   0   3   1 |     ACA   0   5   2   0   1   1 | Lys AAA   0   4   0   5   1   6 | Arg AGA   1   3   0   0   0   0
+Met ATG   1   4   0   3   2   3 |     ACG   1   0   5   1   1   1 |     AAG   2   5   3   1   4   1 |     AGG   0   2   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   4   3   6   2   5 | Ala GCT   6   3   3   5   5   1 | Asp GAT   3   9   8   9   1   6 | Gly GGT   5   3   1   4   2   4
+    GTC   4   2   4   1   7   3 |     GCC   4   3   7   3   3   2 |     GAC   5   2   6   1   6   1 |     GGC  12   1  11   3   5   2
+    GTA   2   3   0   1   1   0 |     GCA   2   4   2   3   2   5 | Glu GAA   2   2   1   2   3   7 |     GGA   1   4   1   4   0   1
+    GTG   6   7   2   3   6   1 |     GCG   6   1   3   1   8   3 |     GAG   6   3   4   2   5   2 |     GGG   4   0   2   1   4   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   5 | Ser TCT   2 | Tyr TAT   3 | Cys TGT   2
+    TTC   3 |     TCC   1 |     TAC   1 |     TGC   1
+Leu TTA   0 |     TCA   3 | *** TAA   0 | *** TGA   0
+    TTG   1 |     TCG   1 |     TAG   0 | Trp TGG   2
+------------------------------------------------------
+Leu CTT   2 | Pro CCT   1 | His CAT   1 | Arg CGT   7
+    CTC   1 |     CCC   1 |     CAC   2 |     CGC   1
+    CTA   1 |     CCA   4 | Gln CAA   4 |     CGA   0
+    CTG   2 |     CCG   0 |     CAG   0 |     CGG   0
+------------------------------------------------------
+Ile ATT  10 | Thr ACT   3 | Asn AAT   3 | Ser AGT   2
+    ATC   1 |     ACC   1 |     AAC   5 |     AGC   2
+    ATA   0 |     ACA   0 | Lys AAA   5 | Arg AGA   0
+Met ATG   3 |     ACG   1 |     AAG   0 |     AGG   0
+------------------------------------------------------
+Val GTT   7 | Ala GCT   4 | Asp GAT   9 | Gly GGT   6
+    GTC   2 |     GCC   1 |     GAC   1 |     GGC   6
+    GTA   1 |     GCA   2 | Glu GAA   4 |     GGA   1
+    GTG   3 |     GCG   5 |     GAG   2 |     GGG   0
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: aeromonas_caviae_Epi_CP025705.1
+position  1:    T:0.05634    C:0.33099    A:0.11972    G:0.49296
+position  2:    T:0.24648    C:0.23944    A:0.23944    G:0.27465
+position  3:    T:0.14789    C:0.38028    A:0.09155    G:0.38028
+Average         T:0.15023    C:0.31690    A:0.15023    G:0.38263
+
+#2: bmori_Epi_XM_004931326.3
+position  1:    T:0.18310    C:0.16197    A:0.29577    G:0.35915
+position  2:    T:0.30986    C:0.21831    A:0.25352    G:0.21831
+position  3:    T:0.33099    C:0.22535    A:0.21127    G:0.23239
+Average         T:0.27465    C:0.20188    A:0.25352    G:0.26995
+
+#3: chromohalobacter_salexigens_Epi_CP000285.1
+position  1:    T:0.12676    C:0.28169    A:0.18310    G:0.40845
+position  2:    T:0.26056    C:0.29577    A:0.25352    G:0.19014
+position  3:    T:0.21127    C:0.40141    A:0.06338    G:0.32394
+Average         T:0.19953    C:0.32629    A:0.16667    G:0.30751
+
+#4: providencia_rustigianii_Epi_LR134189.1
+position  1:    T:0.16197    C:0.19014    A:0.30282    G:0.34507
+position  2:    T:0.30282    C:0.19718    A:0.28873    G:0.21127
+position  3:    T:0.45070    C:0.20423    A:0.18310    G:0.16197
+Average         T:0.30516    C:0.19718    A:0.25822    G:0.23944
+
+#5: hmelpomene_Epi_HMEL009928
+position  1:    T:0.13380    C:0.26761    A:0.17606    G:0.42254
+position  2:    T:0.30282    C:0.21127    A:0.23944    G:0.24648
+position  3:    T:0.16901    C:0.39437    A:0.09155    G:0.34507
+Average         T:0.20188    C:0.29108    A:0.16901    G:0.33803
+
+#6: photorhabdus_luminescens_Epi_BX571867.1
+position  1:    T:0.17606    C:0.19718    A:0.30986    G:0.31690
+position  2:    T:0.30282    C:0.19718    A:0.33099    G:0.16901
+position  3:    T:0.38732    C:0.25352    A:0.19014    G:0.16901
+Average         T:0.28873    C:0.21596    A:0.27700    G:0.21831
+
+#7: providencia_rettgeri_Epi_CP029736.1
+position  1:    T:0.17606    C:0.19014    A:0.25352    G:0.38028
+position  2:    T:0.29577    C:0.21127    A:0.28169    G:0.21127
+position  3:    T:0.47183    C:0.21127    A:0.17606    G:0.14085
+Average         T:0.31455    C:0.20423    A:0.23709    G:0.24413
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      22 | Ser S TCT      10 | Tyr Y TAT       9 | Cys C TGT       9
+      TTC      22 |       TCC      11 |       TAC      11 |       TGC       7
+Leu L TTA       3 |       TCA       9 | *** * TAA       0 | *** * TGA       0
+      TTG      15 |       TCG       8 |       TAG       0 | Trp W TGG       8
+------------------------------------------------------------------------------
+Leu L CTT      17 | Pro P CCT      10 | His H CAT       8 | Arg R CGT      22
+      CTC      15 |       CCC       8 |       CAC      14 |       CGC      23
+      CTA       2 |       CCA      11 | Gln Q CAA      14 |       CGA       4
+      CTG      26 |       CCG      19 |       CAG      21 |       CGG      16
+------------------------------------------------------------------------------
+Ile I ATT      36 | Thr T ACT       8 | Asn N AAT      20 | Ser S AGT      11
+      ATC      20 |       ACC      13 |       AAC      22 |       AGC      20
+      ATA       5 |       ACA       9 | Lys K AAA      21 | Arg R AGA       4
+Met M ATG      16 |       ACG      10 |       AAG      16 |       AGG       2
+------------------------------------------------------------------------------
+Val V GTT      29 | Ala A GCT      27 | Asp D GAT      45 | Gly G GGT      25
+      GTC      23 |       GCC      23 |       GAC      22 |       GGC      40
+      GTA       8 |       GCA      20 | Glu E GAA      21 |       GGA      12
+      GTG      28 |       GCG      27 |       GAG      24 |       GGG      13
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.14487    C:0.23139    A:0.23441    G:0.38934
+position  2:    T:0.28873    C:0.22435    A:0.26962    G:0.21730
+position  3:    T:0.30986    C:0.29577    A:0.14386    G:0.25050
+Average         T:0.24782    C:0.25050    A:0.21596    G:0.28571
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01322452  0.01262341  0.00613996  0.01069125
+  0.01027550  0.00980843  0.00477077  0.00830714
+  0.01234903  0.01178771  0.00000000  0.00000000
+  0.00995295  0.00950054  0.00000000  0.00804638
+  0.02112250  0.02016239  0.00980688  0.01707631
+  0.01641226  0.01566625  0.00761998  0.01326835
+  0.01972415  0.01882760  0.00915764  0.01594582
+  0.01589707  0.01517448  0.00738078  0.01285186
+  0.02139801  0.02042538  0.00993479  0.01729904
+  0.01662633  0.01587059  0.00771937  0.01344142
+  0.01998142  0.01907317  0.00927709  0.01615381
+  0.01610443  0.01537241  0.00747706  0.01301949
+  0.03554090  0.03392541  0.01650113  0.02873274
+  0.02761541  0.02636016  0.01282144  0.02232544
+  0.03318802  0.03167948  0.01540872  0.02683058
+  0.02674855  0.02553271  0.01241897  0.02162464
+
+
+TREE #  1:  (1, ((4, 7), 6), ((2, 5), 3));   MP score: 547
+lnL(ntime: 11  np: 23):  -2948.407945      +0.000000
+   8..1     8..9     9..10   10..4    10..7     9..6     8..11   11..12   12..2    12..5    11..3  
+ 4.303620 0.132056 0.540677 0.333043 0.553587 0.839831 1.167686 1.332097 2.774530 0.533683 0.904281 1.599479 0.463779 0.293792 0.121609 0.132828 0.052144 0.091169 0.089833 0.075139 0.052682 1.181966 1.336460
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 13.415092
+
+(1: 4.303620, ((4: 0.333043, 7: 0.553587): 0.540677, 6: 0.839831): 0.132056, ((2: 2.774530, 5: 0.533683): 1.332097, 3: 0.904281): 1.167686);
+
+(aeromonas_caviae_Epi_CP025705.1: 4.303620, ((providencia_rustigianii_Epi_LR134189.1: 0.333043, providencia_rettgeri_Epi_CP029736.1: 0.553587): 0.540677, photorhabdus_luminescens_Epi_BX571867.1: 0.839831): 0.132056, ((bmori_Epi_XM_004931326.3: 2.774530, hmelpomene_Epi_HMEL009928: 0.533683): 1.332097, chromohalobacter_salexigens_Epi_CP000285.1: 0.904281): 1.167686);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.59948
+
+w (dN/dS) for branches:  0.46378 0.29379 0.12161 0.13283 0.05214 0.09117 0.08983 0.07514 0.05268 1.18197 1.33646
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   8..1      4.304   311.2   114.8  0.4638  1.0938  2.3585 340.4 270.7
+   8..9      0.132   311.2   114.8  0.2938  0.0267  0.0909   8.3  10.4
+   9..10     0.541   311.2   114.8  0.1216  0.0612  0.5031  19.0  57.7
+  10..4      0.333   311.2   114.8  0.1328  0.0402  0.3029  12.5  34.8
+  10..7      0.554   311.2   114.8  0.0521  0.0313  0.6001   9.7  68.9
+   9..6      0.840   311.2   114.8  0.0912  0.0760  0.8331  23.6  95.6
+   8..11     1.168   311.2   114.8  0.0898  0.1044  1.1618  32.5 133.3
+  11..12     1.332   311.2   114.8  0.0751  0.1029  1.3692  32.0 157.1
+  12..2      2.775   311.2   114.8  0.0527  0.1582  3.0038  49.3 344.7
+  12..5      0.534   311.2   114.8  1.1820  0.1856  0.1570  57.8  18.0
+  11..3      0.904   311.2   114.8  1.3365  0.3234  0.2420 100.6  27.8
+
+tree length for dN:       2.2037
+tree length for dS:      10.6224
+
+dS tree:
+(aeromonas_caviae_Epi_CP025705.1: 2.358514, ((providencia_rustigianii_Epi_LR134189.1: 0.302948, providencia_rettgeri_Epi_CP029736.1: 0.600095): 0.503071, photorhabdus_luminescens_Epi_BX571867.1: 0.833137): 0.090939, ((bmori_Epi_XM_004931326.3: 3.003782, hmelpomene_Epi_HMEL009928: 0.157020): 1.369202, chromohalobacter_salexigens_Epi_CP000285.1: 0.241951): 1.161755);
+dN tree:
+(aeromonas_caviae_Epi_CP025705.1: 1.093830, ((providencia_rustigianii_Epi_LR134189.1: 0.040240, providencia_rettgeri_Epi_CP029736.1: 0.031291): 0.061178, photorhabdus_luminescens_Epi_BX571867.1: 0.075957): 0.026717, ((bmori_Epi_XM_004931326.3: 0.158246, hmelpomene_Epi_HMEL009928: 0.185592): 0.102881, chromohalobacter_salexigens_Epi_CP000285.1: 0.323358): 0.104364);
+
+w ratios as labels for TreeView:
+(aeromonas_caviae_Epi_CP025705.1 #0.463779 , ((providencia_rustigianii_Epi_LR134189.1 #0.132828 , providencia_rettgeri_Epi_CP029736.1 #0.0521437 ) #0.121609 , photorhabdus_luminescens_Epi_BX571867.1 #0.0911694 ) #0.293792 , ((bmori_Epi_XM_004931326.3 #0.0526822 , hmelpomene_Epi_HMEL009928 #1.18197 ) #0.0751395 , chromohalobacter_salexigens_Epi_CP000285.1 #1.33646 ) #0.089833 );
+
+
+Time used:  0:51

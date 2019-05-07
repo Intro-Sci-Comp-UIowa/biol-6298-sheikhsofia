@@ -123,10 +123,8 @@ Figure 6A shows horizontally transferred genes in *B. mori* on the x-axis and ch
 
 In order to reproduce the graphs in figure 6, the following steps will be taken: 
 1. Verify HGTs identified and the donor source via BLAST searches
-2. Collect sequence data for homologous pair of lepidopteran recipient and bacterial/fungal donor gene from RefSeq/NCBI
-3. Use PAML 4 package in UNIX for selection analysis via ML substitution tests. 
+2. Collect sequence data for homologous pair of lepidopteran recipient and bacterial/fungal donor gene from RefSeq/NCBI, and related species using supplementary data
+3. Create multiple sequence alignments and phylogenetic trees for selection analysis
+4. Use PAML 4 package in UNIX for selection analysis via ML substitution tests. 
 - Within PAML 4, CODEML free-ratio and site-specific models will be used to identify positively selected sites.
 
-## Caveats 
-
-There are a few gaps within the pipeline presented in the paper that complicate the possibility of reproducing the figure accurately. For example, sequence alignment program and codeml parameters are not specified. Additionally, the original gene ID's provided in referenced papers used by Sun *et al* are stored in a database that is inaccessible. 

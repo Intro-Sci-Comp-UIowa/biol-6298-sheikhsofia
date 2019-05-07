@@ -1,0 +1,208 @@
+
+Before deleting alignment gaps
+      6    369
+
+bmori_Agp_CDS_AB104488.1        CGC GGT GGC CGC GTT CGC CGT ??? CTC CTG CGG CCC GCC AGG GAA ACC GAA CCT CGG CTG CGC ACG TTC GCG ATC GTC GAA GTC AAC CAA GCG GCC ??? CAA CCA GCT ACG CCG CCG ACG TCT CCG TCA ACT GGA ACG TGT GGA CCG GCG ACG CGG CCG ATC ??? AGT CCT GCT CGA ??? GTC TGG AGC GGT GCC GGC AGC GCC ACA TCG GCC GCT TTC AAA GAA GAA GGG CGG AAG ATA CCA GAT GCA GGT CGA GCT CTG CAA CTC AGA CGG ATC TCT AGC GAG GGC GTC GAA ATC GTA GTA GCT GAC ACT GAT GGT AGC CAT TTG AGG CCT CTC GAT TAT TCT ATT GAA ??? ??? ??? CTT ??? GCA 
+hmelpomene_AgpHMEL011458        AGC CGT CAC AAC GGA CTC CTT ??? CTA AGA AAG TTC TCT TCC AAT CCC TGG CCT GAG TGT GAC AAG GGA GCT AAA TTA GAA GAA GAT TTA GGT GAA ??? GGA AAC CTT ACT CTA TTT TCG TTT ACT CCA ATA CTA GGC AAA GGA CCA AAG AAT CAG CAA ATG ??? TGT AAC AGT TTA ??? ATG TTC AAT CCT ATT ATA CGT AAC GAT TCA CTC ATA TTA AAA GTT GTA ATA AAT GAA ATG GAG GCA GCT TTA GAT AAA TTA GAC CTT AAA GAG TCT TAT GAT TTA TTG GAG AAA ATA TTA GAC CTG GAA AAT TCT CCA GCG TGC AAG AAT GAT GGC ATA TGC AGT TTT GGT ??? ??? ??? AAT ??? ATA 
+donor_Agp_CDS                   AGT CGG CAC AAT GTG CCC CAC ??? CCA ATA AAA TCG ACC CCC AAA GCC TGG CCG CAG TGC ACC AAA GGC GGC GTG CTA GAG GTG TAC ATG GGG CAC ??? GCA GGG GCT AGG CGG TGT ATG CCT ACG CCA ACA GCC TGC AGC GCA CCG TCG CCA CTG CGC ATG ??? TAT CAC GGT GCA ??? ACG TTT AAC CCG GTG ATT ACG GAT GCC TCG CCG ACG TTT CGC GAG GCG CTG AAG GCG ATG GAA AGT GAA CGG CAG AAA ATG CAC CTG GGC GAT AGC TAC AGG CTG CTG GCG CAG ATC GTG GAC TAT CAA GAT TCC CCG GCA TGC AAA GAG AAG CAC CTG TGT TCG CTG GGG ??? ??? ??? CTT ??? CGC 
+eictaluri_Apg_CP028813.1        AGT CGG CAC AAT GTG CCC CGC ??? CCA ATA AAA TCA ACC GCC AAA GCC TGG CCG CAG TGC ACC AAA GGT GGC GTG CTG GAG GTG TAC ATG GGG CAC ??? GCA GGG ACT ATT CGG TAT ATG CCT ATG CCA ACA GCC TGC AGC GTA CCG TTG CCA CTG CGC ATG ??? TAT CGC GGT GCA ??? ACG TTT AAC CCG GTG ATT ACG GAT GCC TCT CCG TCG TTT CGC GAG GCG CTG AAG GAG ATG GAG AGT GAA CGG AAG AAA ATA CAC CTT ACT GAT AGC TAT AGG CTG CTG GCA CAG ATC GTG AAC TAT AAA AAC TCT CCC GTA TGC AAA GAG AAG CAC TTG TGT TCG TTG GGG ??? ??? ??? TTT ??? AGC 
+kaerogenes_Agp_LR134253         AGC CGC CAC AAC GCG CGC CGC ??? CGA ATA AAG TCA ACG CCG AAA TCC TGG CCG GAG TGC ACC AAG GGC GGG GTG CTG GAA GTC TAT ATG GGG CAC ??? GCA GAA GCT ACG CGG TGT ATG CCT ATG CTA ATA GCC TGC AGC GCA CCG TCG CGA CCG CCC ATG ??? CGT AAC CGT CCA ??? ACC TTT AAC CCG GTT ATC ACC GAT GAC TCC GCG GCG TTT AGC GAA GCG GTG CAG GCA ATG GAG GCA GAG CGG CAA AAA ATG CAG CTC ACC GAG AGC TAC AAG CTG CTC GAA GAG ATG ACC GAC TAT CGC AAT TCG CCT TCC TGC AAA GAG AAG CAG CAG TGT TCG CTG AGG ??? ??? ??? CTT ??? CGC 
+kpneumoniae_Agp_LR134196.1      AGT CGT CAT AAC GCG CGC CGC ??? CCA ATA AAG TCC ACC GCC AAA GCC TGG CCG CAG TGC ACC AAA GGC GGC GTG CTG GAG GTG TAT ATG GGC CAC ??? ACA GAA GCT ACG CCG TTT ACG CCT ACG CTA ACA GCC TGC AGC GCA CCG TCG CCA CTG CGC ATG ??? CAT TGC GGT GCA ??? ACC TTC AAC CCG GTT ATC ACC GAC GAC TCC CCG GCG TTT CGC GAA GCG CTG CAG GCG ATG GAA AAA GAG CGC CAG GGG ATG CAG TTG ACC GAG AGC TAC AAG CTG CTG GAG ACG ATG ATC GAT TAC CGC AAC TCG CCC TCC TGC AAA GAG AAG CAG GTC TGT TCC CTG AGG ??? ??? ??? CTT ??? CGC 
+
+
+
+After deleting gaps. 345 sites
+      6    345
+
+bmori_Agp_CDS_AB104488.1        CGC GGT GGC CGC GTT CGC CGT CTC CTG CGG CCC GCC AGG GAA ACC GAA CCT CGG CTG CGC ACG TTC GCG ATC GTC GAA GTC AAC CAA GCG GCC CAA CCA GCT ACG CCG CCG ACG TCT CCG TCA ACT GGA ACG TGT GGA CCG GCG ACG CGG CCG ATC AGT CCT GCT CGA GTC TGG AGC GGT GCC GGC AGC GCC ACA TCG GCC GCT TTC AAA GAA GAA GGG CGG AAG ATA CCA GAT GCA GGT CGA GCT CTG CAA CTC AGA CGG ATC TCT AGC GAG GGC GTC GAA ATC GTA GTA GCT GAC ACT GAT GGT AGC CAT TTG AGG CCT CTC GAT TAT TCT ATT GAA CTT GCA 
+hmelpomene_AgpHMEL011458        AGC CGT CAC AAC GGA CTC CTT CTA AGA AAG TTC TCT TCC AAT CCC TGG CCT GAG TGT GAC AAG GGA GCT AAA TTA GAA GAA GAT TTA GGT GAA GGA AAC CTT ACT CTA TTT TCG TTT ACT CCA ATA CTA GGC AAA GGA CCA AAG AAT CAG CAA ATG TGT AAC AGT TTA ATG TTC AAT CCT ATT ATA CGT AAC GAT TCA CTC ATA TTA AAA GTT GTA ATA AAT GAA ATG GAG GCA GCT TTA GAT AAA TTA GAC CTT AAA GAG TCT TAT GAT TTA TTG GAG AAA ATA TTA GAC CTG GAA AAT TCT CCA GCG TGC AAG AAT GAT GGC ATA TGC AGT TTT GGT AAT ATA 
+donor_Agp_CDS                   AGT CGG CAC AAT GTG CCC CAC CCA ATA AAA TCG ACC CCC AAA GCC TGG CCG CAG TGC ACC AAA GGC GGC GTG CTA GAG GTG TAC ATG GGG CAC GCA GGG GCT AGG CGG TGT ATG CCT ACG CCA ACA GCC TGC AGC GCA CCG TCG CCA CTG CGC ATG TAT CAC GGT GCA ACG TTT AAC CCG GTG ATT ACG GAT GCC TCG CCG ACG TTT CGC GAG GCG CTG AAG GCG ATG GAA AGT GAA CGG CAG AAA ATG CAC CTG GGC GAT AGC TAC AGG CTG CTG GCG CAG ATC GTG GAC TAT CAA GAT TCC CCG GCA TGC AAA GAG AAG CAC CTG TGT TCG CTG GGG CTT CGC 
+eictaluri_Apg_CP028813.1        AGT CGG CAC AAT GTG CCC CGC CCA ATA AAA TCA ACC GCC AAA GCC TGG CCG CAG TGC ACC AAA GGT GGC GTG CTG GAG GTG TAC ATG GGG CAC GCA GGG ACT ATT CGG TAT ATG CCT ATG CCA ACA GCC TGC AGC GTA CCG TTG CCA CTG CGC ATG TAT CGC GGT GCA ACG TTT AAC CCG GTG ATT ACG GAT GCC TCT CCG TCG TTT CGC GAG GCG CTG AAG GAG ATG GAG AGT GAA CGG AAG AAA ATA CAC CTT ACT GAT AGC TAT AGG CTG CTG GCA CAG ATC GTG AAC TAT AAA AAC TCT CCC GTA TGC AAA GAG AAG CAC TTG TGT TCG TTG GGG TTT AGC 
+kaerogenes_Agp_LR134253         AGC CGC CAC AAC GCG CGC CGC CGA ATA AAG TCA ACG CCG AAA TCC TGG CCG GAG TGC ACC AAG GGC GGG GTG CTG GAA GTC TAT ATG GGG CAC GCA GAA GCT ACG CGG TGT ATG CCT ATG CTA ATA GCC TGC AGC GCA CCG TCG CGA CCG CCC ATG CGT AAC CGT CCA ACC TTT AAC CCG GTT ATC ACC GAT GAC TCC GCG GCG TTT AGC GAA GCG GTG CAG GCA ATG GAG GCA GAG CGG CAA AAA ATG CAG CTC ACC GAG AGC TAC AAG CTG CTC GAA GAG ATG ACC GAC TAT CGC AAT TCG CCT TCC TGC AAA GAG AAG CAG CAG TGT TCG CTG AGG CTT CGC 
+kpneumoniae_Agp_LR134196.1      AGT CGT CAT AAC GCG CGC CGC CCA ATA AAG TCC ACC GCC AAA GCC TGG CCG CAG TGC ACC AAA GGC GGC GTG CTG GAG GTG TAT ATG GGC CAC ACA GAA GCT ACG CCG TTT ACG CCT ACG CTA ACA GCC TGC AGC GCA CCG TCG CCA CTG CGC ATG CAT TGC GGT GCA ACC TTC AAC CCG GTT ATC ACC GAC GAC TCC CCG GCG TTT CGC GAA GCG CTG CAG GCG ATG GAA AAA GAG CGC CAG GGG ATG CAG TTG ACC GAG AGC TAC AAG CTG CTG GAG ACG ATG ATC GAT TAC CGC AAC TCG CCC TCC TGC AAA GAG AAG CAG GTC TGT TCC CTG AGG CTT CGC 
+
+
+
+Printing out site pattern counts
+
+
+         6        345  P
+
+bmori_Agp_CDS_AB104488.1        AAA AAC AAG ACA ACC ACG ACG ACG ACG ACG ACT ACT AGA AGC AGC AGC AGC AGG AGG AGT ATA ATC ATC ATC ATC ATT CAA CAA CAA CAT CCA CCA CCC CCG CCG CCG CCG CCG CCT CCT CCT CGA CGA CGC CGC CGC CGC CGG CGG CGG CGG CGG CGT CTC CTC CTC CTG CTG CTG CTT GAA GAA GAA GAA GAA GAA GAA GAC GAG GAT GAT GAT GCA GCA GCC GCC GCC GCC GCC GCG GCG GCG GCT GCT GCT GCT GCT GGA GGA GGC GGC GGC GGG GGT GGT GGT GGT GTA GTA GTC GTC GTC GTC GTT TAT TCA TCG TCT TCT TCT TGG TGT TTC TTC TTG 
+hmelpomene_AgpHMEL011458        ... G.T G.A GAT C.. .A. .AT ..T GGC T.. .A. .TA .A. .AT C.T GAT GCG .AT TCC T.. ..G .AA ..A ..G TCT T.. G.C GG. TT. TGC AAC GAG TT. A.T .AA ..A .TA TTT AAC ... GA. GAT TT. AA. A.. .T. GA. AA. AAT .A. GA. GA. .T. ..A ..T GG. AGA TGT T.A AA. A.. A.T ... .GT .T. .TT TGG ..A TTA ATA .CA TC. AT. ..T AA. ATT CT. .AA T.T AA. ..T .GT AAA AG. ATA CTG CT. CT. ... ATA CA. TTG ATA CCA CC. C.. TTA .AC T.. A.G .AA .AG T.A .GA .GC C.. ..A AG. .A. .T. .TC AAA GGA ..A AA. 
+donor_Agp_CDS                   CGC T.. GC. G.C G.. .AA C.A .G. TGC .T. GA. ..A G.C .A. .CG ..G GCA GA. CCC TA. ..G G.G ... ..G .G. C.G ..C GC. ATG TGC GGG GA. T.G A.. .GC ... .G. TGT .AC ..G AAG .AG GC. AAT A.T .C. AC. AAA AA. .T. .A. GAT .AC .CA ..G .A. A.A TGC A.. ... C.G A.. ..G .GG .CG ..G TGG C.A CT. CTG AG. TCC CGC .A. .AT .TG C.G CA. A.. T.. .GC .G. AAA .G. A.G TA. ... .CC .C. ATT CA. CTG CT. CCG CCG C.G C.G .AC ..G ACG ..G .CG C.A ..G .G. C.. ... ..G .AC C.. .TT A.C GG. ..T AAA 
+eictaluri_Apg_CP028813.1        CGC T.. G.. G.C G.. .AA C.A .TT TGC .T. .AC ..A .CT .A. .CG ..G GTA GA. GCC TA. ..G G.G ... ..G .G. T.G ..C GC. ATG TGC GGG GAG T.A AT. .GC ... .G. TAT .GC ..G AAG AAG GC. AAT A.T .C. AC. AAA AA. .T. .A. GAT ..C .CA ..T .A. A.A TGC A.A T.. C.G A.. ..G .GG .CG ..G TGG A.A CT. TTG AG. TC. AGC .A. .AT .TG C.G CA. A.. TT. .GC .G. AAA .G. T.G TA. A.. .CC .T. ATT CA. CTG CT. CCC CCG C.G C.G AAC ..G ACG ..G .CA C.G ..G .G. C.. ..T ..G .A. C.. .TT A.C GGT ..T AAA 
+kaerogenes_Agp_LR134253         .GC T.T GCA GAC T.. .A. CGA ... TGC .T. .A. .TA .CC .A. .C. .AG TC. GA. CC. C.. ..G G.G ..G ..G .G. C.G ..G GC. ATG TGC GA. GAG T.A AT. ..C ... .G. TGT AAC ..G AAG .A. .C. AA. A.. ... AC. AA. .A. .C. GA. GA. ..C .GA ... .AG A.A TGC A.. ... ..G A.. ... AGG .CG ... TGG CG. CT. C.G .CA TCG CGC .AG .AT .TT ..G CA. A.G T.. .G. .G. AAA CG. ..G TA. ... .CC .C. AT. CA. CT. .T. CC. CCG C.C C.G .AC ACC AC. ... .AA C.G .CG .G. CT. ..C ..G .AC C.. .TT A.C GG. ..T AAA 
+kpneumoniae_Agp_LR134196.1      CGC T.T GC. GAC G.. .AA C.A ... TGC ... .AC ..A .CC .A. .C. .AG TC. GA. GCC CA. ..G G.G ..G ..G .G. C.G ..G AC. ATG TGC GA. GA. T.. A.. .GC ... ... TTT TGC ..G AAG .AG GC. AA. A.T ... AC. AA. .A. .T. .A. GA. ..C .CA T.G .AG A.A TGC A.. ... ACG A.. ..G AGG .CG ... TGG CG. CT. .TC A.A TCG CGC .AG .A. .TT C.G CA. A.. T.. .GC .GC .GG .G. ..G TAC ... .CC .C. AT. CAT CTG CT. CCC CCG C.. C.C .AT A.C AC. ..G .AG C.G .CG .G. CT. ..C ..C .AC C.. .TC A.C GG. ..T AAA 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1
+
+CODONML (in paml version 4.9i, September 2018)  Agp_gblocks_alignment.fasta
+Model: free dN/dS Ratios for branches, 
+Codon frequency model: F3x4
+ns =   6  ls = 115
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   0   3   2   3   2   2 | Ser TCT   3   3   0   2   0   0 | Tyr TAT   1   1   2   4   2   1 | Cys TGT   1   2   2   1   2   1
+    TTC   2   2   0   0   0   1 |     TCC   0   1   1   0   3   4 |     TAC   0   0   2   1   1   2 |     TGC   0   2   3   3   3   4
+Leu TTA   0   8   0   0   0   0 |     TCA   1   1   0   1   1   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   0   3   0   1 |     TCG   1   1   4   2   3   2 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   1   3   1   1   1   1 | Pro CCT   3   2   1   1   2   1 | His CAT   1   0   0   0   0   2 | Arg CGT   1   2   0   0   2   1
+    CTC   3   2   0   0   2   0 |     CCC   1   1   2   2   1   1 |     CAC   0   1   6   4   2   1 |     CGC   4   0   3   4   5   7
+    CTA   0   3   1   0   1   1 |     CCA   2   3   3   3   1   2 | Gln CAA   3   1   1   0   1   0 |     CGA   2   0   0   0   2   0
+    CTG   3   1   7   5   3   6 |     CCG   5   0   5   4   5   5 |     CAG   0   1   3   2   4   5 |     CGG   5   0   3   3   2   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   1   1   2   0   0 | Thr ACT   2   2   0   2   0   0 | Asn AAT   0   7   1   1   1   0 | Ser AGT   1   2   2   2   0   1
+    ATC   4   0   1   1   1   2 |     ACC   1   0   2   2   5   5 |     AAC   1   4   1   3   3   3 |     AGC   4   1   2   3   4   2
+    ATA   1   7   1   2   2   1 |     ACA   1   0   1   1   0   2 | Lys AAA   1   6   5   6   3   4 | Arg AGA   1   1   0   0   0   0
+Met ATG   0   3   5   5   7   5 |     ACG   5   0   4   2   2   4 |     AAG   1   4   2   3   4   3 |     AGG   2   0   2   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   1   1   0   0   1   1 | Ala GCT   5   2   1   0   1   1 | Asp GAT   3   5   3   2   1   1 | Gly GGT   4   2   1   2   0   1
+    GTC   4   0   0   0   1   1 |     GCC   5   0   3   4   1   3 |     GAC   1   3   1   0   2   2 |     GGC   3   2   3   1   1   3
+    GTA   2   1   0   2   0   0 |     GCA   2   1   4   3   4   2 | Glu GAA   7   5   2   1   4   3 |     GGA   2   4   0   0   0   0
+    GTG   0   0   5   5   2   2 |     GCG   3   1   3   1   4   4 |     GAG   1   4   3   5   6   5 |     GGG   1   0   3   3   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: bmori_Agp_CDS_AB104488.1
+position  1:    T:0.09565    C:0.29565    A:0.22609    G:0.38261
+position  2:    T:0.20000    C:0.34783    A:0.17391    G:0.27826
+position  3:    T:0.24348    C:0.28696    A:0.21739    G:0.25217
+Average         T:0.17971    C:0.31014    A:0.20580    G:0.30435
+
+#2: hmelpomene_AgpHMEL011458
+position  1:    T:0.22609    C:0.17391    A:0.33043    G:0.26957
+position  2:    T:0.31304    C:0.15652    A:0.36522    G:0.16522
+position  3:    T:0.33043    C:0.16522    A:0.35652    G:0.14783
+Average         T:0.28986    C:0.16522    A:0.35072    G:0.19420
+
+#3: donor_Agp_CDS  
+position  1:    T:0.14783    C:0.31304    A:0.26087    G:0.27826
+position  2:    T:0.20870    C:0.29565    A:0.27826    G:0.21739
+position  3:    T:0.14783    C:0.26087    A:0.15652    G:0.43478
+Average         T:0.16812    C:0.28986    A:0.23188    G:0.31014
+
+#4: eictaluri_Apg_CP028813.1
+position  1:    T:0.18261    C:0.25217    A:0.31304    G:0.25217
+position  2:    T:0.25217    C:0.26087    A:0.27826    G:0.20870
+position  3:    T:0.20000    C:0.24348    A:0.16522    G:0.39130
+Average         T:0.21159    C:0.25217    A:0.25217    G:0.28406
+
+#5: kaerogenes_Agp_LR134253
+position  1:    T:0.15652    C:0.29565    A:0.28696    G:0.26087
+position  2:    T:0.20000    C:0.28696    A:0.29565    G:0.21739
+position  3:    T:0.13043    C:0.30435    A:0.16522    G:0.40000
+Average         T:0.16232    C:0.29565    A:0.24928    G:0.29275
+
+#6: kpneumoniae_Agp_LR134196.1
+position  1:    T:0.16522    C:0.28696    A:0.28696    G:0.26087
+position  2:    T:0.20870    C:0.31304    A:0.27826    G:0.20000
+position  3:    T:0.12174    C:0.35652    A:0.13043    G:0.39130
+Average         T:0.16522    C:0.31884    A:0.23188    G:0.28406
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      12 | Ser S TCT       8 | Tyr Y TAT      11 | Cys C TGT       9
+      TTC       5 |       TCC       9 |       TAC       6 |       TGC      15
+Leu L TTA       8 |       TCA       4 | *** * TAA       0 | *** * TGA       0
+      TTG       6 |       TCG      13 |       TAG       0 | Trp W TGG       6
+------------------------------------------------------------------------------
+Leu L CTT       8 | Pro P CCT      10 | His H CAT       3 | Arg R CGT       6
+      CTC       7 |       CCC       8 |       CAC      14 |       CGC      23
+      CTA       6 |       CCA      14 | Gln Q CAA       6 |       CGA       4
+      CTG      25 |       CCG      24 |       CAG      15 |       CGG      13
+------------------------------------------------------------------------------
+Ile I ATT       5 | Thr T ACT       6 | Asn N AAT      10 | Ser S AGT       8
+      ATC       9 |       ACC      15 |       AAC      15 |       AGC      16
+      ATA      14 |       ACA       5 | Lys K AAA      25 | Arg R AGA       2
+Met M ATG      25 |       ACG      17 |       AAG      17 |       AGG       7
+------------------------------------------------------------------------------
+Val V GTT       4 | Ala A GCT      10 | Asp D GAT      15 | Gly G GGT      10
+      GTC       6 |       GCC      16 |       GAC       9 |       GGC      13
+      GTA       5 |       GCA      16 | Glu E GAA      22 |       GGA       6
+      GTG      14 |       GCG      16 |       GAG      24 |       GGG      10
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.16232    C:0.26957    A:0.28406    G:0.28406
+position  2:    T:0.23043    C:0.27681    A:0.27826    G:0.21449
+position  3:    T:0.19565    C:0.26957    A:0.19855    G:0.33623
+Average         T:0.19614    C:0.27198    A:0.25362    G:0.27826
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00755280  0.01040608  0.00766469  0.01297963
+  0.00907286  0.01250039  0.00920727  0.01559188
+  0.00912036  0.01256583  0.00000000  0.00000000
+  0.00703028  0.00968616  0.00000000  0.01208167
+  0.01254304  0.01728153  0.01272887  0.02155545
+  0.01506743  0.02075957  0.01529065  0.02589366
+  0.01514632  0.02086826  0.01537071  0.02602923
+  0.01167529  0.01608595  0.01184825  0.02006420
+  0.01321740  0.01821064  0.01341321  0.02271435
+  0.01587751  0.02187568  0.01611273  0.02728579
+  0.01596064  0.02199021  0.01619709  0.02742865
+  0.01230299  0.01695079  0.01248526  0.02114292
+  0.01321740  0.01821064  0.01341321  0.02271435
+  0.01587751  0.02187568  0.01611273  0.02728579
+  0.01596064  0.02199021  0.01619709  0.02742865
+  0.01230299  0.01695079  0.01248526  0.02114292
+
+
+TREE #  1:  (1, 5, ((2, (3, 4)), 6));   MP score: 321
+lnL(ntime:  9  np: 19):  -1886.342759      +0.000000
+   7..1     7..5     7..8     8..9     9..2     9..10   10..3    10..4     8..6  
+ 3.494869 0.058119 0.282681 0.332962 6.793354 0.087210 0.083943 0.260014 0.260497 1.708922 1.359024 999.000000 0.252626 0.208366 0.078692 999.000000 0.400567 0.499683 0.207140
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 11.653648
+
+(1: 3.494869, 5: 0.058119, ((2: 6.793354, (3: 0.083943, 4: 0.260014): 0.087210): 0.332962, 6: 0.260497): 0.282681);
+
+(bmori_Agp_CDS_AB104488.1: 3.494869, kaerogenes_Agp_LR134253: 0.058119, ((hmelpomene_AgpHMEL011458: 6.793354, (donor_Agp_CDS: 0.083943, eictaluri_Apg_CP028813.1: 0.260014): 0.087210): 0.332962, kpneumoniae_Agp_LR134196.1: 0.260497): 0.282681);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.70892
+
+w (dN/dS) for branches:  1.35902 999.00000 0.25263 0.20837 0.07869 999.00000 0.40057 0.49968 0.20714
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   7..1      3.495   254.9    90.1  1.3590  1.2512  0.9207 319.0  82.9
+   7..5      0.058   254.9    90.1 999.0000  0.0262  0.0000   6.7   0.0
+   7..8      0.283   254.9    90.1  0.2526  0.0532  0.2105  13.6  19.0
+   8..9      0.333   254.9    90.1  0.2084  0.0557  0.2674  14.2  24.1
+   9..2      6.793   254.9    90.1  0.0787  0.5583  7.0943 142.3 638.9
+   9..10     0.087   254.9    90.1 999.0000  0.0393  0.0000  10.0   0.0
+  10..3      0.084   254.9    90.1  0.4006  0.0201  0.0502   5.1   4.5
+  10..4      0.260   254.9    90.1  0.4997  0.0687  0.1375  17.5  12.4
+   8..6      0.260   254.9    90.1  0.2071  0.0434  0.2097  11.1  18.9
+
+tree length for dN:       2.1162
+tree length for dS:       8.8903
+
+dS tree:
+(bmori_Agp_CDS_AB104488.1: 0.920694, kaerogenes_Agp_LR134253: 0.000026, ((hmelpomene_AgpHMEL011458: 7.094268, (donor_Agp_CDS: 0.050231, eictaluri_Apg_CP028813.1: 0.137511): 0.000039): 0.267428, kpneumoniae_Agp_LR134196.1: 0.209683): 0.210458);
+dN tree:
+(bmori_Agp_CDS_AB104488.1: 1.251245, kaerogenes_Agp_LR134253: 0.026207, ((hmelpomene_AgpHMEL011458: 0.558265, (donor_Agp_CDS: 0.020121, eictaluri_Apg_CP028813.1: 0.068712): 0.039325): 0.055723, kpneumoniae_Agp_LR134196.1: 0.043434): 0.053167);
+
+w ratios as labels for TreeView:
+(bmori_Agp_CDS_AB104488.1 #1.35902 , kaerogenes_Agp_LR134253 #999 , ((hmelpomene_AgpHMEL011458 #0.0786924 , (donor_Agp_CDS #0.400567 , eictaluri_Apg_CP028813.1 #0.499683 ) #999 ) #0.208366 , kpneumoniae_Agp_LR134196.1 #0.20714 ) #0.252626 );
+
+
+Time used:  0:25

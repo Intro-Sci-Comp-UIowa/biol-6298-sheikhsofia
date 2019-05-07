@@ -1,0 +1,189 @@
+
+Before deleting alignment gaps
+      4    564
+
+bmori_GlpQ                      ATG ACG AAA GAC GGG CAT CTA ATA GCG AGA CAT GAC AAT GAA CTA GGA CAT CCA CAA TTT GCT ACT ATA TCG GAC GCA GTA CGT ??? CGG ??? ??? TTG GTT TAC ??? AGA TCT TGC ??? AAT CAA AAT GTT GCG TGC TAT AGA ACG TAT TCT AGC AAA AGG CAT GGA AAT AAG TTA CGG ACG ACG TAT TGG TAT CTA CCC AGA AAT CAA ACA ??? TAC CCA CTT TCA ACA TCT GGG TCT GGA AAA ACC ATT AGT ACC ??? AGC TCC CAT TTA TAT TCA ATC GTT ??? AGT ??? ??? TCT AAA AGA ATT GAG TCA GAT TAC TGG GTT AAT ACA ACT CCA GCC ATA ??? TCA TCC ??? GGG CCT ACG ??? CAT CGC AAG GTA CGC TTA TGC AGT CAT ACC TCG ??? ??? AAA ??? ??? GCT AGG TCA ACC AAC CAG TTT TGT TCG ??? TGC CCA CTC AGT CAA TTT ??? AGT GCA TCC ATA CAC GTT TCG CGC CGA AAA TCT CTA CCT GCC AGG AAT AGA CGG CAT GTT TTC ??? TCA ACC ??? TAT CTC TGT ??? TTA GAG ??? 
+pseudomonas_aeruginosa_GlpQ     ATG ACC CGC GAC GGC AAG CTG GTC GCC CGC CAC GAC AAC GAG CTG GGC CAC CCG GAA TTC GCC GAC CAA GCG CAC GCA GAA AGT ??? CGG ??? ??? CTG GTT CAG ??? AGA CCT CGC ??? ACT GAA GAC CCT GCG CGC CAT CGA GCG CAT CCT GGT GAA AAG CCT GCA GAT CAG CCA GCA ACG CAC CAT CGG CCT GTA CCC CGA GAT CAA GCA ??? CAC CCA CTT CCA GCG CCT CGG CCT GGA ACG CCC GCT GGT TCC ??? CGC GCC GGT ATT CAT CCA GTC CTT ??? GGT ??? ??? CCT GAA GGA ACT CAA GCG CCT CAC CGG CCT GGT CCA GCT CCA GCC CTA ??? CCA CGC ??? GGG CCT GCG ??? GGT GGC GCG CTA CGC CTA CGG GGT GAT TCC CCG ??? ??? CAA ??? ??? CCT CGG CCA GCC GAC CCG CTT CGT CGG ??? CGC CCA CGC CGC CGG GCT ??? GGT GCA TCC CTA CAC CTT CCG CGC GGA AAA CAG CTT CCT TCC CGG CAT CGA CGG CCT GTT CAG ??? CCA GCC ??? CGT CGC CGT ??? TGC GCG ??? 
+HMEL011728-RA_GlpQ              ATG ACC AAA GAT GGC CAG TTA ATC GCA AGA CAC GAT AAT GAA CTT GGA CAT CCA GAA TTC GCA CAT TCA AAA AAC TCA GAA AGT ??? TGG ??? ??? ATG GTT TAC ??? AGA TTT AGA ??? AAT CAA AAT GTT AAG AGC AGT AGA ACG TAT TTT AGT AAA GGG ATT ACA AAT AAG TTT GAA AAA AAG TAT AGG TAT CTA CCC AGA AAT AAA ACA ??? CAG TCA TTT CAA GCA GTT AGG GCT GGA GGA AGT TCT TGT TTC ??? TGC ACC TGT TTA TAT TCA ATC ATT ??? GGT ??? ??? TTT GAA GGA ATT GAA GAA ATT GAC AAA ACT ATT ACA GTT ACA GCC TGC ??? TCA ACC ??? AGG ACT TGC ??? AGT AGC AAA GTA TGC AGC AGC TGT AAT TCC TCG ??? ??? CAA ??? ??? TCT TGG AGA ACC AAC GAG TTT CGT TGC ??? CGC TCA TGC GAA TGG ACT ??? AGT TCA TCC CTA TAC CTT CCG AGC AGA AAA TAC GTT CCT TCC TGG AAT AGA TGG CCT TTT TTC ??? TCA ACC ??? TTT AGT TTA ??? GTC CAG ??? 
+pseudomonas_pseudoalcaligenes_GlpQ  ATG ACC CGC GAC GGC CAA CTG GTC GCC CGC CAT GAC AAC GAA CTG GGG CGC CCC GAG TTC GCC GAA CAA GCG TAC CCA GAC GGT ??? TGG ??? ??? CTG GTT CAG ??? GGA CCT GGC ??? GCT GAA AAC CCT GCG CGC CAT CGA ACG CAT TCT GGT GAA ACG GCT GGA AGC CCT CCA GCA ACG GAA CAT AGG ACT GTA CCC GGA AAC CAA GCA ??? CAC CCA CTT CCA GCA ACT CGA CCT GGA GAA ACC GCT GCT CGC ??? CGC GCC CGT TTT CAT CCA GTC CTT ??? AGT ??? ??? CCT CAA GAC GCT GAG CAA ACT GAC CCC CCT GGT GCA GCT CCA ACC CTA ??? TCA GCC ??? AGG CCT GAA ??? CAT CGC GCG TTA CGC CAG CGG CAT CAT CCC GCG ??? ??? CGC ??? ??? CCT CAC AGA GCC GAC CAG CCT GGT ACG ??? CGC CCA TGC GGC CGG GCT ??? GGT GCA CCC CTA TAC CTT CCG CGC CGA GAA CGC CTT CCT ACC CGG CAT CGA CGG CCT GTT CAT ??? CCA ACC ??? CAT CGC CGT ??? TGC GCC ??? 
+
+
+
+After deleting gaps. 495 sites
+      4    495
+
+bmori_GlpQ                      ATG ACG AAA GAC GGG CAT CTA ATA GCG AGA CAT GAC AAT GAA CTA GGA CAT CCA CAA TTT GCT ACT ATA TCG GAC GCA GTA CGT CGG TTG GTT TAC AGA TCT TGC AAT CAA AAT GTT GCG TGC TAT AGA ACG TAT TCT AGC AAA AGG CAT GGA AAT AAG TTA CGG ACG ACG TAT TGG TAT CTA CCC AGA AAT CAA ACA TAC CCA CTT TCA ACA TCT GGG TCT GGA AAA ACC ATT AGT ACC AGC TCC CAT TTA TAT TCA ATC GTT AGT TCT AAA AGA ATT GAG TCA GAT TAC TGG GTT AAT ACA ACT CCA GCC ATA TCA TCC GGG CCT ACG CAT CGC AAG GTA CGC TTA TGC AGT CAT ACC TCG AAA GCT AGG TCA ACC AAC CAG TTT TGT TCG TGC CCA CTC AGT CAA TTT AGT GCA TCC ATA CAC GTT TCG CGC CGA AAA TCT CTA CCT GCC AGG AAT AGA CGG CAT GTT TTC TCA ACC TAT CTC TGT TTA GAG 
+pseudomonas_aeruginosa_GlpQ     ATG ACC CGC GAC GGC AAG CTG GTC GCC CGC CAC GAC AAC GAG CTG GGC CAC CCG GAA TTC GCC GAC CAA GCG CAC GCA GAA AGT CGG CTG GTT CAG AGA CCT CGC ACT GAA GAC CCT GCG CGC CAT CGA GCG CAT CCT GGT GAA AAG CCT GCA GAT CAG CCA GCA ACG CAC CAT CGG CCT GTA CCC CGA GAT CAA GCA CAC CCA CTT CCA GCG CCT CGG CCT GGA ACG CCC GCT GGT TCC CGC GCC GGT ATT CAT CCA GTC CTT GGT CCT GAA GGA ACT CAA GCG CCT CAC CGG CCT GGT CCA GCT CCA GCC CTA CCA CGC GGG CCT GCG GGT GGC GCG CTA CGC CTA CGG GGT GAT TCC CCG CAA CCT CGG CCA GCC GAC CCG CTT CGT CGG CGC CCA CGC CGC CGG GCT GGT GCA TCC CTA CAC CTT CCG CGC GGA AAA CAG CTT CCT TCC CGG CAT CGA CGG CCT GTT CAG CCA GCC CGT CGC CGT TGC GCG 
+HMEL011728-RA_GlpQ              ATG ACC AAA GAT GGC CAG TTA ATC GCA AGA CAC GAT AAT GAA CTT GGA CAT CCA GAA TTC GCA CAT TCA AAA AAC TCA GAA AGT TGG ATG GTT TAC AGA TTT AGA AAT CAA AAT GTT AAG AGC AGT AGA ACG TAT TTT AGT AAA GGG ATT ACA AAT AAG TTT GAA AAA AAG TAT AGG TAT CTA CCC AGA AAT AAA ACA CAG TCA TTT CAA GCA GTT AGG GCT GGA GGA AGT TCT TGT TTC TGC ACC TGT TTA TAT TCA ATC ATT GGT TTT GAA GGA ATT GAA GAA ATT GAC AAA ACT ATT ACA GTT ACA GCC TGC TCA ACC AGG ACT TGC AGT AGC AAA GTA TGC AGC AGC TGT AAT TCC TCG CAA TCT TGG AGA ACC AAC GAG TTT CGT TGC CGC TCA TGC GAA TGG ACT AGT TCA TCC CTA TAC CTT CCG AGC AGA AAA TAC GTT CCT TCC TGG AAT AGA TGG CCT TTT TTC TCA ACC TTT AGT TTA GTC CAG 
+pseudomonas_pseudoalcaligenes_GlpQ  ATG ACC CGC GAC GGC CAA CTG GTC GCC CGC CAT GAC AAC GAA CTG GGG CGC CCC GAG TTC GCC GAA CAA GCG TAC CCA GAC GGT TGG CTG GTT CAG GGA CCT GGC GCT GAA AAC CCT GCG CGC CAT CGA ACG CAT TCT GGT GAA ACG GCT GGA AGC CCT CCA GCA ACG GAA CAT AGG ACT GTA CCC GGA AAC CAA GCA CAC CCA CTT CCA GCA ACT CGA CCT GGA GAA ACC GCT GCT CGC CGC GCC CGT TTT CAT CCA GTC CTT AGT CCT CAA GAC GCT GAG CAA ACT GAC CCC CCT GGT GCA GCT CCA ACC CTA TCA GCC AGG CCT GAA CAT CGC GCG TTA CGC CAG CGG CAT CAT CCC GCG CGC CCT CAC AGA GCC GAC CAG CCT GGT ACG CGC CCA TGC GGC CGG GCT GGT GCA CCC CTA TAC CTT CCG CGC CGA GAA CGC CTT CCT ACC CGG CAT CGA CGG CCT GTT CAT CCA ACC CAT CGC CGT TGC GCC 
+
+
+
+Printing out site pattern counts
+
+
+         4        474  P
+
+bmori_GlpQ                      AAA AAA AAA AAA AAA AAA AAC AAG AAG AAT AAT AAT AAT AAT AAT AAT ACA ACA ACA ACC ACC ACC ACC ACC ACG ACG ACG ACG ACG ACT ACT AGA AGA AGA AGA AGA AGC AGC AGG AGG AGG AGT AGT AGT AGT AGT ATA ATA ATA ATA ATC ATG ATT ATT CAA CAA CAA CAA CAC CAG CAT CAT CAT CAT CAT CAT CAT CAT CCA CCA CCA CCC CCT CCT CGA CGC CGC CGC CGG CGG CGG CGT CTA CTA CTA CTA CTC CTC CTT GAA GAC GAC GAG GAG GAT GCA GCA GCC GCC GCG GCG GCT GCT GGA GGA GGA GGG GGG GGG GTA GTA GTT GTT GTT GTT GTT GTT TAC TAC TAC TAT TAT TAT TAT TCA TCA TCA TCA TCA TCC TCC TCC TCG TCG TCG TCG TCT TCT TCT TCT TCT TGC TGC TGC TGC TGG TGG TGT TGT TTA TTA TTA TTA TTC TTG TTT TTT TTT 
+pseudomonas_aeruginosa_GlpQ     ... .CG C.. CGC G.. G.. G.. C.. GC. ..C .C. C.. G.C G.. G.. GG. C.. G.. G.G C.. G.. G.. T.. T.. ..C ... CAC G.. G.. GAC G.. ... C.. C.. C.C G.. C.. G.T .A. C.. C.. C.C G.. G.. G.. G.. CA. C.. C.. G.C G.. ... .C. GC. ... .GG G.. G.. ... .C. A.G ..C ..C .C. .C. G.. GG. GG. ... ... ..G ... ... ... G.. ... ... G.. ... ... GCA A.. ..G ..G ..T G.. .G. .G. ... ..G C.. ... C.A .C. CC. ... ... ... T.. ..C ... C.. ..C .C. ... ..C C.. ..C ... C.. .A. CC. CC. C.. C.. ... ... C.. C.. C.G C.. C.. CC. CG. C.. C.. C.. C.. G.G CG. G.. ... C.. C.. CG. G.. CAG C.. C.. C.. C.. C.. C.. C.. C.G C.. C.. C.. C.. A.T CC. C.. .GC CAG C.. C.. GC. ..C 
+HMEL011728-RA_GlpQ              ... GG. C.. ... ... G.. ... ... ..A ... ... ... ... ... ... .T. ... ... G.. .GT ... ... T.. TT. ..C .AA .A. ... TGC CA. GT. ... ... ... ... G.. T.. ..T G.. T.. T.. GAA ... G.. T.. T.. TC. C.. TGC ..C ... ... ... TC. A.. TGG ... G.. T.. G.. ..G ..C ... AT. .C. A.. AG. TG. A.. T.. ... ... A.. ... A.. A.. T.. A.. T.. T.. GAA A.. ..T T.. G.T ... AGT TG. T.. ... A.. ..T ..A C.. AT. T.. T.. ... T.. ..A AA. T.. ..A AC. ... ... A.. ..C A.. ... .A. AC. ... A.. C.. ... T.. C.G G.. ... AG. ... ... .T. AG. CA. ... ... GA. A.. A.. ... C.. ... .GC AAA .AC G.. GT. .T. .T. A.A A.. C.. A.. AAA A.. C.. .TA ... ..T AGC G.C ... A.. ... AC. ..C 
+pseudomonas_pseudoalcaligenes_GlpQ  G.. G.. CGC CGC G.. C.. G.. CCT GC. ..C GC. C.. ..C ..C .GC GG. G.. G.. G.. ... ... G.. C.. CG. ..C ... GAA ... GAA GAA G.. G.. C.. G.. C.C GAC C.. G.T .C. CAC C.. G.C G.. ... CA. GC. CA. C.. C.. G.C G.. ... GC. GC. ... .GG G.. G.G T.. ... ..A ... .GC GC. .C. ... ... .G. ... ... ..C ... ... ... ... ... ... ... ... T.. GCA G.. ..G ..G ..T G.. .G. TG. ... ... T.. ... ... .CC AC. C.. ... A.. A.. ..C ... C.. ..C ... ... ..G C.A ..C A.. T.. .AC CC. CC. C.. C.. ... ... C.. G.. C.G C.. C.. AC. C.. AG. C.. C.. ... CA. G.. G.. C.. C.. G.. A.. G.. CGC C.. A.. C.. ... G.. C.. C.. C.G CCC A.. G.. C.. ..T CC. CAG .GC CAT C.. CC. GC. ..C 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    2    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    2    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    2    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    3    1    1    1    1    2    1    1    1    1    1    1    1    1
+    1    1    1    1    2    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1
+
+CODONML (in paml version 4.9i, September 2018)  GlpQ_seq.phy
+Model: free dN/dS Ratios for branches, 
+Codon frequency model: F3x4
+ns =   4  ls = 165
+
+Codon usage in sequences
+------------------------------------------------------------------------------------------------------
+Phe TTT   3   0   8   1 | Ser TCT   6   0   2   1 | Tyr TAT   6   0   4   0 | Cys TGT   2   0   3   0
+    TTC   1   1   3   1 |     TCC   3   4   3   0 |     TAC   3   0   3   2 |     TGC   4   1   6   2
+Leu TTA   4   0   3   1 |     TCA   6   0   8   1 | *** TAA   0   0   0   0 | *** TGA   0   0   0   0
+    TTG   1   0   0   0 |     TCG   4   0   1   0 |     TAG   0   0   0   0 | Trp TGG   2   0   5   1
+------------------------------------------------------------------------------------------------------
+Leu CTT   1   5   2   4 | Pro CCT   2  14   2  11 | His CAT   8   5   2  11 | Arg CGT   1   3   1   2
+    CTC   2   0   0   0 |     CCC   1   2   1   5 |     CAC   1   7   1   2 |     CGC   3  12   1  13
+    CTA   4   4   2   2 |     CCA   4  10   1   8 | Gln CAA   4   4   3   5 |     CGA   1   3   0   4
+    CTG   0   3   0   3 |     CCG   0   4   1   1 |     CAG   1   4   3   3 |     CGG   3  10   0   4
+------------------------------------------------------------------------------------------------------
+Ile ATT   2   1   5   0 | Thr ACT   2   2   3   3 | Asn AAT   7   0   7   0 | Ser AGT   5   1   7   1
+    ATC   1   0   2   0 |     ACC   5   1   5   5 |     AAC   1   1   2   3 |     AGC   2   0   5   1
+    ATA   4   0   0   0 |     ACA   3   0   4   0 | Lys AAA   6   1   8   0 | Arg AGA   6   1   8   1
+Met ATG   1   1   2   1 |     ACG   5   2   1   4 |     AAG   2   2   3   0 |     AGG   3   0   3   2
+------------------------------------------------------------------------------------------------------
+Val GTT   6   2   5   2 | Ala GCT   2   3   1   7 | Asp GAT   1   3   2   0 | Gly GGT   0   8   1   5
+    GTC   0   2   1   2 |     GCC   2   6   1   6 |     GAC   3   5   1   6 |     GGC   0   3   1   3
+    GTA   2   1   1   1 |     GCA   2   5   3   5 | Glu GAA   1   5   8   8 |     GGA   3   3   4   4
+    GTG   0   0   0   0 |     GCG   2   8   0   4 |     GAG   2   1   1   2 |     GGG   3   1   1   1
+------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: bmori_GlpQ     
+position  1:    T:0.27273    C:0.21818    A:0.33333    G:0.17576
+position  2:    T:0.19394    C:0.29697    A:0.27879    G:0.23030
+position  3:    T:0.32727    C:0.19394    A:0.30303    G:0.17576
+Average         T:0.26465    C:0.23636    A:0.30505    G:0.19394
+
+#2: pseudomonas_aeruginosa_GlpQ
+position  1:    T:0.03636    C:0.54545    A:0.07879    G:0.33939
+position  2:    T:0.12121    C:0.36970    A:0.23030    G:0.27879
+position  3:    T:0.28485    C:0.27273    A:0.22424    G:0.21818
+Average         T:0.14747    C:0.39596    A:0.17778    G:0.27879
+
+#3: HMEL011728-RA_GlpQ
+position  1:    T:0.29697    C:0.12121    A:0.39394    G:0.18788
+position  2:    T:0.20606    C:0.22424    A:0.29091    G:0.27879
+position  3:    T:0.33333    C:0.21818    A:0.32121    G:0.12727
+Average         T:0.27879    C:0.18788    A:0.33535    G:0.19798
+
+#4: pseudomonas_pseudoalcaligenes_GlpQ
+position  1:    T:0.06061    C:0.47273    A:0.12727    G:0.33939
+position  2:    T:0.10909    C:0.36970    A:0.25455    G:0.26667
+position  3:    T:0.29091    C:0.30909    A:0.24242    G:0.15758
+Average         T:0.15354    C:0.38384    A:0.20808    G:0.25455
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      12 | Ser S TCT       9 | Tyr Y TAT      10 | Cys C TGT       5
+      TTC       6 |       TCC      10 |       TAC       8 |       TGC      13
+Leu L TTA       8 |       TCA      15 | *** * TAA       0 | *** * TGA       0
+      TTG       1 |       TCG       5 |       TAG       0 | Trp W TGG       8
+------------------------------------------------------------------------------
+Leu L CTT      12 | Pro P CCT      29 | His H CAT      26 | Arg R CGT       7
+      CTC       2 |       CCC       9 |       CAC      11 |       CGC      29
+      CTA      12 |       CCA      23 | Gln Q CAA      16 |       CGA       8
+      CTG       6 |       CCG       6 |       CAG      11 |       CGG      17
+------------------------------------------------------------------------------
+Ile I ATT       8 | Thr T ACT      10 | Asn N AAT      14 | Ser S AGT      14
+      ATC       3 |       ACC      16 |       AAC       7 |       AGC       8
+      ATA       4 |       ACA       7 | Lys K AAA      15 | Arg R AGA      16
+Met M ATG       5 |       ACG      12 |       AAG       7 |       AGG       8
+------------------------------------------------------------------------------
+Val V GTT      15 | Ala A GCT      13 | Asp D GAT       6 | Gly G GGT      14
+      GTC       5 |       GCC      15 |       GAC      15 |       GGC       7
+      GTA       5 |       GCA      15 | Glu E GAA      22 |       GGA      14
+      GTG       0 |       GCG      14 |       GAG       6 |       GGG       6
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.16667    C:0.33939    A:0.23333    G:0.26061
+position  2:    T:0.15758    C:0.31515    A:0.26364    G:0.26364
+position  3:    T:0.30909    C:0.24848    A:0.27273    G:0.16970
+Average         T:0.21111    C:0.30101    A:0.25657    G:0.23131
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00838089  0.00673758  0.00739491  0.00460128
+  0.01676179  0.01347516  0.01478981  0.00920255
+  0.01402188  0.01127249  0.00000000  0.00000000
+  0.01402188  0.01127249  0.00000000  0.00769829
+  0.01706655  0.01372017  0.01505872  0.00936987
+  0.03413310  0.02744033  0.03011744  0.01873974
+  0.02855365  0.02295489  0.02519440  0.01567651
+  0.02855365  0.02295489  0.02519440  0.01567651
+  0.01173325  0.00943261  0.01035287  0.00644179
+  0.02346650  0.01886523  0.02070574  0.01288357
+  0.01963063  0.01578149  0.01732115  0.01077760
+  0.01963063  0.01578149  0.01732115  0.01077760
+  0.01310467  0.01053513  0.01156295  0.00719472
+  0.02620934  0.02107026  0.02312589  0.01438944
+  0.02192512  0.01762608  0.01934570  0.01203732
+  0.02192512  0.01762608  0.01934570  0.01203732
+
+
+TREE #  1:  (1, 3, (2, 4));   MP score: 294
+lnL(ntime:  5  np: 11):  -1963.007817      +0.000000
+   5..1     5..3     5..6     6..2     6..4  
+ 0.610211 0.868823 0.772795 0.325060 0.455168 2.517521 1.839148 2.277061 3.676949 3.482812 1.742493
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  3.032057
+
+(1: 0.610211, 3: 0.868823, (2: 0.325060, 4: 0.455168): 0.772795);
+
+(bmori_GlpQ: 0.610211, HMEL011728-RA_GlpQ: 0.868823, (pseudomonas_aeruginosa_GlpQ: 0.325060, pseudomonas_pseudoalcaligenes_GlpQ: 0.455168): 0.772795);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  2.51752
+
+w (dN/dS) for branches:  1.83915 2.27706 3.67695 3.48281 1.74249
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   5..1      0.610   345.6   149.4  1.8391  0.2359  0.1283  81.5  19.2
+   5..3      0.869   345.6   149.4  2.2771  0.3486  0.1531 120.5  22.9
+   5..6      0.773   345.6   149.4  3.6769  0.3301  0.0898 114.1  13.4
+   6..2      0.325   345.6   149.4  3.4828  0.1381  0.0396  47.7   5.9
+   6..4      0.455   345.6   149.4  1.7425  0.1741  0.0999  60.2  14.9
+
+tree length for dN:       1.2268
+tree length for dS:       0.5107
+
+dS tree:
+(bmori_GlpQ: 0.128261, HMEL011728-RA_GlpQ: 0.153102, (pseudomonas_aeruginosa_GlpQ: 0.039640, pseudomonas_pseudoalcaligenes_GlpQ: 0.099924): 0.089788);
+dN tree:
+(bmori_GlpQ: 0.235890, HMEL011728-RA_GlpQ: 0.348623, (pseudomonas_aeruginosa_GlpQ: 0.138060, pseudomonas_pseudoalcaligenes_GlpQ: 0.174117): 0.330147);
+
+w ratios as labels for TreeView:
+(bmori_GlpQ #1.83915 , HMEL011728-RA_GlpQ #2.27706 , (pseudomonas_aeruginosa_GlpQ #3.48281 , pseudomonas_pseudoalcaligenes_GlpQ #1.74249 ) #3.67695 );
+
+
+Time used:  0:06

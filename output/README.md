@@ -11,7 +11,7 @@ Parameters for Gblocks: sequence type (-t) is set to codons, and no minimum or m
 
 ### Phylogenetic trees
 
-Trees are constructed in MrBayes version pre-3.2.7 using the Gblocks alignment as input. The follow commands are used in the command-line interface to set the substitution model (Nst), and gamma distribution model with invariant positions: 
+Trees are constructed in MrBayes version pre-3.2.7 using the Gblocks alignment in nexus format as input. The follow commands are used in the command-line interface to set the substitution model (Nst), and gamma distribution model with invariant positions (Invgamma) parameters: 
 
 ```sh
 
@@ -25,7 +25,9 @@ $ sumt relburnin=yes burninfrac=0.25
 
 ```
 
+Additional parameters can be set using lset after the MSA file in nexus format is executed. For this analysis, the NucModel is set to 4by4 with a universal code, ploidy set to diploid, and Ngammacat, Nlnormcat, and Nbetacat set to 4. MRBAYES will run two independent analyses using 4 Markov Chain Monte Carlo chains (one cold, three hot) and ngen=1,000,000. 
 
+One the consensus tree is generated, it must be converted from .con.tre to newick format. Any online file converter can be used; for this analysis figtree v.1.4.3 is used. 
 
 
  

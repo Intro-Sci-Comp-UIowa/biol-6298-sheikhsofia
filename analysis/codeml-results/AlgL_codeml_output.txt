@@ -1,0 +1,245 @@
+
+Before deleting alignment gaps
+      7    459
+
+burkholderia_ambifaria_AlgL_CP000440.1  ACC ??? TAC ??? CCG GAC CCG CAG GCG CTG CTC GAC GTG GAA CTG CCG CAA CCG GTG CCG GGC CCG CGC GAC CTG CTC GTG AAG GTC GAG GCG ATT TCC GTG AAC CCG GTC GAC ACC AAG GTG CGC GCG CCG CAG ATC GAG GAA GTA CCG CGC GTG CTC GGC TGG GAC GCG GCG GGC ACG GTC GTC GCG GTC GGT GCC GAG GTC ACG CTG TTT CGG CCC GGC GAC GAG GTG TTC TAC GCG GGC AGC ATC ACG CGC GCC GGC GCG AAC AGC GAA TTC CAC ACG GTC GAC GAG CGC ATC GTC GCA CGC AAG CCG CGC ACG CTC GAT TTC GCG GCG TCG GCC GCG CTG CCG CTC ACC GCG CTG ACC GCG TGG GAG GCG CTG TTC GAC CGG CTG CGC AAG TCG GTG CTG ATC ATC GGC GGC GCG GGC GGC GTG GGG TCG ATC GCG ATC CAG CTC GCG AAG ACG 
+bmori_AlgL_XM_012690879.2       TAC ??? TAC ??? CCA GAT GTA AAC AGT CTC ATC GAT TTG GAA GTG AAT TTG CCG GTT TTA AAG GAA AAA GAC GTT TTA GTG GAG GTT AAG GCG ATC GCA GTG AAT CCT ATA GAT GCA AAA CAA CGC GCT CCG AAT GTC GAG ACT ACA CCG AGG ATC TTG GGA TGG GAC GGC GCC GGC GTC GTT GTC GCC AAA GGC CAG AGT GCT AAG ACA TTC AAT ATA GGA GAT GAA GTA TTT TTC ACT GGT GAT CAT AGA CGA AAC GGC TCA AAT GCA CAG TAC GTA GCC TTA GAC GAA GTT TTA GTT GGA ACA AAA CCG AAA AAA CTA ACA TTT GAG CAG GCA GCA GCC ATG CCT CTG ACT TCA GTC ACT GCT TAT GAA TGC ATC TAC GAT CGA CTT TTA CGT ACT CTG CTT ATA ATT AAT AGT GCT GGT GGT GTT GGT TCA GTA GCA TCA CAG ATG GCA AAG AAT 
+bordetella_petrii_AlgL_AM902716.1  ACC ??? TAC ??? CCG GAC CCC GAC GCC TTC CTG GAC GTA GAC CTG CCC AAG CCC GTG CCG CAG GGC CGC GAC ATT CTG GTG GCC GTA AAG GCG GTA GCC GTC AAC CCG GTG GAC GTC AAA GTG CGC GCG CCC AAA GTC GAA GCC GAG CCG CGC GTC ATC GGC TAC GAC GCC AGC GGC GTG GTC GAG GCC GTG GGG CCG CAG GCC ACC CTG TTC AAG CCG GGC GAC GAG GTC TAT TAC GCC GGA GAC ATC ACC CGC GCC GGC ACG AAC CAG GAA TTC CAT CTG GTC GAC GAG CGC ATC GTC GGC CAC AAG CCC CGC ACG CTG TCG CAC GCC GAA GCC GCC GCG CTG CCG CTG ACC ACC ATC ACC GCC TAT GAA GCC TTC TTC GAC CGG CTG CGC CGC TCG ATC CTG ATC GTG GGC GGC GCG GGC GGC GTC GGG TCC ATC GGC ATC CAG CTT GCC AGG CGC 
+donor_bacillus_halodurans_AlgL  TAC ??? TAT ??? CCG CAT AAG GAA AGT TTA CTT GAT TTG GAG ACC GAT CGA CCG ATT CCA ACA AGA AAA GAT CTG TTA GTT GAA GTG AAA GCC ATT TCG ATT AAT CCG GTT GAT GTG AAA GTG AGA TCT CCA AAC GTA GAA CCG TCT CCT AAG ATC TTA GGG TGG GAT GCG AGT GGT ACT GTT GTT GAG GTC GGT GAG GAC TGT AAG CTA TTT AAA CTA GGA GAT GAA GTA TTT TAT TCA GGA AGC ATT ACA AGG CAG GGG ACT TAT AGT GAA TAT CAC CTT GTG GAT GAG CGA ATT GTT GGG CAT AAG CCG AAA CGA ATA ACG CAT GCA GAA GCA GCG GCG TTG CCA CTA ACG ACT ATT ACG GCG TGG GAA GCT TTG TTT GAA CGC TTA CGT AAA ACC ATT CTT ATT ATT GGT GGT GCA GGG GGC GTA GGG TCA ATC GCT ATT CAG CTA GCC AAA TGG 
+hmelpomene_AlgL_HMEL003016      TAT ??? TAT ??? CCG GAT CCC AGC AGT CTT TTG GAT CTC GAA GTT AGT TTA CCA TCT ATA CAG AAA AAT GAA GTG TTG GTA AAG GTA GAG GCA GTA GCA GTT AAT CCA ATA GAT ACA AAA CAA CGA GCC CCT AAT GTA GAA AAA ACA CCA CGG ATT TTA GGA TGG GAT GGA GCT GGC ATT ATC GTT GAC AAA GGT GAA AAT TCA AAA TTA TTT AAC ATT GGG GAT GAA GTA TTT TTC ACT GGT GAT CTA AGA AAG AAT GGC TGT AAT GCT GAA TAT GTA GCA CTT GAT GAA ATA TTA GTG GGT CCA AAA CCA AAG AAT TTA TCT TTC GAA CAG GCT GCA GCT ATG CCT TTA ACA GCT GTC ACT GCT TTG GAG TCC CTT CAA GAG CGT TTA CAA AAA TCT TTG TTA ATT ATC AAT AGT GCT GGA GGT GTA GGC TCA GTG GCT TCT CAA TTA GCA AAG AAT 
+listeria_innocua_AlgL_AL596173.1  TGG ??? GAT ??? CAA GCA TCA ACT GAT TTC GTG GAT ATG GAA ATT AAA CAA CCA GTG CCA GAA AAT CAT GAT TTA TTA GTA AAA ATT AAG GCG ATT TCC ATC AAT CCA GTA GAC ACT AAA CAA CGC GAA GCG CTA ACC GGA GAT GAA GTA AGG ATT TTA GGT TGG GAT GCA GTT GGT GAA GTA GTG GAG ATT GGT TCA AAA GTG ACT TTA TTT AAA ACA GGA CAA GAA GTG TAT TTC GCA GGT GAT GTT ACA AGG CCT GGC GCA TAT GCT GAA TTC ACG TTA ATT GAT GAA CGG CTA GTC GGT TTA AAA CCC AAA CAT TTA AGT TTA GAA GAA GCC GCT GCG ATG CCA CTG ACA ACT ATT ACT GCA TGG GAA GCT CTT TTT GAC CGT TTG GGA AAA TCC ATT TTA ATT ATT AAT GGA GCT GGG GGA GTG GGT TCG ATT GCG ACT CAA CTA GCT GCA AAC 
+mycobacterium_smegmatis_AlgL_CP000480.1  TTC ??? GCC ??? CCC GAT CCA GAT TCG TTG CAG GAC ATC ACC ATC GAG GTT CCT GAA CTC CGG CCA CAC GAC GTG CTG GTG CGC GTC GAA GCG GTG TCG GTG AAC CCC GTC GAC ATC AAG CGC CGC CGC AGC AGC CCG TCG GCC GAG CCC ACC ATC CTC GGG TTC GAC GCC GCG GGC GTC GTG GAG GCC GTC GGC AGC GAG GTC ACC ACC CTG TCC GTC GGA GAC GAG GTC TGG TAT GCC GGC GAC GTC AGC CGG CCG GGC ACC AAC GCG CAA CTG CAC GCT GTC GAC GAG CGC ATC GTC GCG CGC AAA CCC CGC TCG CTG TCG TTC CGG GAC GCC GCG GCG TTG CCG CTC ACC ACC ATC ACC GCG TGG GAA ACG TTG TTC GAG CGG TTC AAC GGT GAC CTG CTG GTT CTC GGC GCC GCG GGC GGT GTC GGG TCG GTC ATG ATC CAG CTC GCC AAG AAG 
+
+
+
+After deleting gaps. 453 sites
+      7    453
+
+burkholderia_ambifaria_AlgL_CP000440.1  ACC TAC CCG GAC CCG CAG GCG CTG CTC GAC GTG GAA CTG CCG CAA CCG GTG CCG GGC CCG CGC GAC CTG CTC GTG AAG GTC GAG GCG ATT TCC GTG AAC CCG GTC GAC ACC AAG GTG CGC GCG CCG CAG ATC GAG GAA GTA CCG CGC GTG CTC GGC TGG GAC GCG GCG GGC ACG GTC GTC GCG GTC GGT GCC GAG GTC ACG CTG TTT CGG CCC GGC GAC GAG GTG TTC TAC GCG GGC AGC ATC ACG CGC GCC GGC GCG AAC AGC GAA TTC CAC ACG GTC GAC GAG CGC ATC GTC GCA CGC AAG CCG CGC ACG CTC GAT TTC GCG GCG TCG GCC GCG CTG CCG CTC ACC GCG CTG ACC GCG TGG GAG GCG CTG TTC GAC CGG CTG CGC AAG TCG GTG CTG ATC ATC GGC GGC GCG GGC GGC GTG GGG TCG ATC GCG ATC CAG CTC GCG AAG ACG 
+bmori_AlgL_XM_012690879.2       TAC TAC CCA GAT GTA AAC AGT CTC ATC GAT TTG GAA GTG AAT TTG CCG GTT TTA AAG GAA AAA GAC GTT TTA GTG GAG GTT AAG GCG ATC GCA GTG AAT CCT ATA GAT GCA AAA CAA CGC GCT CCG AAT GTC GAG ACT ACA CCG AGG ATC TTG GGA TGG GAC GGC GCC GGC GTC GTT GTC GCC AAA GGC CAG AGT GCT AAG ACA TTC AAT ATA GGA GAT GAA GTA TTT TTC ACT GGT GAT CAT AGA CGA AAC GGC TCA AAT GCA CAG TAC GTA GCC TTA GAC GAA GTT TTA GTT GGA ACA AAA CCG AAA AAA CTA ACA TTT GAG CAG GCA GCA GCC ATG CCT CTG ACT TCA GTC ACT GCT TAT GAA TGC ATC TAC GAT CGA CTT TTA CGT ACT CTG CTT ATA ATT AAT AGT GCT GGT GGT GTT GGT TCA GTA GCA TCA CAG ATG GCA AAG AAT 
+bordetella_petrii_AlgL_AM902716.1  ACC TAC CCG GAC CCC GAC GCC TTC CTG GAC GTA GAC CTG CCC AAG CCC GTG CCG CAG GGC CGC GAC ATT CTG GTG GCC GTA AAG GCG GTA GCC GTC AAC CCG GTG GAC GTC AAA GTG CGC GCG CCC AAA GTC GAA GCC GAG CCG CGC GTC ATC GGC TAC GAC GCC AGC GGC GTG GTC GAG GCC GTG GGG CCG CAG GCC ACC CTG TTC AAG CCG GGC GAC GAG GTC TAT TAC GCC GGA GAC ATC ACC CGC GCC GGC ACG AAC CAG GAA TTC CAT CTG GTC GAC GAG CGC ATC GTC GGC CAC AAG CCC CGC ACG CTG TCG CAC GCC GAA GCC GCC GCG CTG CCG CTG ACC ACC ATC ACC GCC TAT GAA GCC TTC TTC GAC CGG CTG CGC CGC TCG ATC CTG ATC GTG GGC GGC GCG GGC GGC GTC GGG TCC ATC GGC ATC CAG CTT GCC AGG CGC 
+donor_bacillus_halodurans_AlgL  TAC TAT CCG CAT AAG GAA AGT TTA CTT GAT TTG GAG ACC GAT CGA CCG ATT CCA ACA AGA AAA GAT CTG TTA GTT GAA GTG AAA GCC ATT TCG ATT AAT CCG GTT GAT GTG AAA GTG AGA TCT CCA AAC GTA GAA CCG TCT CCT AAG ATC TTA GGG TGG GAT GCG AGT GGT ACT GTT GTT GAG GTC GGT GAG GAC TGT AAG CTA TTT AAA CTA GGA GAT GAA GTA TTT TAT TCA GGA AGC ATT ACA AGG CAG GGG ACT TAT AGT GAA TAT CAC CTT GTG GAT GAG CGA ATT GTT GGG CAT AAG CCG AAA CGA ATA ACG CAT GCA GAA GCA GCG GCG TTG CCA CTA ACG ACT ATT ACG GCG TGG GAA GCT TTG TTT GAA CGC TTA CGT AAA ACC ATT CTT ATT ATT GGT GGT GCA GGG GGC GTA GGG TCA ATC GCT ATT CAG CTA GCC AAA TGG 
+hmelpomene_AlgL_HMEL003016      TAT TAT CCG GAT CCC AGC AGT CTT TTG GAT CTC GAA GTT AGT TTA CCA TCT ATA CAG AAA AAT GAA GTG TTG GTA AAG GTA GAG GCA GTA GCA GTT AAT CCA ATA GAT ACA AAA CAA CGA GCC CCT AAT GTA GAA AAA ACA CCA CGG ATT TTA GGA TGG GAT GGA GCT GGC ATT ATC GTT GAC AAA GGT GAA AAT TCA AAA TTA TTT AAC ATT GGG GAT GAA GTA TTT TTC ACT GGT GAT CTA AGA AAG AAT GGC TGT AAT GCT GAA TAT GTA GCA CTT GAT GAA ATA TTA GTG GGT CCA AAA CCA AAG AAT TTA TCT TTC GAA CAG GCT GCA GCT ATG CCT TTA ACA GCT GTC ACT GCT TTG GAG TCC CTT CAA GAG CGT TTA CAA AAA TCT TTG TTA ATT ATC AAT AGT GCT GGA GGT GTA GGC TCA GTG GCT TCT CAA TTA GCA AAG AAT 
+listeria_innocua_AlgL_AL596173.1  TGG GAT CAA GCA TCA ACT GAT TTC GTG GAT ATG GAA ATT AAA CAA CCA GTG CCA GAA AAT CAT GAT TTA TTA GTA AAA ATT AAG GCG ATT TCC ATC AAT CCA GTA GAC ACT AAA CAA CGC GAA GCG CTA ACC GGA GAT GAA GTA AGG ATT TTA GGT TGG GAT GCA GTT GGT GAA GTA GTG GAG ATT GGT TCA AAA GTG ACT TTA TTT AAA ACA GGA CAA GAA GTG TAT TTC GCA GGT GAT GTT ACA AGG CCT GGC GCA TAT GCT GAA TTC ACG TTA ATT GAT GAA CGG CTA GTC GGT TTA AAA CCC AAA CAT TTA AGT TTA GAA GAA GCC GCT GCG ATG CCA CTG ACA ACT ATT ACT GCA TGG GAA GCT CTT TTT GAC CGT TTG GGA AAA TCC ATT TTA ATT ATT AAT GGA GCT GGG GGA GTG GGT TCG ATT GCG ACT CAA CTA GCT GCA AAC 
+mycobacterium_smegmatis_AlgL_CP000480.1  TTC GCC CCC GAT CCA GAT TCG TTG CAG GAC ATC ACC ATC GAG GTT CCT GAA CTC CGG CCA CAC GAC GTG CTG GTG CGC GTC GAA GCG GTG TCG GTG AAC CCC GTC GAC ATC AAG CGC CGC CGC AGC AGC CCG TCG GCC GAG CCC ACC ATC CTC GGG TTC GAC GCC GCG GGC GTC GTG GAG GCC GTC GGC AGC GAG GTC ACC ACC CTG TCC GTC GGA GAC GAG GTC TGG TAT GCC GGC GAC GTC AGC CGG CCG GGC ACC AAC GCG CAA CTG CAC GCT GTC GAC GAG CGC ATC GTC GCG CGC AAA CCC CGC TCG CTG TCG TTC CGG GAC GCC GCG GCG TTG CCG CTC ACC ACC ATC ACC GCG TGG GAA ACG TTG TTC GAG CGG TTC AAC GGT GAC CTG CTG GTT CTC GGC GCC GCG GGC GGT GTC GGG TCG GTC ATG ATC CAG CTC GCC AAG AAG 
+
+
+
+Printing out site pattern counts
+
+
+         7        450  P
+
+burkholderia_ambifaria_AlgL_CP000440.1  AAC AAC AAG AAG AAG AAG AAG ACC ACC ACC ACC ACG ACG ACG ACG ACG ACG AGC AGC ATC ATC ATC ATC ATC ATC ATC ATT CAA CAC CAG CAG CAG CCC CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CGC CGC CGC CGC CGC CGC CGC CGC CGG CGG CTC CTC CTC CTC CTC CTC CTG CTG CTG CTG CTG CTG CTG CTG CTG GAA GAA GAA GAC GAC GAC GAC GAC GAC GAC GAG GAG GAG GAG GAG GAG GAT GCA GCC GCC GCC GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGG GGT GTA GTC GTC GTC GTC GTC GTC GTC GTC GTG GTG GTG GTG GTG GTG GTG GTG GTG TAC TAC TCC TCG TCG TCG TGG TGG TTC TTC TTC TTC TTT 
+bmori_AlgL_XM_012690879.2       ..T ..T ..A ..A ... CGT G.. ..T ..T G.A TA. .AA .A. .AT .GA G.C GTC GAT GCA ..A ..T CAT G.A G.. TCA T.A ..C TTG GTA A.C A.T ... ATA AAT ..A ... ... ... ... ..T ..T GAA GTA TTA AAA AAA ACA A.G ..A ... GTT TTA AAT ..A A.. A.G ..A ..G T.A T.G ACA A.C A.. ..C ..T ..T G.C G.. G.T ACT C.G ... ... ... ..T ..T ..T ..T ..T A.. AGT ..A ..A ..A ... ACA .G. AA. CAG ..A A.T AGT CA. .A. ..A ..A ..C ..C ..C ... ..T ..T ..T .GC T.A T.A TGC AAG AAT A.T ..A ..A ... ... ..T ..T ..T ..T ..C AC. AAA A.A .CT ... ..T ..T ..T T.A A.C CAA C.. ..A ... ... ..T ..T T.. ... .T. G.A A.T G.A ..A .AT ... .A. .A. ..T ..T ..C 
+bordetella_petrii_AlgL_AM902716.1  ... ... ..A ... .G. CGC GCC ... ... GT. ... ... ..C CGC ..C CT. GT. GA. CAG ... G.G ... ... G.. ... ... G.A A.G ..T G.C A.A ... ..G ..C ... ..C ..C ..C ... ... ... GGC ..C ... ... ... .A. ... ... ... ... ... AA. ... ..G ..T ..G ..G ..G A.. ... T.C ... T.C ... ... A.C ... A.T .CC ... ..C ... ... ... ... ... ... ... A.. C.. ..A ... ... ..A TCG .GC ... C.G ... ..C ..C .AA ..C ..C .GC AGC ..C ... ... ..C ... ... ..C A.C A.. ..C CAG ... ... ... ... ... ... ..A ... ... ... ..G .AG ..G ..G .C. .AG ..A ... ... ... ..C ... A.C ..C ..C ... ..C ... ..A ... ... G.. ... G.C ..C .AT .AC ... ... CA. .AT ..C 
+donor_bacillus_halodurans_AlgL  ..T T.T ..A ... ..A ..A G.A ..G ..G GTG TA. CGA .A. TG. ..A CTT ..T ... ..T ..T ..T ..T ... G.A ..T ..T ... .G. ... G.A A.C ... .TA GAT ... ..A ... ... ..T ..A ... AGA AA. ..A AAA AAA .AT AAG A.G A.A ..A ..T AAA ..C ..T ..A A.A ..A T.A T.A ..A T.. T.. T.A ..T T.A A.T ACC ... CCG ... ..G ..T ..T C.T ..A ..T ..T ..T A.A ..C ..A ..A ... ..A ACG .GG CAG .AG ..G T.A AGT .AA ..A ..C ..T AGT .A. ... ..C ... ..A T.T ... A.T A.T ..T ACA ..T ..T ..A ..G ..G ..T ..A ... ..G ... ... TCT ... ..T TGT ..T ..G ..T ..T ..G A.C ... A.T ..A A.T ..T ..A A.T T.. ..T ..T ..G A.C G.A ..A ... ... .AT ..T CAT ..T ... 
+hmelpomene_AlgL_HMEL003016      ..T ..T ..A ..A ... ..A ... ..A ..T ..A TAT .AT .AA .AT .GA G.A .TT GAT GCT ..T ... C.A G.G G.A TCT T.A G.A TT. GTA AGC A.T ..A ATT AGT ... ..T ..A ..A ..A ..T ..A AAA ..C ATA AAG AAT .CA ..G AAG ..A ATA .AA AAC ..T T.G T.A T.A T.A T.G T.A T.A ..T A.. ..T T.A T.A G.C G.T G.. A.. ... ... ..A ..T ..T ..G ..T ..T ..T ... A.T ... ..A ..A ..A TC. .GT AAT .AA ..A A.T AGT CA. .AA ..A ..T ..T .AC ..T ..A ..T ..T ..C .GA ..T TGT T.C CAG AAT A.T ..G ..A ... ... ..T ..T ..A ..C ... AC. AAA A.A TCA ..T ..A A.. ..G C.T A.T CAA T.. ..A ..T ..A ..A TCT C.C ..T .T. G.A ..T G.T ..A .T. ... .AT CAA ... ..T ... 
+listeria_innocua_AlgL_AL596173.1  ..T T.T ..A ..A GCA ..A ..A ..A ..T ..T TGG CAT ..T .AC ..A TTA GAA GAT GCT ..T ..T G.T ..T .C. .CT C.A ... ... ACG ACT .TA ..A A.A AAA .AA G.. ..A ..C GTA ..A ..A AAT T.A ..A AAA .AT TTA A.G A.G ... ..G G.A AAA ..T G.G ..A T.A ..G T.A T.A T.A ..T A.. T.C T.A T.. A.T A.T T.A ..T ... ... ..T ..T .CA ... C.A ... ..T A.. A.A ..A ..A ..A .GA AG. .GT C.T T.A ..T ..A .AT .AA .AA ..T ... .TT .A. ... ... ..A ..T .AA ..A A.T ..A ..T .AA AAT ..A ..A ..T ... ..T ..T ..A ..G ..T ... .A. A.T ..A ..G ..G A.T ..A ... A.T A.T CAA A.T ... A.C ..A ... ... A.. G.T .T. ... ..C G.C ... ... ... ... ..T ..A .AT ... 
+mycobacterium_smegmatis_AlgL_CP000480.1  ... ... ... ..A ... GGT CGC ... ... .T. TT. T.. ..C .A. .GC G.T GTC GA. GCG G.T C.. G.. G.. CCG ... ... G.G GTT ... G.T AGC ... GT. GA. ..C AGC ..T ..C ..C ... ..C ..A ..A .TC ... .A. ... AC. ..G ... ... AA. TCC ... .AG ... ..G ... ..G ... ACC T.. T.. T.. ... T.C A.C A.C G.. .CC C.. ACC ... ... ..T ..G ... ... ... ..A ... ..A ... ... TC. TCG ..G C.G AG. ..G ..C T.. .AC CG. ..C AT. ... ..C ... ... ... ... CGC ..C A.C A.C A.. C.G ... .C. ..A ..G ... ... ... ..T ... ... ..C .AG ... ... ... .AG ... ..G ... ... A.C CGC C.. ..C ... ... ..C .AA A.C GC. ..T ..G GAC G.C ... ... .TC C.G ... ... .GG C.G 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    2    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+
+
+CODONML (in paml version 4.9i, September 2018)  AlgL_gblocks_alignment.fasta
+Model: free dN/dS Ratios for branches, 
+Codon frequency model: F3x4
+ns =   7  ls = 151
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   1   2   0   3   2   2 | Ser TCT   0   0   0   2   4   0 | Tyr TAT   0   1   2   4   3   2 | Cys TGT   0   0   0   1   1   0
+    TTC   4   2   5   0   2   3 |     TCC   1   0   1   0   1   2 |     TAC   2   4   3   1   0   0 |     TGC   0   1   0   0   0   0
+Leu TTA   0   5   0   4   9   9 |     TCA   0   4   0   2   2   2 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   0   3   0   3   4   1 |     TCG   3   0   2   1   0   1 |     TAG   0   0   0   0   0   0 | Trp TGG   2   1   0   3   1   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   0   2   1   3   3   1 | Pro CCT   0   2   0   1   2   1 | His CAT   0   1   1   3   0   2 | Arg CGT   0   1   0   1   1   1
+    CTC   6   1   0   0   1   0 |     CCC   1   0   5   0   1   1 |     CAC   1   0   2   1   0   0 |     CGC   8   1   9   1   0   1
+    CTA   0   1   0   4   1   3 |     CCA   0   1   0   3   5   4 | Gln CAA   1   1   0   0   4   5 |     CGA   0   2   0   3   1   0
+    CTG   9   2  10   1   0   1 |     CCG  11   4   7   5   1   0 |     CAG   3   4   4   2   2   0 |     CGG   2   0   1   0   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   1   1  10   4  11 | Thr ACT   0   5   0   3   2   6 | Asn AAT   0   7   0   1   9   3 | Ser AGT   0   3   0   3   3   1
+    ATC   7   4   8   2   2   1 |     ACC   4   0   6   2   0   1 |     AAC   2   2   2   1   1   1 |     AGC   2   0   1   1   1   0
+    ATA   0   3   0   1   3   0 |     ACA   0   4   0   2   3   3 | Lys AAA   0   6   2   7   7   8 | Arg AGA   0   1   0   2   1   0
+Met ATG   0   2   0   0   1   2 |     ACG   6   0   2   3   0   1 |     AAG   5   4   4   4   4   1 |     AGG   0   1   1   1   0   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   7   0   5   3   2 | Ala GCT   0   4   0   2   8   5 | Asp GAT   1   6   0   7   7   8 | Gly GGT   1   4   0   4   4   6
+    GTC   8   4   9   1   1   1 |     GCC   3   4  15   2   1   1 |     GAC   8   3  11   1   1   2 |     GGC  10   4  11   1   3   1
+    GTA   1   4   3   3   7   4 |     GCA   1   7   0   3   5   6 | Glu GAA   3   5   4   8   8  11 |     GGA   0   3   1   2   3   5
+    GTG   9   3   7   4   3   6 |     GCG  17   1   4   4   0   4 |     GAG   6   3   4   4   3   1 |     GGG   1   0   2   5   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   0 | Ser TCT   0 | Tyr TAT   1 | Cys TGT   0
+    TTC   5 |     TCC   1 |     TAC   0 |     TGC   0
+Leu TTA   0 |     TCA   0 | *** TAA   0 | *** TGA   0
+    TTG   3 |     TCG   6 |     TAG   0 | Trp TGG   2
+------------------------------------------------------
+Leu CTT   0 | Pro CCT   1 | His CAT   0 | Arg CGT   0
+    CTC   5 |     CCC   4 |     CAC   2 |     CGC   7
+    CTA   0 |     CCA   2 | Gln CAA   1 |     CGA   0
+    CTG   6 |     CCG   3 |     CAG   2 |     CGG   4
+------------------------------------------------------
+Ile ATT   0 | Thr ACT   0 | Asn AAT   0 | Ser AGT   0
+    ATC   7 |     ACC   8 |     AAC   3 |     AGC   4
+    ATA   0 |     ACA   0 | Lys AAA   1 | Arg AGA   0
+Met ATG   1 |     ACG   1 |     AAG   3 |     AGG   0
+------------------------------------------------------
+Val GTT   2 | Ala GCT   1 | Asp GAT   2 | Gly GGT   2
+    GTC  12 |     GCC   8 |     GAC   9 |     GGC   6
+    GTA   0 |     GCA   0 | Glu GAA   3 |     GGA   1
+    GTG   5 |     GCG   8 |     GAG   7 |     GGG   2
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: burkholderia_ambifaria_AlgL_CP000440.1
+position  1:    T:0.08609    C:0.27815    A:0.17881    G:0.45695
+position  2:    T:0.30464    C:0.31126    A:0.21192    G:0.17219
+position  3:    T:0.02649    C:0.44371    A:0.03974    G:0.49007
+Average         T:0.13907    C:0.34437    A:0.14349    G:0.37307
+
+#2: bmori_AlgL_XM_012690879.2
+position  1:    T:0.15232    C:0.15232    A:0.28477    G:0.41060
+position  2:    T:0.30464    C:0.23841    A:0.31126    G:0.14570
+position  3:    T:0.30464    C:0.19868    A:0.31126    G:0.18543
+Average         T:0.25386    C:0.19647    A:0.30243    G:0.24724
+
+#3: bordetella_petrii_AlgL_AM902716.1
+position  1:    T:0.08609    C:0.26490    A:0.17881    G:0.47020
+position  2:    T:0.29139    C:0.27815    A:0.25828    G:0.17219
+position  3:    T:0.03311    C:0.58278    A:0.06623    G:0.31788
+Average         T:0.13687    C:0.37528    A:0.16777    G:0.32009
+
+#4: donor_bacillus_halodurans_AlgL
+position  1:    T:0.15894    C:0.18543    A:0.28477    G:0.37086
+position  2:    T:0.29139    C:0.23179    A:0.29139    G:0.18543
+position  3:    T:0.35099    C:0.09272    A:0.29139    G:0.26490
+Average         T:0.26711    C:0.16998    A:0.28918    G:0.27373
+
+#5: hmelpomene_AlgL_HMEL003016
+position  1:    T:0.19205    C:0.15232    A:0.27152    G:0.38411
+position  2:    T:0.30464    C:0.23179    A:0.32450    G:0.13907
+position  3:    T:0.37086    C:0.09934    A:0.39073    G:0.13907
+Average         T:0.28918    C:0.16115    A:0.32892    G:0.22075
+
+#6: listeria_innocua_AlgL_AL596173.1
+position  1:    T:0.16556    C:0.13907    A:0.27152    G:0.42384
+position  2:    T:0.31126    C:0.25166    A:0.29139    G:0.14570
+position  3:    T:0.33775    C:0.09934    A:0.39735    G:0.16556
+Average         T:0.27152    C:0.16336    A:0.32009    G:0.24503
+
+#7: mycobacterium_smegmatis_AlgL_CP000480.1
+position  1:    T:0.11921    C:0.24503    A:0.18543    G:0.45033
+position  2:    T:0.30464    C:0.28477    A:0.22517    G:0.18543
+position  3:    T:0.05960    C:0.53642    A:0.05298    G:0.35099
+Average         T:0.16115    C:0.35541    A:0.15453    G:0.32892
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      10 | Ser S TCT       6 | Tyr Y TAT      13 | Cys C TGT       2
+      TTC      21 |       TCC       6 |       TAC      10 |       TGC       1
+Leu L TTA      27 |       TCA      10 | *** * TAA       0 | *** * TGA       0
+      TTG      14 |       TCG      13 |       TAG       0 | Trp W TGG      12
+------------------------------------------------------------------------------
+Leu L CTT      10 | Pro P CCT       7 | His H CAT       7 | Arg R CGT       4
+      CTC      13 |       CCC      12 |       CAC       6 |       CGC      27
+      CTA       9 |       CCA      15 | Gln Q CAA      12 |       CGA       6
+      CTG      29 |       CCG      31 |       CAG      17 |       CGG       9
+------------------------------------------------------------------------------
+Ile I ATT      28 | Thr T ACT      16 | Asn N AAT      20 | Ser S AGT      10
+      ATC      31 |       ACC      21 |       AAC      12 |       AGC       9
+      ATA       7 |       ACA      12 | Lys K AAA      31 | Arg R AGA       4
+Met M ATG       6 |       ACG      13 |       AAG      25 |       AGG       5
+------------------------------------------------------------------------------
+Val V GTT      19 | Ala A GCT      20 | Asp D GAT      31 | Gly G GGT      21
+      GTC      36 |       GCC      34 |       GAC      35 |       GGC      36
+      GTA      22 |       GCA      22 | Glu E GAA      42 |       GGA      15
+      GTG      37 |       GCG      38 |       GAG      28 |       GGG      12
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.13718    C:0.20246    A:0.23652    G:0.42384
+position  2:    T:0.30180    C:0.26112    A:0.27342    G:0.16367
+position  3:    T:0.21192    C:0.29328    A:0.22138    G:0.27342
+Average         T:0.21697    C:0.25229    A:0.24377    G:0.28698
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00898509  0.01243472  0.00938621  0.01159237
+  0.00777393  0.01075857  0.00812098  0.01002976
+  0.00814010  0.01126531  0.00000000  0.00000000
+  0.00487279  0.00674360  0.00000000  0.00628677
+  0.01326075  0.01835193  0.01385275  0.01710874
+  0.01147325  0.01587816  0.01198545  0.01480255
+  0.01201366  0.01662605  0.01254998  0.01549977
+  0.00719157  0.00995262  0.00751262  0.00927841
+  0.01549153  0.02143918  0.01618312  0.01998684
+  0.01340333  0.01854926  0.01400170  0.01729269
+  0.01403465  0.01942295  0.01466120  0.01810720
+  0.00840136  0.01162689  0.00877643  0.01083926
+  0.02776083  0.03841900  0.02900015  0.03581643
+  0.02401877  0.03324027  0.02509104  0.03098851
+  0.02515009  0.03480593  0.02627286  0.03244811
+  0.01505525  0.02083538  0.01572735  0.01942396
+
+
+TREE #  1:  (1, (((2, 5), 6), 4), (3, 7));   MP score: 561
+check convergence..
+lnL(ntime: 11  np: 23):  -3088.543878      +0.000000
+   8..1     8..9     9..10   10..11   11..2    11..5    10..6     9..4     8..12   12..3    12..7  
+ 0.587266 50.000000 1.740194 0.402168 50.000000 0.685420 0.942941 0.288342 0.105183 0.578702 1.222174 1.146932 0.174024 0.001044 0.057722 337.367894 0.001473 0.118997 0.297736 98.587745 99.998976 0.207792 0.445852
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 106.552389
+
+(1: 0.587266, (((2: 50.000000, 5: 0.685420): 0.402168, 6: 0.942941): 1.740194, 4: 0.288342): 50.000000, (3: 0.578702, 7: 1.222174): 0.105183);
+
+(burkholderia_ambifaria_AlgL_CP000440.1: 0.587266, (((bmori_AlgL_XM_012690879.2: 50.000000, hmelpomene_AlgL_HMEL003016: 0.685420): 0.402168, listeria_innocua_AlgL_AL596173.1: 0.942941): 1.740194, donor_bacillus_halodurans_AlgL: 0.288342): 50.000000, (bordetella_petrii_AlgL_AM902716.1: 0.578702, mycobacterium_smegmatis_AlgL_CP000480.1: 1.222174): 0.105183);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.14693
+
+w (dN/dS) for branches:  0.17402 0.00104 0.05772 337.36789 0.00147 0.11900 0.29774 98.58774 99.99898 0.20779 0.44585
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   8..1      0.587   325.3   127.7  0.1740  0.0837  0.4812  27.2  61.4
+   8..9     50.000   325.3   127.7  0.0010  0.0616 58.9782  20.0 7530.0
+   9..10     1.740   325.3   127.7  0.0577  0.1036  1.7942  33.7 229.1
+  10..11     0.402   325.3   127.7 337.3679  0.1864  0.0006  60.7   0.1
+  11..2     50.000   325.3   127.7  0.0015  0.0868 58.9141  28.2 7521.8
+  11..5      0.685   325.3   127.7  0.1190  0.0740  0.6220  24.1  79.4
+  10..6      0.943   325.3   127.7  0.2977  0.1888  0.6341  61.4  81.0
+   9..4      0.288   325.3   127.7 98.5877  0.1333  0.0014  43.4   0.2
+   8..12     0.105   325.3   127.7 99.9990  0.0486  0.0005  15.8   0.1
+  12..3      0.579   325.3   127.7  0.2078  0.0930  0.4475  30.3  57.1
+  12..7      1.222   325.3   127.7  0.4459  0.3017  0.6767  98.2  86.4
+
+tree length for dN:       1.3615
+tree length for dS:     122.5505
+
+dS tree:
+(burkholderia_ambifaria_AlgL_CP000440.1: 0.481187, (((bmori_AlgL_XM_012690879.2: 58.914095, hmelpomene_AlgL_HMEL003016: 0.622036): 0.000553, listeria_innocua_AlgL_AL596173.1: 0.634129): 1.794232, donor_bacillus_halodurans_AlgL: 0.001352): 58.978234, (bordetella_petrii_AlgL_AM902716.1: 0.447495, mycobacterium_smegmatis_AlgL_CP000480.1: 0.676693): 0.000486);
+dN tree:
+(burkholderia_ambifaria_AlgL_CP000440.1: 0.083738, (((bmori_AlgL_XM_012690879.2: 0.086758, hmelpomene_AlgL_HMEL003016: 0.074020): 0.186449, listeria_innocua_AlgL_AL596173.1: 0.188803): 0.103567, donor_bacillus_halodurans_AlgL: 0.133303): 0.061586, (bordetella_petrii_AlgL_AM902716.1: 0.092986, mycobacterium_smegmatis_AlgL_CP000480.1: 0.301705): 0.048630);
+
+w ratios as labels for TreeView:
+(burkholderia_ambifaria_AlgL_CP000440.1 #0.174024 , (((bmori_AlgL_XM_012690879.2 #0.00147262 , hmelpomene_AlgL_HMEL003016 #0.118997 ) #337.368 , listeria_innocua_AlgL_AL596173.1 #0.297736 ) #0.0577223 , donor_bacillus_halodurans_AlgL #98.5877 ) #0.00104422 , (bordetella_petrii_AlgL_AM902716.1 #0.207792 , mycobacterium_smegmatis_AlgL_CP000480.1 #0.445852 ) #99.999 );
+
+
+Time used:  0:35

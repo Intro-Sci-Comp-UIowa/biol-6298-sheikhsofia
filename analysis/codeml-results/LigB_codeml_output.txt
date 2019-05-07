@@ -1,0 +1,241 @@
+
+Before deleting alignment gaps
+      7    432
+
+bmori_LigB                      GCC GGT TTT AAA ??? ??? AGA CGT ??? ??? GGA GGT ??? GGC GAT CGC ??? GAA GCT CCG ??? CCA ??? GTC GAG ACT ??? AGG ATC TTG GGA TGG GAC GGC GCC GGC GTC GTT GTC GCC ??? GTG CTA ??? CAT TCA ATA ??? GAT ??? GTA ??? TTC ACT GGT GAT CAT ??? CGA AAC ??? TCA AAT GCA ??? TAC TTA GAC GAA GTT TTA GTT GGA ACA AAA ??? TTT GAG CAG GCA ??? GCC ATG CCT CTG ACT TCA GTC ??? GCT TAT GAA TGC ATC CGA CTT TTA ATC ??? AGC AAA GAT AAA GGG CGT ACT CTG CTT ATA ATT ??? TGC TGG TGG TGT TGG TTC AGT AGC ??? ATG GCA AAG AAT TTG GGA TTA AAA GTG ??? GGA ACA GCT TTT CAA AAT GGC TAC TCT GTC ACC ATT ??? GAG 
+donor_talaromyces_stipitatus_LigB_XM_002485578.1  GCC GAT TCT GGG ??? ??? CAG CCA ??? ??? CAT GGT ??? ATC ATG GGA ??? TCG TCC CGA ??? CCC ??? GGC CAT CAT ??? CGC GCA CTG GAG TAC ACA GCG TCC GAC AAT CTC CTC GGG ??? CTA TTA ??? TTT TCC TTA ??? GAT ??? ATA ??? TGC TCC CGG GTC TCC ??? AAT CGC ??? AGA GAT ATA ??? ACG CTT CAG AAG GCG GGA CTT TCG CCG AAG ??? GAC TCG AGG GTG ??? TCA TGG CGT TTT TAT TCC GAT ??? GCT CAT CGT GCC AGA AGT CAA TTC CTA ??? TTC AAA TGT AAA GCG AGG ACC CAG AAG AAC ACT ??? GTC AGG TGC TTT CAG AAT TAC GCA ??? TGG GAT CTG GAT TTG CCA CTT TCC ATA ??? TGC GAC TCT AAA CTT CGC GAG TTT CCT CAT GCT GTA ??? GCG 
+hmelpomene_LigB_HMEL013217      GCC TTT GTT AGG ??? ??? AGA CCA ??? ??? CCT GAC ??? TTT CTT ACG ??? CGA CCT AAA ??? GGT ??? AGC AAT CAT ??? TGC CCA TTG GGA GGA AAG CAA AGT AAC AAT TTC TTC AGG ??? TTA CTA ??? TTT TCC ATA ??? ATA ??? ATA ??? TGC ACC TGG AGA CCC ??? ACT GGC ??? ACA TAT CCA ??? AAC TTA CAA AAA GCA GGT ATA GAT ACA AAA ??? CAA AAG GGG ATG ??? TCA TGG GGT GTT TGT ACC AAT ??? ATT AAT AAA CCC ATC CAG ATA TTC CTA ??? TAC AAA TAT CAA ACC AGG ACC CTG AAA AGC ATT ??? GTC AAG TTT TAT ATA AAT TTA GGA ??? TTG GTT CTG GAA TGT CCT ATC ACA ATA ??? GAG AAT TTC TTT CTA CAT AAA CAA CCT GGT GCT GTT ??? GCA 
+marinobacter_hydrocarbonoclasticus_LigB_CP000514.1  GCC GCT GCT GGG ??? ??? CGG GCA ??? ??? CAT GGT ??? TCG GTT AAC ??? GCT CCT GCG ??? ACC ??? TGC GAT ACT ??? CGC CCA CTG GGA GGA GGC GAT CCC GAC CAT TAC CTC CAG ??? TTA TTA ??? TTT TCC CTA ??? GAT ??? ATA ??? CTG CCC GGG GGA GCC ??? GCT GGC ??? GCA GGT CGC ??? GGC CTG GAT CAG GCT GGC ATC CAG GCC CGC ??? CCA GCG GGG CCT ??? TCA CGG CGC GTT TGT GCC GCT ??? ACT GAT GTA TCC GGA CAA ATA TTC CCT ??? TTC AGC TCT ACA CTC TGG ACG CCA GTA CGC ACC ??? GCC GGG CAT TGC AGG CAC TGG ATT ??? TTG GCT CCG GCT TCT CGT TCC ACA ACA ??? GGG CCT TCT TGG CTG GAA CAG GCG CCC CAT GCC GTG ??? TAT 
+marinobacter_salarius_LigB_CP021333.1  GCC GCT GTT GGG ??? ??? CGG TCA ??? ??? AAT GGT ??? GCG GCT CAC ??? GCT GCT ACA ??? ACC ??? GGC TAT ACT ??? CGC CCA CTG GGA GGA GTC AGT GCC GAT GAT CAC CTC GGG ??? TTA CTA ??? CTT CCC CTA ??? TAT ??? GTA ??? CTG CCT GGG AGA GCC ??? GCT GGC ??? GCA GGT TTA ??? GGC TTG GAA CAG TCC GGA GTC CCA GCG CAA ??? TCG AAG GGG CTT ??? TCA CGG CCT GTT CGT GCC GCT ??? GCT GAT GTA TCC GGA CGG ATA TCC CAT ??? TGC AGC TGT ACA GTC TGG ATG CCA GCA CCC ACT ??? GTC GTG CTT TGC AGG GGC TGG ACT ??? TCG GCT CTG GGT TCT CGT TCC ATA ACA ??? GGG CGT TTT TGG CTG GAA GAG GCG CCC CAC GCC GTG ??? TAC 
+pseudoalteromonas_arctica_LigB_CP011026.1  GCC ACT TCT AGG ??? ??? AGG GCA ??? ??? GAT GGT ??? TTG TTT ACA ??? CAT AAT AAT ??? GCC ??? GGC TAT CAT ??? TGC ACA TTG GGA GGA AAC CAT ACC GAC CAT TAC TTC CGG ??? TTA TTA ??? GTT TCC GTA ??? TAT ??? ATA ??? TTG TAT GGG GGA GCC ??? GCT AGC ??? GCA GAT TTA ??? CTT CTC GAA AGC GAA GGA ATT GAC GCT AAT ??? GAA ACG GGG TTT ??? TCA TGG CCT TTT TGT GCC GTT ??? AAT AAT GTA CCC AAA CGG ATA TTC CAT ??? TTC AGC TGT ACA GTC TTG ACC CCG ATC AGC ACT ??? GGC AGG CAC TTC AAA ACT TGG ATT ??? TTG GTT CGG GAT TTT CAT TTC ATA ACA ??? AGG CTT TTT TGG CTT CTA GAG GCC CCT GCT GCC GTC ??? TAT 
+trichoderma_reesei_LigB_XM_006963659.1  TCC TAT CCT TGG ??? ??? CCT TCA ??? ??? CAT TGT ??? CTC CCT CAA ??? CCG CCC CCA ??? GCC ??? TGC CAT TGT ??? CGC GCA CTG GTC GAC AGA CAA GCC GAC CAT TTC GTC CGC ??? CTA CTA ??? CTT CCC CTA ??? GCT ??? GTA ??? CGC CCC AGG CCA CCC ??? GGT CGC ??? GGA GGT GAA ??? CGC CTG GAA GAG CAG GGC CTC AAG CCC GTG ??? GGA AAG AGG ATG ??? TCA CGG CGT CTT CAT CCC GAT ??? GCT CGT GAA CCC CGC CCA ACG TGC CCA ??? TGC AGG TCT AAT CAG AGG ACC CGG AGG AGC ATC ??? GCG CCG CGT TGT CAA AGC TCC GGC ??? TGG GCT CAG GGT TTG CTT CGC TGC ATA ??? TCC AAG CAT AGG GTT GAT CAG CTG CCG CAT GCT GTG ??? GCT 
+
+
+
+After deleting gaps. 357 sites
+      7    357
+
+bmori_LigB                      GCC GGT TTT AAA AGA CGT GGA GGT GGC GAT CGC GAA GCT CCG CCA GTC GAG ACT AGG ATC TTG GGA TGG GAC GGC GCC GGC GTC GTT GTC GCC GTG CTA CAT TCA ATA GAT GTA TTC ACT GGT GAT CAT CGA AAC TCA AAT GCA TAC TTA GAC GAA GTT TTA GTT GGA ACA AAA TTT GAG CAG GCA GCC ATG CCT CTG ACT TCA GTC GCT TAT GAA TGC ATC CGA CTT TTA ATC AGC AAA GAT AAA GGG CGT ACT CTG CTT ATA ATT TGC TGG TGG TGT TGG TTC AGT AGC ATG GCA AAG AAT TTG GGA TTA AAA GTG GGA ACA GCT TTT CAA AAT GGC TAC TCT GTC ACC ATT GAG 
+donor_talaromyces_stipitatus_LigB_XM_002485578.1  GCC GAT TCT GGG CAG CCA CAT GGT ATC ATG GGA TCG TCC CGA CCC GGC CAT CAT CGC GCA CTG GAG TAC ACA GCG TCC GAC AAT CTC CTC GGG CTA TTA TTT TCC TTA GAT ATA TGC TCC CGG GTC TCC AAT CGC AGA GAT ATA ACG CTT CAG AAG GCG GGA CTT TCG CCG AAG GAC TCG AGG GTG TCA TGG CGT TTT TAT TCC GAT GCT CAT CGT GCC AGA AGT CAA TTC CTA TTC AAA TGT AAA GCG AGG ACC CAG AAG AAC ACT GTC AGG TGC TTT CAG AAT TAC GCA TGG GAT CTG GAT TTG CCA CTT TCC ATA TGC GAC TCT AAA CTT CGC GAG TTT CCT CAT GCT GTA GCG 
+hmelpomene_LigB_HMEL013217      GCC TTT GTT AGG AGA CCA CCT GAC TTT CTT ACG CGA CCT AAA GGT AGC AAT CAT TGC CCA TTG GGA GGA AAG CAA AGT AAC AAT TTC TTC AGG TTA CTA TTT TCC ATA ATA ATA TGC ACC TGG AGA CCC ACT GGC ACA TAT CCA AAC TTA CAA AAA GCA GGT ATA GAT ACA AAA CAA AAG GGG ATG TCA TGG GGT GTT TGT ACC AAT ATT AAT AAA CCC ATC CAG ATA TTC CTA TAC AAA TAT CAA ACC AGG ACC CTG AAA AGC ATT GTC AAG TTT TAT ATA AAT TTA GGA TTG GTT CTG GAA TGT CCT ATC ACA ATA GAG AAT TTC TTT CTA CAT AAA CAA CCT GGT GCT GTT GCA 
+marinobacter_hydrocarbonoclasticus_LigB_CP000514.1  GCC GCT GCT GGG CGG GCA CAT GGT TCG GTT AAC GCT CCT GCG ACC TGC GAT ACT CGC CCA CTG GGA GGA GGC GAT CCC GAC CAT TAC CTC CAG TTA TTA TTT TCC CTA GAT ATA CTG CCC GGG GGA GCC GCT GGC GCA GGT CGC GGC CTG GAT CAG GCT GGC ATC CAG GCC CGC CCA GCG GGG CCT TCA CGG CGC GTT TGT GCC GCT ACT GAT GTA TCC GGA CAA ATA TTC CCT TTC AGC TCT ACA CTC TGG ACG CCA GTA CGC ACC GCC GGG CAT TGC AGG CAC TGG ATT TTG GCT CCG GCT TCT CGT TCC ACA ACA GGG CCT TCT TGG CTG GAA CAG GCG CCC CAT GCC GTG TAT 
+marinobacter_salarius_LigB_CP021333.1  GCC GCT GTT GGG CGG TCA AAT GGT GCG GCT CAC GCT GCT ACA ACC GGC TAT ACT CGC CCA CTG GGA GGA GTC AGT GCC GAT GAT CAC CTC GGG TTA CTA CTT CCC CTA TAT GTA CTG CCT GGG AGA GCC GCT GGC GCA GGT TTA GGC TTG GAA CAG TCC GGA GTC CCA GCG CAA TCG AAG GGG CTT TCA CGG CCT GTT CGT GCC GCT GCT GAT GTA TCC GGA CGG ATA TCC CAT TGC AGC TGT ACA GTC TGG ATG CCA GCA CCC ACT GTC GTG CTT TGC AGG GGC TGG ACT TCG GCT CTG GGT TCT CGT TCC ATA ACA GGG CGT TTT TGG CTG GAA GAG GCG CCC CAC GCC GTG TAC 
+pseudoalteromonas_arctica_LigB_CP011026.1  GCC ACT TCT AGG AGG GCA GAT GGT TTG TTT ACA CAT AAT AAT GCC GGC TAT CAT TGC ACA TTG GGA GGA AAC CAT ACC GAC CAT TAC TTC CGG TTA TTA GTT TCC GTA TAT ATA TTG TAT GGG GGA GCC GCT AGC GCA GAT TTA CTT CTC GAA AGC GAA GGA ATT GAC GCT AAT GAA ACG GGG TTT TCA TGG CCT TTT TGT GCC GTT AAT AAT GTA CCC AAA CGG ATA TTC CAT TTC AGC TGT ACA GTC TTG ACC CCG ATC AGC ACT GGC AGG CAC TTC AAA ACT TGG ATT TTG GTT CGG GAT TTT CAT TTC ATA ACA AGG CTT TTT TGG CTT CTA GAG GCC CCT GCT GCC GTC TAT 
+trichoderma_reesei_LigB_XM_006963659.1  TCC TAT CCT TGG CCT TCA CAT TGT CTC CCT CAA CCG CCC CCA GCC TGC CAT TGT CGC GCA CTG GTC GAC AGA CAA GCC GAC CAT TTC GTC CGC CTA CTA CTT CCC CTA GCT GTA CGC CCC AGG CCA CCC GGT CGC GGA GGT GAA CGC CTG GAA GAG CAG GGC CTC AAG CCC GTG GGA AAG AGG ATG TCA CGG CGT CTT CAT CCC GAT GCT CGT GAA CCC CGC CCA ACG TGC CCA TGC AGG TCT AAT CAG AGG ACC CGG AGG AGC ATC GCG CCG CGT TGT CAA AGC TCC GGC TGG GCT CAG GGT TTG CTT CGC TGC ATA TCC AAG CAT AGG GTT GAT CAG CTG CCG CAT GCT GTG GCT 
+
+
+
+Printing out site pattern counts
+
+
+         7        357  P
+
+bmori_LigB                      AAA AAA AAA AAA AAA AAC AAG AAT AAT AAT ACA ACA ACC ACT ACT ACT ACT AGA AGC AGC AGG AGT ATA ATA ATC ATC ATC ATG ATG ATT ATT CAA CAG CAT CAT CCA CCG CCT CGA CGA CGC CGT CGT CTA CTG CTG CTT CTT GAA GAA GAA GAC GAC GAG GAG GAG GAT GAT GAT GAT GCA GCA GCA GCC GCC GCC GCC GCT GCT GCT GGA GGA GGA GGA GGA GGC GGC GGC GGC GGG GGT GGT GGT GTA GTC GTC GTC GTC GTC GTG GTG GTT GTT GTT TAC TAC TAT TCA TCA TCA TCT TGC TGC TGG TGG TGG TGG TGT TTA TTA TTA TTA TTC TTC TTG TTG TTT TTT TTT 
+donor_talaromyces_stipitatus_LigB_XM_002485578.1  ... ... ..G GGG TCC CG. CT. CGC G.. G.. C.G GAC G.T ..C CA. TA. T.C CAG GCA TT. C.C TAC .AC T.. .GA C.A GCA TG. TG. .C. G.A .TT AG. TCC TT. ..C .GA .G. AAT A.T G.A A.G .CA T.. .A. T.T AAG .AA A.G CGT TCG ACA C.G C.T .C. TC. ATG ... .TC TG. AT. .AT .TG ... .GG T.A T.. ... T.C T.. CAT CC. .AG TCG T.C AT. .A. .AG .CG .C. C.G .A. ... A.. AAT CAT C.. .AT .G. A.A C.A C.C C.. .CG ACG .TT C.. AG. ..C ..C C.. GC. GT. A.. CA. .AC ..C .T. C.T C.T GG. ..C AAT .G. C.. ... AAA GAC .C. 
+hmelpomene_LigB_HMEL013217      ... C.. ... .GG .C. GG. CT. C.. G.A T.. ... .AT G.T ..C CA. TG. ..C ... G.A TA. T.C TTA .GC ... ... C.A CCA TG. T.. ... G.. .T. GG. .CC TT. GGT AAA GG. ACT .AG ACG A.G .CA ... ... G.T AAA A.A A.. A.. CG. A.G C.A A.T .CA A.. CT. ATA AGA T.. C.. .TT ATG ... AGG T.A AGT AT. C.. TTC CCT CCT ... .AT .AG TTT AA. AAA CAA ACC T.G TT. .AC A.. AAT .GT T.. AAT AG. A.A T.A T.C A.A .CA A.. C.A A.. A.. A.C ..C C.. CC. GT. AA. ATA G.A .TT .A. A.C ... GGT ..C AAT .G. ... .GT ... CAA G.. 
+marinobacter_hydrocarbonoclasticus_LigB_CP000514.1  .GC .C. CGC GGG .C. GG. CC. G.A GC. GG. G.C C.T G.. ..G ... TG. C.C C.G .TT TT. C.C T.G CGC C.. GGA CCT CCA CG. T.. .CC G.G .TG GG. GCC TT. A.C G.. .GC GCT .A. AA. T.G GCA T.. .CA G.T G.A A.A C.G .T. .CT .G. ..T ..T T.T .C. .T. ... .GA TC. CGC ..T C.T ... CAG T.A C.. A.. C.. T.. CAT C.T ... CAG ..G TCG .A. CAG .AT CTC ..G .C. ... A.. CAT CAT C.. .CT TG. ACA T.A TAC A.C .C. GG. GCG G.. G.. G.C ..C C.C .C. GC. G.. A.. G.A CAT ..C .CC C.G GGC ..C CA. C.G C.. .CT .GG CCA GC. 
+marinobacter_salarius_LigB_CP021333.1  .GC .C. C.. GGG .T. GG. CT. G.A GG. GG. G.G CGT G.. .TG ... CG. C.. C.G .CT T.. C.C T.G CCC C.. GGA CAT CCA CG. TC. .C. G.G .TG GG. GCC .T. A.C A.A ... GCT ..G .A. T.G TCA ... .CA G.T GCA A.A C.G .T. .CT .T. ..A T.T T.C A.. .C. T.. AGA TG. TT. ..T CTT ... .GG T.A ... ... ... TT. AAT C.T ... CC. ..G .CG .AT .AG A.T .TC ..G .C. ... ... .AT CA. C.. .CT .G. ACA T.A CAC ..C TCC GG. GCG G.. G.. G.C C.C C.C .C. GT. GT. A.. G.A CTT ..C .CC ..G GG. .CC GG. C.G C.. .CT .GG .CG G.. 
+pseudoalteromonas_arctica_LigB_CP011026.1  .GC .C. ..T .GG .T. .G. CG. CTA G.. G.. G.T CTT G.. ..C CA. TG. TA. ..G .TT TT. T.C T.G .GC G.. .AA CAT .CA TG. T.. .C. G.C .TT GG. GCC GT. G.C AAT ... GCT ..G ACA TTG GCA T.. .C. T.T A.C A.A AGC .T. C.T A.. ..A T.T T.T AC. TT. T.. .GA TG. TT. .TT TTT ... CGG T.A A.. AA. AA. TT. .AT CAT ... .AC A.G TTG .A. .AG CAT .TC ..G AC. ... A.. CAT .CT T.. ..T .G. ACA T.A TAC A.. .AA CTT GC. A.. G.. G.C ..C C.. CC. G.. A.. AAA G.A CAC .TC ..C C.C GG. ..C ACT ..G ... ..T .GG GAA .C. 
+trichoderma_reesei_LigB_XM_006963659.1  .GG ..T GTG TGG TGC CG. C.. G.. GG. GG. C.C .AG G.T ..C TG. CA. C.C CCT G.. T.. C.C TCC .GC C.. CG. CCA GCA CG. TG. ..C G.G GTT AG. .CC .T. G.C ..A .G. G.T .C. .AA A.G TCA ... .G. ..T AGG ACG ..G ... CCG AGA ..A C.T .CT A.. CC. .C. CCA TC. .A. ..T ATG T.. CG. T.A ... ... C.C CA. CAT CTT .TC AAG TCC CT. .A. CAG CAA CA. A.G TA. T.. ... CAT CAT ... .AT TG. A.A C.A T.C C.C CAG CG. CTG CG. GG. C.C C.C C.G CC. GCG CC. CAA GAC C.T ... CGC C.G GGC .GC AG. CG. C.. ... AGG GGA CC. 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+
+CODONML (in paml version 4.9i, September 2018)  LigB_gblocks_alignment.fasta
+Model: free dN/dS Ratios for branches, 
+Codon frequency model: F3x4
+ns =   7  ls = 119
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   3   4   5   1   1   5 | Ser TCT   1   2   0   3   1   1 | Tyr TAT   1   1   3   1   2   4 | Cys TGT   1   1   2   1   1   2
+    TTC   2   2   4   2   0   5 |     TCC   0   7   1   3   4   1 |     TAC   2   2   1   1   1   1 |     TGC   2   3   2   2   2   1
+Leu TTA   4   2   3   2   2   3 |     TCA   3   1   1   1   2   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   2   1   2   1   1   5 |     TCG   0   3   0   1   2   0 |     TAG   0   0   0   0   0   0 | Trp TGG   4   2   2   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   2   4   1   0   3   3 | Pro CCT   1   1   4   4   2   2 | His CAT   2   5   2   4   1   6 | Arg CGT   2   2   0   1   3   0
+    CTC   0   2   0   2   1   1 |     CCC   0   1   2   3   3   1 |     CAC   0   0   0   1   3   1 |     CGC   1   3   0   5   1   0
+    CTA   1   2   3   1   2   1 |     CCA   1   2   3   3   3   0 | Gln CAA   1   1   5   1   1   0 |     CGA   2   1   1   0   0   0
+    CTG   2   2   2   4   4   0 |     CCG   1   1   0   1   0   1 |     CAG   1   4   1   4   1   0 |     CGG   0   1   0   2   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   0   2   1   0   2 | Thr ACT   4   1   1   2   3   3 | Asn AAT   3   3   6   0   1   5 | Ser AGT   1   1   1   0   1   0
+    ATC   3   1   2   1   0   1 |     ACC   1   1   4   2   1   2 |     AAC   1   1   2   1   0   1 |     AGC   2   0   2   1   1   4
+    ATA   2   3   7   2   2   3 |     ACA   2   1   3   3   3   4 | Lys AAA   5   3   7   0   0   2 | Arg AGA   1   2   2   0   1   0
+Met ATG   2   1   1   0   1   0 |     ACG   0   1   1   1   0   1 |     AAG   1   3   3   0   1   0 |     AGG   1   3   3   1   1   4
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   3   0   4   2   2   3 | Ala GCT   3   2   1   8   8   3 | Asp GAT   4   6   1   5   3   3 | Gly GGT   3   1   4   2   3   1
+    GTC   5   2   1   0   4   2 |     GCC   4   2   1   6   5   6 |     GAC   2   3   1   1   0   2 |     GGC   4   1   1   4   4   2
+    GTA   1   1   0   2   2   2 |     GCA   3   2   2   2   2   2 | Glu GAA   3   0   1   1   2   3 |     GGA   5   2   3   4   4   4
+    GTG   2   1   0   1   2   0 |     GCG   0   4   0   3   3   0 |     GAG   3   2   1   0   1   1 |     GGG   1   2   1   5   5   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   0 | Ser TCT   1 | Tyr TAT   1 | Cys TGT   3
+    TTC   1 |     TCC   3 |     TAC   0 |     TGC   4
+Leu TTA   0 |     TCA   2 | *** TAA   0 | *** TGA   0
+    TTG   1 |     TCG   0 |     TAG   0 | Trp TGG   2
+------------------------------------------------------
+Leu CTT   3 | Pro CCT   3 | His CAT   6 | Arg CGT   3
+    CTC   2 |     CCC   7 |     CAC   0 |     CGC   7
+    CTA   3 |     CCA   4 | Gln CAA   3 |     CGA   0
+    CTG   3 |     CCG   3 |     CAG   4 |     CGG   2
+------------------------------------------------------
+Ile ATT   0 | Thr ACT   0 | Asn AAT   1 | Ser AGT   0
+    ATC   1 |     ACC   1 |     AAC   0 |     AGC   2
+    ATA   1 |     ACA   0 | Lys AAA   0 | Arg AGA   1
+Met ATG   1 |     ACG   1 |     AAG   3 |     AGG   6
+------------------------------------------------------
+Val GTT   1 | Ala GCT   5 | Asp GAT   2 | Gly GGT   3
+    GTC   2 |     GCC   2 |     GAC   2 |     GGC   2
+    GTA   1 |     GCA   1 | Glu GAA   3 |     GGA   2
+    GTG   2 |     GCG   1 |     GAG   1 |     GGG   0
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: bmori_LigB     
+position  1:    T:0.21008    C:0.14286    A:0.26050    G:0.38655
+position  2:    T:0.30252    C:0.20168    A:0.24370    G:0.25210
+position  3:    T:0.30252    C:0.24370    A:0.28571    G:0.16807
+Average         T:0.27171    C:0.19608    A:0.26331    G:0.26891
+
+#2: donor_talaromyces_stipitatus_LigB_XM_002485578.1
+position  1:    T:0.26050    C:0.26891    A:0.21008    G:0.26050
+position  2:    T:0.23529    C:0.26891    A:0.28571    G:0.21008
+position  3:    T:0.28571    C:0.26050    A:0.19328    G:0.26050
+Average         T:0.26050    C:0.26611    A:0.22969    G:0.24370
+
+#3: hmelpomene_LigB_HMEL013217
+position  1:    T:0.21849    C:0.20168    A:0.39496    G:0.18487
+position  2:    T:0.31092    C:0.20168    A:0.28571    G:0.20168
+position  3:    T:0.31092    C:0.20168    A:0.34454    G:0.14286
+Average         T:0.28011    C:0.20168    A:0.34174    G:0.17647
+
+#4: marinobacter_hydrocarbonoclasticus_LigB_CP000514.1
+position  1:    T:0.18487    C:0.30252    A:0.12605    G:0.38655
+position  2:    T:0.18487    C:0.38655    A:0.16807    G:0.26050
+position  3:    T:0.29412    C:0.29412    A:0.18487    G:0.22689
+Average         T:0.22129    C:0.32773    A:0.15966    G:0.29132
+
+#5: marinobacter_salarius_LigB_CP021333.1
+position  1:    T:0.18487    C:0.26050    A:0.13445    G:0.42017
+position  2:    T:0.22689    C:0.35294    A:0.14286    G:0.27731
+position  3:    T:0.29412    C:0.25210    A:0.21849    G:0.23529
+Average         T:0.23529    C:0.28852    A:0.16527    G:0.31092
+
+#6: pseudoalteromonas_arctica_LigB_CP011026.1
+position  1:    T:0.26891    C:0.15966    A:0.26891    G:0.30252
+position  2:    T:0.30252    C:0.23529    A:0.24370    G:0.21849
+position  3:    T:0.36134    C:0.26050    A:0.21008    G:0.16807
+Average         T:0.31092    C:0.21849    A:0.24090    G:0.22969
+
+#7: trichoderma_reesei_LigB_XM_006963659.1
+position  1:    T:0.15126    C:0.44538    A:0.15126    G:0.25210
+position  2:    T:0.18487    C:0.28571    A:0.21849    G:0.31092
+position  3:    T:0.26891    C:0.30252    A:0.17647    G:0.25210
+Average         T:0.20168    C:0.34454    A:0.18207    G:0.27171
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      19 | Ser S TCT       9 | Tyr Y TAT      13 | Cys C TGT      11
+      TTC      16 |       TCC      19 |       TAC       8 |       TGC      16
+Leu L TTA      16 |       TCA      11 | *** * TAA       0 | *** * TGA       0
+      TTG      13 |       TCG       6 |       TAG       0 | Trp W TGG      19
+------------------------------------------------------------------------------
+Leu L CTT      16 | Pro P CCT      17 | His H CAT      26 | Arg R CGT      11
+      CTC       8 |       CCC      17 |       CAC       5 |       CGC      17
+      CTA      13 |       CCA      16 | Gln Q CAA      12 |       CGA       4
+      CTG      17 |       CCG       7 |       CAG      15 |       CGG      11
+------------------------------------------------------------------------------
+Ile I ATT       7 | Thr T ACT      14 | Asn N AAT      19 | Ser S AGT       4
+      ATC       9 |       ACC      12 |       AAC       6 |       AGC      12
+      ATA      20 |       ACA      16 | Lys K AAA      17 | Arg R AGA       7
+Met M ATG       6 |       ACG       5 |       AAG      11 |       AGG      19
+------------------------------------------------------------------------------
+Val V GTT      15 | Ala A GCT      30 | Asp D GAT      24 | Gly G GGT      17
+      GTC      16 |       GCC      26 |       GAC      11 |       GGC      18
+      GTA       9 |       GCA      14 | Glu E GAA      13 |       GGA      24
+      GTG       8 |       GCG      11 |       GAG       9 |       GGG      16
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.21128    C:0.25450    A:0.22089    G:0.31333
+position  2:    T:0.24970    C:0.27611    A:0.22689    G:0.24730
+position  3:    T:0.30252    C:0.25930    A:0.23049    G:0.20768
+Average         T:0.25450    C:0.26331    A:0.22609    G:0.25610
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01650582  0.01414784  0.01257586  0.01133137
+  0.01825162  0.01564425  0.01390600  0.01252988
+  0.01499807  0.01285549  0.00000000  0.00000000
+  0.01634711  0.01401180  0.00000000  0.01122242
+  0.01988200  0.01704172  0.01514819  0.01364915
+  0.02198491  0.01884421  0.01675041  0.01509281
+  0.01806586  0.01548502  0.01376446  0.01240236
+  0.01969083  0.01687786  0.01500254  0.01351791
+  0.01725608  0.01479093  0.01314749  0.01184644
+  0.01908124  0.01635535  0.01453809  0.01309942
+  0.01567980  0.01343983  0.01194652  0.01076431
+  0.01709016  0.01464870  0.01302107  0.01173253
+  0.02447737  0.02098061  0.01864943  0.01680391
+  0.02706633  0.02319971  0.02062196  0.01858125
+  0.02224146  0.01906411  0.01694587  0.01526894
+  0.02424201  0.02077887  0.01847011  0.01664234
+
+
+TREE #  1:  (1, ((4, 5), 6), ((2, 7), 3));   MP score: 484
+lnL(ntime: 11  np: 23):  -2663.919158      +0.000000
+   8..1     8..9     9..10   10..4    10..5     9..6     8..11   11..12   12..2    12..7    11..3  
+ 3.044197 0.632528 0.632107 0.320284 0.446099 0.376720 0.013598 0.622849 0.752324 1.117369 0.868901 1.785154 0.984106 14.780567 1.945464 1.383328 2.442968 1.252889 620.894705 0.813256 0.974324 3.083688 0.788450
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  8.826977
+
+(1: 3.044197, ((4: 0.320284, 5: 0.446099): 0.632107, 6: 0.376720): 0.632528, ((2: 0.752324, 7: 1.117369): 0.622849, 3: 0.868901): 0.013598);
+
+(bmori_LigB: 3.044197, ((marinobacter_hydrocarbonoclasticus_LigB_CP000514.1: 0.320284, marinobacter_salarius_LigB_CP021333.1: 0.446099): 0.632107, pseudoalteromonas_arctica_LigB_CP011026.1: 0.376720): 0.632528, ((donor_talaromyces_stipitatus_LigB_XM_002485578.1: 0.752324, trichoderma_reesei_LigB_XM_006963659.1: 1.117369): 0.622849, hmelpomene_LigB_HMEL013217: 0.868901): 0.013598);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.78515
+
+w (dN/dS) for branches:  0.98411 14.78057 1.94546 1.38333 2.44297 1.25289 620.89471 0.81326 0.97432 3.08369 0.78845
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   8..1      3.044   254.8   102.2  0.9841  1.0101  1.0264 257.3 104.9
+   8..9      0.633   254.8   102.2 14.7806  0.2876  0.0195  73.3   2.0
+   9..10     0.632   254.8   102.2  1.9455  0.2448  0.1258  62.4  12.9
+  10..4      0.320   254.8   102.2  1.3833  0.1160  0.0838  29.5   8.6
+  10..5      0.446   254.8   102.2  2.4430  0.1790  0.0733  45.6   7.5
+   9..6      0.377   254.8   102.2  1.2529  0.1333  0.1064  34.0  10.9
+   8..11     0.014   254.8   102.2 620.8947  0.0063  0.0000   1.6   0.0
+  11..12     0.623   254.8   102.2  0.8133  0.1948  0.2395  49.6  24.5
+  12..2      0.752   254.8   102.2  0.9743  0.2489  0.2555  63.4  26.1
+  12..7      1.117   254.8   102.2  3.0837  0.4618  0.1498 117.7  15.3
+  11..3      0.869   254.8   102.2  0.7885  0.2690  0.3411  68.5  34.9
+
+tree length for dN:       3.1515
+tree length for dS:       2.4210
+
+dS tree:
+(bmori_LigB: 1.026375, ((marinobacter_hydrocarbonoclasticus_LigB_CP000514.1: 0.083828, marinobacter_salarius_LigB_CP021333.1: 0.073257): 0.125810, pseudoalteromonas_arctica_LigB_CP011026.1: 0.106375): 0.019459, ((donor_talaromyces_stipitatus_LigB_XM_002485578.1: 0.255456, trichoderma_reesei_LigB_XM_006963659.1: 0.149756): 0.239542, hmelpomene_LigB_HMEL013217: 0.341138): 0.000010);
+dN tree:
+(bmori_LigB: 1.010062, ((marinobacter_hydrocarbonoclasticus_LigB_CP000514.1: 0.115962, marinobacter_salarius_LigB_CP021333.1: 0.178965): 0.244759, pseudoalteromonas_arctica_LigB_CP011026.1: 0.133275): 0.287622, ((donor_talaromyces_stipitatus_LigB_XM_002485578.1: 0.248897, trichoderma_reesei_LigB_XM_006963659.1: 0.461800): 0.194809, hmelpomene_LigB_HMEL013217: 0.268971): 0.006347);
+
+w ratios as labels for TreeView:
+(bmori_LigB #0.984106 , ((marinobacter_hydrocarbonoclasticus_LigB_CP000514.1 #1.38333 , marinobacter_salarius_LigB_CP021333.1 #2.44297 ) #1.94546 , pseudoalteromonas_arctica_LigB_CP011026.1 #1.25289 ) #14.7806 , ((donor_talaromyces_stipitatus_LigB_XM_002485578.1 #0.974324 , trichoderma_reesei_LigB_XM_006963659.1 #3.08369 ) #0.813256 , hmelpomene_LigB_HMEL013217 #0.78845 ) #620.895 );
+
+
+Time used:  0:31

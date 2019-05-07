@@ -1,0 +1,208 @@
+      5   1380
+
+acidithiobacillus_ferrivorans_Gtg_CP002985.1  ATG AAC GGA CTG GGG GGC GAT GCA TTC TGG CTG ATC TCG GAC GGC GAT GCG CGC ACG GTG CGC GGA CTG GCT GGT CCA GCC GGG CGA TAC GCG CTG TTT CGT GAC CGG GAA ATT CCG TTC CGT GGT GGC TTG TCC GCC ATG ACT GTG CCG GGT GCG GTG GGC GGT TGG GGG GCG GCG TTC GAG TTC TGC TGG CAG GGC CGC AAA TCC TGG TCG GCC GTG CTG GAG AGC GCC TAT TGC CAC GCC GCC ACC GGT TTT CCG CTC AGC CCT AAC CAG AGC CAT ACC CTC ACC AGA TTT GGC GAT GTG CTC CGT CAG CAG CCG GGT TTT GCC GCG CAA TAC ATG CCG GGG GGG GAG ATA TTG CCG ACC GGG CGA CTG TGG AGT CAA CGG GCG CTG GCA CAA ACG CTC GGG ACT CTG GCG GAA AAT GGT GCA GAG GCT TTT TAT CAC GGT CCG CTC GCC TGG CAA ATG GCG AAG GGT CTC AAA GCC GCT GGC AGT CTG CTG ACA GAA GCC GAT TTG TGG GCT TTC AAG CCC CGC TGG GTG GAA CCG TTG CGC ACC GCT TTT GGC GAG GCT ATC AAT ATG CCG CCA CCT ACC CAA GGA GTA GCC TCA CTC ATG ATC CTC GCC CTG CTC AAT CGC GTT GGA CTC AAC AGC CAT CTG GGC GCG GAA CTG ATT CAT AAT ACG GTA GAA ATC ACC AAA CTG GCC TTT CGG GAT CAG CTA GTA GCC GAT CCC GGC TTT GGC GAG GTG GAT ATT GCG GCA TTG CTG AAC TTT CTG GAT GAC TGC GCC GTA CAT CCC CTT ATC GCG ATG CCG CTG CCG TCC ATT GGA CTC GCC AAA GGC GAT ACG GTC TGG TTC GGG GTG GTG GAT GGG CAA GGG CGG ATG GTG AGT GTG ATT CAG AGT CTT TAC CAC GAG TTT GGC ACC GGC GTG GTG GCA GGC AAT ACC GGG GTG CTG TGG AAT AAC CGC GGC TGT GCC TTT TCT CTG GCG CCG GGG CAC GTC AAT GTA CTG GAG CCT GGA AAA CGC CCC TTT CAT ACC CTT AAT CCA GCG CTC TAT GCC GAG CAG GGG CGG GTG CAA CTC GCC TAC GGC AGT ATG GGG GGG GAT GGC CAG CCC CAG ACC CAG GCG GCG CTG CTC ATG CGC GCC AAG CAC TAT GGG CTT TCC CTC GCC GAG TCG GTA ATC AGT CCG CGC TGG CTG TAT GGG CGT ACC TGG GGG GAG GCC TCG GCG GGT CTG CGT CTG GAG CGG CGC TAT TCC GAC GCC GTT TTT GGG GAT TTG TGC CGC TGG GGG CAC CAG GTG TCG TGG GTG CCA GAT TAC AGT GAT TTT ATG GGC CAC GCG GGT ATG GTT GCG CGT GAT CCG CAG GGC GGA TTT GCG GGT GCT GCT GAT CCG CGC AGT GAT GGT GGC GTG 
+gluconacetobacter_diazotrophicus_Gtg_AM889285.1  ATG ACC GGG ATC GGC GGC GAC GGG TTC TGG CTG GTC CTG TGG CCC GAC GGC CGG ACC GAG ACG ATC GAC TGC GGC GCG GCG GCC CGG CGC GAT TTC TAT CGC GCG GCG GCG ATT CCG TGG CGC GGC CCG CTG GCC GCG AAC ACG GTC GCG GGC ACG ATC TCC GGC TGG GAC CTC GCC CTG TCC TGG GCG CAG CAG CCG GGG CTG AGC CTG CAC CGG CTG CTG CGC GAT GCC ATC TAC TAC GCC GAA CAG GGC GTG CCG GTG ACC GAG GGC GGG GCC GCC CTG ACC CAG GCG AAA ATG GAC GAA CTG GCC GGC ATT CCG GGC TTT CGC GAT GTC TTC CTG CCG AGG GGG CGT GCG CCC CGG GCG GGT GAC ATG CTG CAT AAC CCG GCG CTG TCC CAG ACC CTT CGC CGG CTG GCC TCG GAC GGG CTG GAT TCC TTC TAT CGC GGC GCC CTG GCC CGC GAC ATG GCC CAG GAC CTG CGC GTG CTG GGC AGC CCG CTG GAC CTG GCC GAC CTG AAC ACC CAC CAG GCC CGC GCC CGG CCG CCG CTG CAT GTC GAT GTC GCG CGC CTG TTC AAC ATG GCC CCG CCG ACC CAG GGG GTC GCG TCG CTG CTG ATC CTG GCC ATC TTC GAC CGG CTG CGC GCG GAC CAG CCG GAC GGG TTC GAT CAC GTC CAC GGG CTG GTC GAA GCC ACC AAG CAG GCC TTC CGC GAC GCC CAT GTC GGC GAT CCC GCC TTC ATG TCC GTG GAC GCG CAG GCG GTG CTG GAC GCG CTG GAC GGC ATG GCG GCG ATC GAC CCG GCC CGG GCC GCG CCC TGG CCC CAT CCG TCG CAG GCC GGC GAT ACG GTG TGG ATG GGG GCA GTG GAT GCC GAC GGC GTG GCC GTC AGC ATG ATC CAG AGC GTC TAT TTC GAA TAC GGG TCC GGC GTG GTC CTG CCG CGC ACC GGG GTG CTG TGG CAG AAT CGC GGC GCC AGC TTC CGC CTG GCG GAA GAT GGC TGG AAC GCG CTG CGC CCG GGG CGC AAG CCG TTC CAT ACG CTG AAC CCC GCC GCC GCC CGG TTC GAT GAC GGG CGC ACC ATG GTC TAC GGC ACC ATG GGC GGC GAG GGC CAG CCC CAG ACC CAG GCC GCG CTG TTC ACC CGC TAT GCC CGC TAC GGC ATC GGG TTG CAG CAG GCG GTG ACC GCC CCG CGC TGG CTG CTG GGC CGC ACC TGG GGC GAG GAC AGC ACC ACC CTG AAA TAC GAG GAC CGC TTC GCG CCG GAA GTC ATC GCC CGG CTG GGC GAA GCC GGG CAT GTG CTG GAG GCC ATG CCG GCC TTT ACC TCC ACC ATG GGC CAC GCG GGC GCG CTG GTG CTG CAC CCG TCC GGC CTG ATC GAG GGC GCG ACA GAC CCG CGC AGC GAC GGC ATG GTG 
+hmelpomene_Gtg_HMEL005649       ATG AAT AGC ATT GGA GGT GAT GGT TTC TGG CTT ATA GTC CCT CCT GAA GGT GAT CCC GTG GCT ATA GAA TGT GGG GTA GCT GGC AGT TTA GAT TTT TAT AAT GGC TAT GCA ATT CCA ATA ACA GGT GTT AAG TCC GCA ATA ACA GTT GCC GGC ACT GTT GGT GGG TGG GAA GAA GCT TTG AAG TAC TGT GGT TAT CAA AGA ATG TCT ATT TCA AAG TTA TTA GAG GAT GCT ATA AAG TAT GCC GAA GAT GGA TTT CCC ATA TCA TCA TCA CAC GAA AAG GCA CTA GAA GCT TAC AAA ACA AAT AAA AAT ATA TCA CCA TAT TTT AAA AAC ATA TTT TTA CCA AAT GCA GAA ATT CCT AAA ACC GGG CAA AGA TTT TGT CAA AAG AAT TTG GCT AGA TCA TTA AGA GAA CTA TCA GAG AAT GGC TTG AAT AGT TTC TAT CGG GGT AAT TTG GCG AAA TTG ATT GCG AAA GAC ATG GAG TCC CTT GGC ATG CCA ATC ACA GAA TCA GAT CTT GCA AAT TAC TCG CCC GTT AGA CGG ACT CCT TTG AGA TTA CCG CAC GGC GAA ATA TTC AAC CTA CCA CCG CCG ACA CAA GGC ATA CTT TCA TTA TCA ATT CTC GCT ATC TTA GAT AAG TTA CGC ATC GAT GGC AAA CAT GAA GGT CAA TTT ATT CAT GCA ACA GTT GAA GCT ACA AAA CAG GCA TTT CGA GAC CGG CAT ATA ACC GAC CCT TGT TAC ATG AAA GTC GAT GCC CAA TCA CTG TTA GCA GCA ATT TCC GAA ATG ACG AAT ATT AGT CTC AAT GAA ATA TCT ACT GCC GGG AAG GGT GAA GGC CCG GGG GAT ACG ATC TGG ATG GGT ATT ATG GAT AGT AAA GGA TTT TCA GTT TCA TTT ATA CAG AGC ATT TAT TAT CAT TTT GGT AGT GAA GTT GTT TTA CCC TCT ACA GGA ATT TTA TGG CAT AAT CGC GGC GTT TCT TTT AAT CTG AAG GAA GGT CAT ATA CGA TCT TTG ATT CCA GGT AAA AAG CCA TAT CAC ACA TTG AAT CCG GCG GCT GCT CGC TTA AAC GAC GGT CGT ATT ATG ATT TAC GGC ACT AGA GGT GGA GAC GGC CAA CCT CAG ACG CAA GCT GCT ATA TTT CAT AGG TAC GTT GTT CAG AAA ATC AAT TTG CAA GCG TCC GTT TCG ATG CCA AGA TGG TTG TAC GGA TCA TTG GGA GGA AAT TTG GAA GAT GAT TTA AAA TTA GAG AGT AGA TTT AGT AAG GAA ACT GTC GAT TAT TTA AAG GAG AGA GGC CAT GAA ATA GTA ATG TTG TCC CCG TTT GAT GAA AAT GTG GGC CAC GCC GGG GCT CTG GTG CGA CAT GTC GAT GGT ATG CTT GAA GGT GCA TAT GAT CCT CGC AGT GAT GGC AGT GCC 
+parvularcula_bermudensis_Gtg_CP002156.1  ATG AAC GCT CTT GGT GGT GAC AGT TTT TGG CTG ATT GTG CCT CCC TCC GGT GCC CCA AGG GCG GTG ATG GTG GGC AAG GCC GCT GCG GAT GGG CTA TAT CGC GGT CGA ACC ATT CCC ACC CGT GGC GGC CTT GCG GCC AAC ACC AGT GCC GGT CTG GTC GAG GCC TGG CGG GTC GCG CGA GAG CAG CCC GGC GAG GGC ACC CTC CCC CTC AAG CGT CTT TTC GAC GAC GCG ATT TTC CAT GCC GAG AAC GGC GTC CCT GTG ACC GCC GGC CAC GCC GCC CTG GCA CAG GGA AAG GAC AAA GAA CTG ACC GGA GAC CCC GGT TAT GAT GCC ATC TAT CGC CCC GGC GGC AAA TTC CTC GTC GAA GGG GAG AGG CTG TCG CAG GGG GCG CTG GCC CAA ACG CTA AGG GGC CTT GCC GCG CGA GGA CTT CGC GAC TTT TAC GAA GGC GAC ATT GCC CGC GCC CTC ACC GAC GAC CTG GAG AAA GCA GGC AGC CCC GTC ACG GCG GCG CAT CTC GCC CGG CAG GAG GCC AGG GTG GTG CCC CCT CTC AAA TGC TGT CTT ATC GAG GTG CTG AAT ACC CCG CCC CCC ACC CAG GGA CTG GTC TCT CTC CTC ATC CTG GCC CTG TTC GAC AGA ATT GCC CCC GAT CCC ACC GAA GGC GTT GAT TTT GTC CAT CGT GCC GTC GAA AGT TTC AAA GCC GCC CGC GCA AAG GCG CGT CTC GGC GAC CCG TCA TTG ATG ACG TCG GAC GCC CAG TCG CTT CTC GAT CAT CTC AAC GAC GTG GCC GCG ATC GAC CTT GGC CGC GCC AGC CCC TGG CCC GAC CCT GGC AGC GAC GGC GGC ACG GTG TGG TTC GGC GCC GTC GAT CGC GAC GGC ACA ATG GTC AGT GTG ATC CAA TCG ATT TAT CAC GAA TAT GGA TCG GGG GTC GTG TTG CCG GAA ACC GGC GTC ACC TGG CAA AAT CGC GGG GCG AGT TTC GGC CTC AAG GAG AGC GAC CCC AAT CCC ATC GCC GAA GGA CGG GAA CCC TTC CAC ACC CTC AAT CCC GCC GCC GCC TTA CTG CCC GAT GGT CAG CGG ATG ATC TAC GGC ACG ATG GGC GGG GAA GGG CAG CCG CAA ACC CAG TCC GCC ATT TTC ATC CGT CGT CTG CTC TTT GGC CAG CCT CTC CAG GCG GCC ATC ACG GCC CCC CGC TGG TTA CTG GGC CGG ACC TGG GGA GCG GCG ACC AAC AGC CTT AAG ATC GAA GAC CGA ATG CCG GAG GAT GTC GTA GAG GCG TTG CGC GCG GCC GGT CAC GAT GTC GAA CTC TTC CCT TCC TTC GAC AGT GCG ATG GGC CAT GCG GGA GCG ATT CTT CGG CAC ACT CAC GGG CGA CTG GAA GGC GCA ACC GAC CCC CGC AGC GAT GGG AGC GTC 
+yersinia_enterocolitica_Gtg_LR134161.1  ATG AAT GGA CTG GGT GGT GAT GGT TTC TGG CTG ATT GTC CCG CCC AAT GGC GAT CCG ATT GCC ATC GAT AGT GGA GCC GCA GGT GAG CTC GAG CGC TAC AGC GCA TAT CAG ATC CCG CAC CGT GGG CCG CAA GCC GCA TTG ACG GTT GCC GGA ACT GTC GGC GGC TGG GAA GAA GCG CTG AAT GTT CTC GGT GAA AAT ACC CTG CCA CTG CGC CGC TTA CTG ACA GAT GCG ATT ACC TAC GCT ACA CGC GGC ATT CCG GTC ACC CCT TCC CAA GAA GCA GCC ACT CGT GCT AAA TCC AAT GAG CTG GCT GAA TTC ACT GAT TTT AGC GAC GTT TTT ATA CCG CAA GGC AAT ATT CCA ACA GCG GGT AAA CGC TTT GTT CAG CCG CAA TTG GGC CAA ACG CTG ACA GCG CTG GCA GAA CAA GGG CTA AGT AGC TTT TAT CGC GGC CCG CTG GCC GAA AAA ATC ATC ATT GAT ATT ACC GCC GCA GAA ATA CCG ATT ACC GCC CAA GAT CTG GCG CAA TAT CAG CCT AAA CGC CGT ACA CCT CTG CGC CTA TGC CAC GGT GAA GTC TTC AAC CTG ACG CCA CCG ACG CAA GGT TTG GTA TCA CTG GCG ATT CTC GGA TTG GCT GAC CGC AAA CCG GTT GCC CAA ATG AGT GAA GGT CAA ACC ATT CAC ACC CTC GTG GAA GCA ACC AAA CTC GCC TTT CGT GAT CAG GTG ATT ACC GAT CCG CTG TGG ATG GAG CAT TGT CCA CAA TCC CTA CTG GAA CCG CTC GAC CAA CTG GCG TAC ATC AAT AGC GAG CAA GCC GCC AAT TGG GGC AGT GGT CGC GGG CCG GGT GAT ACC GTC TGG ATG GGA GTG ATC GAC AAC AAT GGG CTG GCG GTT TCC TTT ATT CAG AGC ATT TAT CAT GAA TTT GGT AGT GGG GTG CTA CTG CCC ACG ACG GGC ATT ATT TGG CAA AAC CGT GGC GCA TCT TTC AGT CTT GAC CCC AAG CAT CTG CTA GCG TTA GCG CCG GGA AAA CAG CCA TTT CAC ACC TTA AAC CCT GCC GCC GCC CGC CTG ACG GAT GGC CGA ACC CTG GTG TAT GGC GCA ATG GGC GGA GAT GGC CAG CCA CAA ACT CAA GCG GCG GTG TTT ATC CGC CAC ATT GTT CAA GGC TTG CCC TTA CAG CAA GCC ATC ACC GCA CCA CGT TGG CTA TTG GGG CGC ACG TGG GGG GAA AGC TCT GAC TCA CTG AAA TTG GAG GCA CGT TTC GGG GCC GAA ACC CTT GAT TAC TTG CGC CAA CGC GGG CAT CAG GTT GAA CTA CTA CCC GAT TTT AGC GAG GTT GTC GGC CAT GCC GGA GCT ATT GTT CGC CAC CGT AAT GGC ATG TTA GAA GGC GCA TTT GAC CCA CGC AGG AAT GGC AGC GCC 
+
+
+
+Printing out site pattern counts
+
+
+         5       1350  P
+
+acidithiobacillus_ferrivorans_Gtg_CP002985.1  AAA AAA AAA AAA AAA AAC AAC AAC AAC AAC AAG AAG AAG AAT AAT AAT AAT AAT AAT AAT AAT ACA ACC ACC ACC ACC ACC ACC ACC ACC ACC ACC ACC ACG ACG ACG ACG ACT ACT AGA AGC AGC AGC AGC AGT AGT AGT AGT AGT AGT AGT AGT ATA ATC ATC ATC ATC ATC ATC ATG ATG ATG ATG ATG ATG ATG ATG ATG ATG ATG ATG ATT ATT ATT ATT ATT CAA CAA CAA CAA CAA CAA CAA CAC CAC CAC CAC CAC CAC CAC CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAG CAT CAT CAT CAT CAT CCA CCA CCA CCA CCC CCC CCC CCC CCC CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG CCT CCT CCT CGA CGA CGC CGC CGC CGC CGC CGC CGC CGC CGC CGC CGC CGC CGC CGG CGG CGG CGG CGG CGG CGT CGT CGT CGT CGT CGT CTA CTC CTC CTC CTC CTC CTC CTC CTC CTC CTC CTC CTC CTC CTC CTC CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTT CTT CTT CTT GAA GAA GAA GAA GAA GAA GAC GAC GAC GAC GAG GAG GAG GAG GAG GAG GAG GAG GAG GAG GAG GAG GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GAT GCA GCA GCA GCA GCA GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCC GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCG GCT GCT GCT GCT GCT GCT GCT GCT GGA GGA GGA GGA GGA GGA GGA GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGC GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGT GGT GGT GGT GGT GGT GGT GGT GGT GGT GGT GGT GTA GTA GTA GTA GTA GTA GTC GTC GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTG GTT GTT GTT TAC TAC TAC TAC TAC TAT TAT TAT TAT TAT TAT TCA TCC TCC TCC TCC TCC TCG TCG TCG TCG TCG TCT TGC TGC TGC TGC TGG TGG TGG TGG TGG TGG TGG TGG TGG TGG TGT TTC TTC TTC TTC TTC TTC TTG TTG TTG TTG TTG TTG TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT 
+gluconacetobacter_diazotrophicus_Gtg_AM889285.1  ..G CGC CGC CTG GCC ..T .C. G.. G.. GG. C.. C.. GCC ..C ..C ..C C.G CGC G.C G.C GGG GAC ... ... ... ... ..G CAG CAG CTG G.G GT. T.. ..C ..C ... CT. ..G CGG GCG .C. CAG GAT GC. .CC .CC ..C ..C ..C ..C CA. GCC GCG .C. ... GC. GC. G.. T.. .AC .CC ... ... ... ... ... C.. C.. GCC GCC GC. ..C ... CA. GCG G.C A.C ACC ..G ..G G.C G.C GTC ... ..T .G. .G. GG. T.. TT. ATT ... ... ... ... ... G.T GCC GGC GG. GT. TCC ATC ..C ... .CG GCC ..C ..G ..G G.G ... ... ..G GA. G.. ... ... ... ... ... ... ... .G. GAA G.C G.C G.. G.. TG. ..G ..G GAG ..G GAC AAG ACG .AT ... ... ... ... ... ... ..G ..G GAA G.G .C. ..C GAC GC. G.. GT. AAA ..C ..C ..C .TG GCC .AT AC. A.G ..G ..G ..G ..G ..G ..T GC. GCG G.G TCG T.. T.. T.G A.C A.C A.. .AC .A. .CC .C. ... ... ... ... ... ... ... ... ... ... ... ... ... GAC GAC TAC T.C A.C .CG ..G G.C CCG CTG ... ..T .CG TCG CCG .CG .G. TGG C.. CGC CGC CGC CGT ..A ... ... ..T TCC TCC TTC C.C CGG ..C ..C ..C ..C ..C ..C ..C ..C ..C ..G ... ... ... .CC TCC CTG CTG ..G .GG T.C AG. CAG CAG CG. CGG CGG .AA .AA .A. ... ... ... ... ... ... ..G ..G ..G ..G .G. .T. .TG TAT A.C A.. CA. CG. CTC .A. .AT .AT ..C ..C ..C ..C ..C ... ... ... ... .GC .T. TTC A.A A.C CTG CTG .A. ..G T.C TGC ATC CCG C.C CTG ..G ..G ..G ATG ATG ATG CC. CCG CCG CCG .C. .CG ... ... ... ... ... ... ... ..G ..G TC. A.. C.C .AC .AC .AT .CC .CC .CC ..C ..C ..C ..C ..C ..C ... ... ... ... ..T ACC .AC ..C ..C ..C ..C ..C ..C ..C ..C ..C ..G .CG .CG ..C ..C ..C ..G ..G TGG A.C A.. A.. CGC CG. C.. C.. .AA .A. .CA ..C ..C ..C ... ... ... ... ... C.G C.G ..C CG. ... ..T .T. .TT ATC CTG GCC ..C ... .TC ..G AG. C.. G.. G.G GGG AGC CAC CT. GA. G.. CGC ATG GCG G.. .A. AAC CA. C.C CT. CT. GCC GCC GCC ... ... GCC A.G CA. C.G .GG .GG ... CCC C.. C.. C.. C.. G.. AAA ACC A.C A.C GCG G.C G.G .AC .A. ..C ..C ..C ..C ..C ... 
+hmelpomene_Gtg_HMEL005649       ... ... G.G .TG CCG ..T ..T G.T GCA TCA ..A TC. GTT ..C ... CGA C.. TC. ... G.. GCA ... ..A ..A ..G TTG ..A GAA GAT G.A ... TTA .GT C.C T.A ... ..A ..A GAA GCT TCA G.. GAT GAA .C. GA. ..C ... .TG TCA T.. .TG ..T TCG ..T .AT GCT ..A T.. ..A CAT .GA ... ..T C.A G.. TCA T.A ..A TCA GCT ..A ... .AG GCC ... ... ATT AG. ... A.. TTG AT. ... ..T .GG GTT ..T T.T T.T TCA ..A ..A ... ... T.T A.C .G. ATA ..C G.A G.T AT. ... ..C A.A A.G ..G ..G T.C GT. ..T ..T ..A AGT ... ..A ..A ..A ..C ..T ..T GTC AAA GAA AAT ..A G.C T.T G.C ..A ..G T.A A.T .A. AAG GCT A.A A.A A.A A.G ... ... GTT AAG GAT GAG A.A AA. ..A A.T TAT G.T TTT AAA AA. ACA TCA ..A AA. .AT ..A A.G AAA A.G ... T.A T.G T.A GCT A.. A.A GAA T.A T.T T.G A.C A.T AGA T.T .A. ACT .CA A.A A.C A.T ..A ... ..T T.A T.A T.A T.A T.. T.. T.. .AT GAA T.A T.T A.C ..C T.G A.. ACT ... ... C.. .C. ..G A.G .G. ..A CCT .C. ATT ..A ... ..A C.T A.T ... A.T A.A A.. TTA C.. T.. ACA ..A ..C ... ... ... ... ... TCC ..C ..C ... ... CCG ..A TT. TTG T.. .GT ..T T.T CAA .G. AAA AAG CG. .AA .AA TTG ..A ... ..G ..T ..T T.A A.G CTT ..A ..T A.. ATT T.. TA. .AT A.T CAA .AA .AA .AA AAC .AT ... ... ..T ..T T.A AA. AAT ..C ..T .GT .T. .GT TA. AA. ATA CT. C.G ..A AG. TG. AT. ..T C.C ATG A.C ..C ..T AAA A.T ATG CCT CAA CC. .TT T.T ... .AA ... ... ... ..G ..T ..T .AA ..T ..T AAT A.A .AA .AC ..T A.T .AT ..C AAA ..A ..A ..A ..A ..T .CA ..A ..C ..T ... .A. .AC ..A ..C ..C ..G ..G ..G ... ... TA. ..C AAT TCT A.. A.. ..T ..T A.. A.A ..T T.. T.T CGT CG. A.A T.A AAT ... A.T ..T ..T ..T A.. A.T .CC ..C ..T C.G T.A AC. .TA ... ..T .TT .TT ATA ..C GC. C.G ... .T. ... ..T GGG ... AGT AAT GAA ..A GTC GTA ..C AA. ATG ..T AAG AAG GCA G.T AAA ATT .TT A.A A.A AT. G.A ... GT. A.G .A. ..G A.A .A. ... CCT AA. C.T ..A ... C.. .AC AA. C.. G.C GCA CAC ... ... .A. .AC .A. ..C ... ... ... 
+parvularcula_bermudensis_Gtg_CP002156.1  ... CGG G.G CTC G.C ..T ... G.T G.T GG. G.C G.. CT. ... ... ... C.A G.A CGA G.C CG. ..G ... TT. ... ... ... CAG .A. CTG GAA TG. T.G C.A ... ... G.C ..C GGC G.. .C. CC. GA. GC. .CG GAC TCG ..C ..C ... TCG GCC T.C .CG ... GG. .GT ..T C.G .AC ..C ... ... C.C .CC ... C.C CGC GCC ... GC. ..C ... GAC GCC G.C ..G .GG ... ..G G.C GCC ATC ..T ... G.A .T. G.. ..T ... G.C ... ... ..A ..A G.. .CC GC. GGA ..C G.T ..C ATC ... ..C ACC GCC ..C ..C ..T AAG ..G ..G ... GA. G.. ..C ..C ..C ..T ..C ..T A.T GTC GA. GAC ... G.C AGC TG. GAA ..C G.C GCG GAG GAA GCG AAA ..A ... ..T ... ... A.G A.A GC. GCG AC. G.. GCA GAC ..A G.T ACA AAG ..C ... ..G ..G ACC .GT GCA A.G ..G ..G ..G ... A.T ..A GC. .C. G.G GG. T.. T.. ... ... ..T AG. T.T GCC .CC .CC A.T G.C ..C ..T ..C ... ACC ..C ..T T.C A.C ... T.A GAA A.. A.C ..A .AG ... ..C A.. CCC .CG ... ..T ACC .CG ..G .GT ... CCT .C. .CC ... ..C A.A ..A .C. ..A CGC AC. ... CT. C.C .CG A.A TCC A.G C.. ..C ..C ..C ... A.C ..A ..C ... .GC TCC AG. TTG CTT T.G AGT ..C AGT CAG AG. .AT CGT TTA .AG .AT ..G ... ... ... ... ..G ..G ... .T. ... ... .G. AT. AAA CGT AAC CT. CA. CGC .TC .AA ..C .G. A.C ..C ... T.C ..C AA. ... ... ..C .GT CTT .TT A.C CGG .TG ..A TG. ..A .AC .TG .TG CCT .CC C.. .CT ... ... .A. A.. ATG CC. ... CCG ... TCA AT. ..G ... ... ..G ... ..G ..T ... ..A .AG ..C A.. C.. .AT A.C C.C .A. .CT ..C ..A ..C ... ..T ..C ..C ..C ..T ..C ... A.C .AC ..C ..G ... .CC ..A ..C ..C ..C ... ..A .CG CCC C.C C.G ..C A.C ..G CC. ..C T.C ... CA. ... ..C C.T .AA AG. .CC AGT ..C ... ..C ..C ..C TC. ..C A.. A.. ..C G.T ... ..T ..T .T. AT. CTG GCC .T. ..C ATG ..T C.. C.. G.G C.G C.T A.C AA. GT. GAA G.C GGC GTG CC. C.. .T. GCC G.C C.C CTC CT. GCC GT. CTC ... ... GCG ... CAG CGA AC. CAG ..T C.C C.T C.C ... C.C C.T AAG GCG C.G G.A CA. C.. G.C .A. .A. ..G ..C ... CGC ..C .A. 
+yersinia_enterocolitica_Gtg_LR134161.1  ... ... .CC CTG CCG ... ..T GC. G.A TC. .TT C.. .TT ..C ..C CTA C.A .CG C.A G.C .CC ..C ..G ... ..T ..G ... CGT CG. G.. G.G CTA .GT C.. ... ..C CTC ..G G.G GCT .C. CAA GAT GAA GCA ..C ..C ..G .TA TCC GT. GCA ..T .C. ..T GAG GCA ..T T.. T.. ..C ... ... ..C C.. G.C GC. ..A GCC GC. GCT ... ..C .G. CCA ... ..G ACC ... ... A.T A.. GTT ..T ..T .G. GTT ..T T.. ..T TTC ..A ... ..A ... G.A AC. ... G.A ..A ... A.T ATC ..C ..C ATG GCA ..T ... ..C G.C ..A ..G ..A AAT ..T A.T ..A ... ... ..A ..T .GT A.A ..C ... A.. G.C G.C TG. ..G ..G ... GAG AA. .AG GC. ... ..T ..T ... ... ..T AAA ... GAT .AA AC. .C. ..T GCA TAT G.C .T. AAA A.C ... ..C ..C GC. G.G ACT ..G ..G A.T ... ..G ..G ..G GC. G.T G.. .G. GCT T.T T.A T.. ... .GC ACC ..C AAT .C. G.. A.T ..C ... ..T ... A.T ... ... ... T.A T.. ..A AGT GAT T.. .GC T.G AGC T.A A.. AC. .CC ... C.. C.G ... .C. .CA C.A CCG C.A .C. ..A ACA A.T ..A ..A ... AGT ... A.T CT. C.C T.C A.. A.. ... ... ..C ... TG. A.. ..C ... ... ..C ... ... ..G CTG CT. T.C .GT .GC T.T CAG .GG AG. CG. CG. A.A .AA AG. ... ..T ... .GA ..G CAA ..G .TA ..A ..A A.. .TG ... CA. .AC A.T CAA CAA .AA .AA .AC .A. ATC ..C ... ... ..A .AC CAA ..C ... .GC .TT .GT TT. CAA .TC ..A TGC ..A AGC AG. ATC ..T CCG ATG ... ..T ... TC. A.. ATG CC. AAT CC. CCG CTG ..T ..G .AA ... ... ..T ... ..T .AA ..T ... CAA ACA .AA .AT AA. AAC .AT ..T ..C ... ... ..A ..T ..C ..C ..C ... ..A ..T TCA .A. ..C ..C ..A ..C ..A ..A ..C ..G .A. ..G TAC .CG A.T T.G ..G A.C ... C.G ..C C.A T.T CGA CGT ..T T.A .A. A.T ... ..T ..T C.A A.C A.T .CC CAT ... A.. AAA ACC CT. ..T ..T .TT .TT AT. .TG GCC C.A ... .TC ... C.A GG. G.. GGG C.. ..T CGC GTC GAA G.C AG. CTG CT. C.. AC. GC. G.T GAA CT. .TT C.C C.C CTA ... ... GCA A.G .AT C.G CA. G.T ... CCA CAA C.. ... C.. C.A AAA G.. ..A C.. CCG CAC A.. ... .AC .GG ... ... ... ..C ... 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    2    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    2    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    2    2    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    2    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    2    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    5    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+
+
+CODONML (in paml version 4.9i, September 2018)  Gtg_gblocks_alignment.fasta
+Model: free dN/dS Ratios for branches, 
+Codon frequency model: F3x4
+ns =   5  ls = 460
+
+Codon usage in sequences
+----------------------------------------------------------------------------------------------------------------------
+Phe TTT  15   2  14   4  11 | Ser TCT   1   0   5   1   2 | Tyr TAT   6   4  11   5   5 | Cys TGT   1   0   4   1   1
+    TTC   6  15   3  11   5 |     TCC   5   8   5   3   4 |     TAC   5   6   7   2   4 |     TGC   4   1   0   1   1
+Leu TTA   0   0  16   2   5 |     TCA   1   0  14   1   2 | *** TAA   0   0   0   0   0 | *** TGA   0   0   0   0   0
+    TTG   6   1  13   3   8 |     TCG   5   3   2   5   0 |     TAG   0   0   0   0   0 | Trp TGG  14  11   5   7   8
+----------------------------------------------------------------------------------------------------------------------
+Leu CTT   4   1   5  10   2 | Pro CCT   3   0   7   6   4 | His CAT   5   6   9   5   5 | Arg CGT   6   1   1   6   8
+    CTC  15   1   2  16   6 |     CCC   5   7   4  21   5 |     CAC   7   6   4   6   6 |     CGC  13  25   4  11  17
+    CTA   1   0   3   2   8 |     CCA   4   0   8   1   8 | Gln CAA   7   0   9   4  20 |     CGA   2   0   3   5   1
+    CTG  24  44   3  15  23 |     CCG  15  23   6   5  15 |     CAG  12  19   4  11   9 |     CGG   6  10   3   6   0
+----------------------------------------------------------------------------------------------------------------------
+Ile ATT   5   2  15   8  17 | Thr ACT   2   0   5   1   4 | Asn AAT   8   1  18   4  11 | Ser AGT   8   0   9   6   6
+    ATC   6  11   5  10   8 |     ACC  12  19   2  17  14 |     AAC   5   6   3   5   4 |     AGC   4   7   2   7   8
+    ATA   1   0  16   0   2 |     ACA   1   1   9   1   5 | Lys AAA   5   2  13   5   8 | Arg AGA   1   0  10   1   0
+Met ATG  12  14  12   8   6 |     ACG   4   5   3   6   8 |     AAG   3   2  12   6   1 |     AGG   0   1   1   4   1
+----------------------------------------------------------------------------------------------------------------------
+Val GTT   3   0  12   1  10 | Ala GCT   8   0  13   2   5 | Asp GAT  17  11  18  10  14 | Gly GGT  13   1  17   8  12
+    GTC   2  14   4  15   6 |     GCC  23  37   6  33  19 |     GAC   4  25   5  21   7 |     GGC  21  33  15  28  19
+    GTA   6   0   2   1   1 |     GCA   5   1  10   4  12 | Glu GAA   6   7  23  13  17 |     GGA   7   0   8   8   8
+    GTG  18  14   3  11   6 |     GCG  20  29   4  20  12 |     GAG  12   7   5  11   7 |     GGG  20  16   6   9   9
+----------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: acidithiobacillus_ferrivorans_Gtg_CP002985.1
+position  1:    T:0.15000    C:0.28043    A:0.16739    G:0.40217
+position  2:    T:0.26957    C:0.24783    A:0.22174    G:0.26087
+position  3:    T:0.22826    C:0.29783    A:0.10217    G:0.37174
+Average         T:0.21594    C:0.27536    A:0.16377    G:0.34493
+
+#2: gluconacetobacter_diazotrophicus_Gtg_AM889285.1
+position  1:    T:0.11087    C:0.31087    A:0.15435    G:0.42391
+position  2:    T:0.25870    C:0.28913    A:0.22174    G:0.23043
+position  3:    T:0.06304    C:0.48043    A:0.02391    G:0.43261
+Average         T:0.14420    C:0.36014    A:0.13333    G:0.36232
+
+#3: hmelpomene_Gtg_HMEL005649
+position  1:    T:0.21522    C:0.16304    A:0.29348    G:0.32826
+position  2:    T:0.27826    C:0.22391    A:0.30652    G:0.19130
+position  3:    T:0.35435    C:0.15435    A:0.31304    G:0.17826
+Average         T:0.28261    C:0.18043    A:0.30435    G:0.23261
+
+#4: parvularcula_bermudensis_Gtg_CP002156.1
+position  1:    T:0.10000    C:0.28261    A:0.19348    G:0.42391
+position  2:    T:0.25435    C:0.27609    A:0.23478    G:0.23478
+position  3:    T:0.16957    C:0.45000    A:0.10435    G:0.27609
+Average         T:0.17464    C:0.33623    A:0.17754    G:0.31159
+
+#5: yersinia_enterocolitica_Gtg_LR134161.1
+position  1:    T:0.12174    C:0.29783    A:0.22391    G:0.35652
+position  2:    T:0.26957    C:0.25870    A:0.25652    G:0.21522
+position  3:    T:0.25435    C:0.28913    A:0.21087    G:0.24565
+Average         T:0.21522    C:0.28188    A:0.23043    G:0.27246
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      46 | Ser S TCT       9 | Tyr Y TAT      31 | Cys C TGT       7
+      TTC      40 |       TCC      25 |       TAC      24 |       TGC       7
+Leu L TTA      23 |       TCA      18 | *** * TAA       0 | *** * TGA       0
+      TTG      31 |       TCG      15 |       TAG       0 | Trp W TGG      45
+------------------------------------------------------------------------------
+Leu L CTT      22 | Pro P CCT      20 | His H CAT      30 | Arg R CGT      22
+      CTC      40 |       CCC      42 |       CAC      29 |       CGC      70
+      CTA      14 |       CCA      21 | Gln Q CAA      40 |       CGA      11
+      CTG     109 |       CCG      64 |       CAG      55 |       CGG      25
+------------------------------------------------------------------------------
+Ile I ATT      47 | Thr T ACT      12 | Asn N AAT      42 | Ser S AGT      29
+      ATC      40 |       ACC      64 |       AAC      23 |       AGC      28
+      ATA      19 |       ACA      17 | Lys K AAA      33 | Arg R AGA      12
+Met M ATG      52 |       ACG      26 |       AAG      24 |       AGG       7
+------------------------------------------------------------------------------
+Val V GTT      26 | Ala A GCT      28 | Asp D GAT      70 | Gly G GGT      51
+      GTC      41 |       GCC     118 |       GAC      62 |       GGC     116
+      GTA      10 |       GCA      32 | Glu E GAA      66 |       GGA      31
+      GTG      52 |       GCG      85 |       GAG      42 |       GGG      60
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.13957    C:0.26696    A:0.20652    G:0.38696
+position  2:    T:0.26609    C:0.25913    A:0.24826    G:0.22652
+position  3:    T:0.21391    C:0.33435    A:0.15087    G:0.30087
+Average         T:0.20652    C:0.28681    A:0.20188    G:0.30478
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00810959  0.01267536  0.00571957  0.01140617
+  0.00789758  0.01234397  0.00557004  0.01110797
+  0.00756630  0.01182619  0.00000000  0.00000000
+  0.00690375  0.01079062  0.00000000  0.00971016
+  0.01551180  0.02424507  0.01094023  0.02181741
+  0.01510627  0.02361122  0.01065422  0.02124702
+  0.01447261  0.02262081  0.01020731  0.02035579
+  0.01320531  0.02064001  0.00931350  0.01857332
+  0.01200017  0.01875637  0.00846354  0.01687829
+  0.01168644  0.01826601  0.00824227  0.01643703
+  0.01119624  0.01749981  0.00789654  0.01574756
+  0.01021583  0.01596743  0.00720507  0.01436861
+  0.02248453  0.03514351  0.01585800  0.03162459
+  0.02189670  0.03422473  0.01544341  0.03079780
+  0.02097822  0.03278913  0.01479561  0.02950595
+  0.01914125  0.02991792  0.01350003  0.02692224
+
+
+TREE #  1:  (1, (3, 5), (2, 4));   MP score: 1291
+check convergence..
+lnL(ntime:  7  np: 15):  -7732.275377      +0.000000
+   6..1     6..7     7..3     7..5     6..8     8..2     8..4  
+ 50.000000 0.230362 6.733408 50.000000 50.000000 50.000000 50.000000 1.330795 0.006115 5.701359 0.030438 0.002389 0.001257 0.003221 0.003753
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length = 256.963770
+
+(1: 50.000000, (3: 6.733408, 5: 50.000000): 0.230362, (2: 50.000000, 4: 50.000000): 50.000000);
+
+(acidithiobacillus_ferrivorans_Gtg_CP002985.1: 50.000000, (hmelpomene_Gtg_HMEL005649: 6.733408, yersinia_enterocolitica_Gtg_LR134161.1: 50.000000): 0.230362, (gluconacetobacter_diazotrophicus_Gtg_AM889285.1: 50.000000, parvularcula_bermudensis_Gtg_CP002156.1: 50.000000): 50.000000);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.33079
+
+w (dN/dS) for branches:  0.00611 5.70136 0.03044 0.00239 0.00126 0.00322 0.00375
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   6..1     50.000  1006.9   373.1  0.0061  0.3708 60.6462 373.4 22626.6
+   6..7      0.230  1006.9   373.1  5.7014  0.0988  0.0173  99.5   6.5
+   7..3      6.733  1006.9   373.1  0.0304  0.2335  7.6717 235.1 2862.2
+   7..5     50.000  1006.9   373.1  0.0024  0.1463 61.2522 147.3 22852.7
+   6..8     50.000  1006.9   373.1  0.0013  0.0772 61.4386  77.8 22922.2
+   8..2     50.000  1006.9   373.1  0.0032  0.1969 61.1158 198.2 22801.8
+   8..4     50.000  1006.9   373.1  0.0038  0.2290 61.0290 230.6 22769.4
+
+tree length for dN:       1.3526
+tree length for dS:     313.1708
+
+dS tree:
+(acidithiobacillus_ferrivorans_Gtg_CP002985.1: 60.646201, (hmelpomene_Gtg_HMEL005649: 7.671699, yersinia_enterocolitica_Gtg_LR134161.1: 61.252212): 0.017332, (gluconacetobacter_diazotrophicus_Gtg_AM889285.1: 61.115782, parvularcula_bermudensis_Gtg_CP002156.1: 61.028954): 61.438597);
+dN tree:
+(acidithiobacillus_ferrivorans_Gtg_CP002985.1: 0.370850, (hmelpomene_Gtg_HMEL005649: 0.233508, yersinia_enterocolitica_Gtg_LR134161.1: 0.146304): 0.098817, (gluconacetobacter_diazotrophicus_Gtg_AM889285.1: 0.196855, parvularcula_bermudensis_Gtg_CP002156.1: 0.229028): 0.077242);
+
+w ratios as labels for TreeView:
+(acidithiobacillus_ferrivorans_Gtg_CP002985.1 #0.00611497 , (hmelpomene_Gtg_HMEL005649 #0.0304376 , yersinia_enterocolitica_Gtg_LR134161.1 #0.00238854 ) #5.70136 , (gluconacetobacter_diazotrophicus_Gtg_AM889285.1 #0.00322102 , parvularcula_bermudensis_Gtg_CP002156.1 #0.00375277 ) #0.00125722 );
+
+
+Time used:  1:16

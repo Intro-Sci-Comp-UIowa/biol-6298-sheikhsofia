@@ -1,0 +1,22 @@
+#NEXUS
+[ID: 6501076005]
+begin taxa;
+	dimensions ntax=5;
+	taxlabels
+		acidithiobacillus_ferrivorans_Gtg_CP002985.1
+		gluconacetobacter_diazotrophicus_Gtg_AM889285.1
+		hmelpomene_Gtg_HMEL005649
+		parvularcula_bermudensis_Gtg_CP002156.1
+		yersinia_enterocolitica_Gtg_LR134161.1
+		;
+end;
+begin trees;
+	translate
+		1	acidithiobacillus_ferrivorans_Gtg_CP002985.1,
+		2	gluconacetobacter_diazotrophicus_Gtg_AM889285.1,
+		3	hmelpomene_Gtg_HMEL005649,
+		4	parvularcula_bermudensis_Gtg_CP002156.1,
+		5	yersinia_enterocolitica_Gtg_LR134161.1
+		;
+   tree con_50_majrule = [&U] (1[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:8.618998e-01[&length_mean=8.79397421e-01,length_median=8.61899800e-01,length_95%HPD={6.34349700e-01,1.14821100e+00}],(3[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:6.679843e-01[&length_mean=6.76551912e-01,length_median=6.67984300e-01,length_95%HPD={5.02613500e-01,8.53123400e-01}],5[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:2.417824e-01[&length_mean=2.44562381e-01,length_median=2.41782400e-01,length_95%HPD={1.38853200e-01,3.45483400e-01}])[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:3.403408e-01[&length_mean=3.48204836e-01,length_median=3.40340800e-01,length_95%HPD={1.98439100e-01,5.12171400e-01}],(2[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:4.465535e-01[&length_mean=4.52345365e-01,length_median=4.46553500e-01,length_95%HPD={3.15096500e-01,5.92868600e-01}],4[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:5.584293e-01[&length_mean=5.68965603e-01,length_median=5.58429300e-01,length_95%HPD={4.15646900e-01,7.41765600e-01}])[&prob=9.99666889e-01,prob_stddev=4.71090460e-04,prob_range={9.99333777e-01,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:2.099515e-01[&length_mean=2.14348554e-01,length_median=2.09951500e-01,length_95%HPD={9.09070900e-02,3.59567800e-01}]);
+end;
