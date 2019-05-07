@@ -1,0 +1,26 @@
+#NEXUS
+[ID: 6766669424]
+begin taxa;
+	dimensions ntax=7;
+	taxlabels
+		bmori_LigB
+		donor_talaromyces_stipitatus_LigB_XM_002485578.1
+		hmelpomene_LigB_HMEL013217
+		marinobacter_hydrocarbonoclasticus_LigB_CP000514.1
+		marinobacter_salarius_LigB_CP021333.1
+		pseudoalteromonas_arctica_LigB_CP011026.1
+		trichoderma_reesei_LigB_XM_006963659.1
+		;
+end;
+begin trees;
+	translate
+		1	bmori_LigB,
+		2	donor_talaromyces_stipitatus_LigB_XM_002485578.1,
+		3	hmelpomene_LigB_HMEL013217,
+		4	marinobacter_hydrocarbonoclasticus_LigB_CP000514.1,
+		5	marinobacter_salarius_LigB_CP021333.1,
+		6	pseudoalteromonas_arctica_LigB_CP011026.1,
+		7	trichoderma_reesei_LigB_XM_006963659.1
+		;
+   tree con_50_majrule = [&U] (1[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:2.073349e+00[&length_mean=2.16678403e+00,length_median=2.07334900e+00,length_95%HPD={1.26150600e+00,3.26905700e+00}],((4[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.093079e-01[&length_mean=1.10768465e-01,length_median=1.09307900e-01,length_95%HPD={5.66851400e-02,1.74260900e-01}],5[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.760078e-01[&length_mean=1.78237692e-01,length_median=1.76007800e-01,length_95%HPD={1.10437900e-01,2.49207800e-01}])[&prob=9.97001999e-01,prob_stddev=3.29763322e-03,prob_range={9.94670220e-01,9.99333777e-01},prob(percent)="100",prob+-sd="100+-0"]:3.120593e-01[&length_mean=3.15804520e-01,length_median=3.12059300e-01,length_95%HPD={1.90723800e-01,4.60306900e-01}],6[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.149085e-01[&length_mean=1.18498745e-01,length_median=1.14908500e-01,length_95%HPD={2.55878100e-02,2.16500200e-01}])[&prob=9.70686209e-01,prob_stddev=4.71090460e-03,prob_range={9.67355097e-01,9.74017322e-01},prob(percent)="97",prob+-sd="97+-0"]:3.221094e-01[&length_mean=3.27098083e-01,length_median=3.22109400e-01,length_95%HPD={1.07981100e-01,5.82166000e-01}],((2[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:2.769459e-01[&length_mean=2.83117923e-01,length_median=2.76945900e-01,length_95%HPD={1.41896600e-01,4.55882400e-01}],7[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:5.713439e-01[&length_mean=5.81412173e-01,length_median=5.71343900e-01,length_95%HPD={3.81472300e-01,7.93672800e-01}])[&prob=9.95336442e-01,prob_stddev=9.42180921e-04,prob_range={9.94670220e-01,9.96002665e-01},prob(percent)="100",prob+-sd="100+-0"]:3.166972e-01[&length_mean=3.21893396e-01,length_median=3.16697200e-01,length_95%HPD={1.38032400e-01,5.26089500e-01}],3[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:4.161862e-01[&length_mean=4.22796855e-01,length_median=4.16186200e-01,length_95%HPD={2.42824800e-01,6.29960000e-01}])[&prob=5.70952698e-01,prob_stddev=7.53744737e-03,prob_range={5.65622918e-01,5.76282478e-01},prob(percent)="57",prob+-sd="57+-1"]:1.241675e-01[&length_mean=1.47569541e-01,length_median=1.24167500e-01,length_95%HPD={1.38633500e-04,3.58754600e-01}]);
+end;

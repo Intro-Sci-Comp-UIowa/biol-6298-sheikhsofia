@@ -1,0 +1,22 @@
+#NEXUS
+[ID: 2855942511]
+begin taxa;
+	dimensions ntax=5;
+	taxlabels
+		bmori_Mtox
+		serratia_odorifera_Mtox_LR134117.1
+		erwinia_amylovora_Mtox_FR719190.1
+		klebsiella_pneumoniae_Mtox_FO834906.1
+		serratia_proteamaculans_Mtox_CP000826.1
+		;
+end;
+begin trees;
+	translate
+		1	bmori_Mtox,
+		2	serratia_odorifera_Mtox_LR134117.1,
+		3	erwinia_amylovora_Mtox_FR719190.1,
+		4	klebsiella_pneumoniae_Mtox_FO834906.1,
+		5	serratia_proteamaculans_Mtox_CP000826.1
+		;
+   tree con_50_majrule = [&U] (1[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.009921e+00[&length_mean=1.02504985e+00,length_median=1.00992100e+00,length_95%HPD={7.67320800e-01,1.34162200e+00}],5[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.325768e-01[&length_mean=1.36444780e-01,length_median=1.32576800e-01,length_95%HPD={4.50228200e-02,2.37322700e-01}],(2[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.978220e-01[&length_mean=1.99657019e-01,length_median=1.97822000e-01,length_95%HPD={1.31379000e-01,2.70247300e-01}],(3[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:3.133654e-01[&length_mean=3.17933500e-01,length_median=3.13365400e-01,length_95%HPD={2.17716700e-01,4.26292000e-01}],4[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:5.054911e-01[&length_mean=5.12559733e-01,length_median=5.05491100e-01,length_95%HPD={3.75128800e-01,6.62641600e-01}])[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:2.815159e-01[&length_mean=2.84386190e-01,length_median=2.81515900e-01,length_95%HPD={1.70395200e-01,4.08689100e-01}])[&prob=8.45769487e-01,prob_stddev=3.29763322e-03,prob_range={8.43437708e-01,8.48101266e-01},prob(percent)="85",prob+-sd="85+-0"]:1.017973e-01[&length_mean=1.04308092e-01,length_median=1.01797300e-01,length_95%HPD={1.87259400e-02,1.88224400e-01}]);
+end;

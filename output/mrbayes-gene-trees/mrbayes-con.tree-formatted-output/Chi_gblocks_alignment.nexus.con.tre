@@ -1,0 +1,26 @@
+#NEXUS
+[ID: 0478173950]
+begin taxa;
+	dimensions ntax=7;
+	taxlabels
+		aeromonas_hydrophila_Chi_CP006579.1
+		bmori_Chi_AK382789.1
+		serratia_proteamaculans_Chi_CP000826.1
+		hmelpomene_Chi_HMEL009672
+		papilio_polytes_Chi_NM_001311726.1
+		shewanella_denitrificans_Chi_CP000302.1
+		serratia
+		;
+end;
+begin trees;
+	translate
+		1	aeromonas_hydrophila_Chi_CP006579.1,
+		2	bmori_Chi_AK382789.1,
+		3	serratia_proteamaculans_Chi_CP000826.1,
+		4	hmelpomene_Chi_HMEL009672,
+		5	papilio_polytes_Chi_NM_001311726.1,
+		6	shewanella_denitrificans_Chi_CP000302.1,
+		7	serratia
+		;
+   tree con_50_majrule = [&U] (1[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:2.150021e-01[&length_mean=2.17863225e-01,length_median=2.15002100e-01,length_95%HPD={1.52926100e-01,2.81497100e-01}],6[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:3.805739e-01[&length_mean=3.83771408e-01,length_median=3.80573900e-01,length_95%HPD={2.96404700e-01,4.75230000e-01}],((2[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.744560e-01[&length_mean=1.76258525e-01,length_median=1.74456000e-01,length_95%HPD={1.17524400e-01,2.37677600e-01}],(4[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.918467e-01[&length_mean=1.92695448e-01,length_median=1.91846700e-01,length_95%HPD={1.47502800e-01,2.42229500e-01}],5[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.551441e-01[&length_mean=1.56039612e-01,length_median=1.55144100e-01,length_95%HPD={1.11467000e-01,1.95844700e-01}])[&prob=9.99000666e-01,prob_stddev=1.41327138e-03,prob_range={9.98001332e-01,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:9.464855e-02[&length_mean=9.55068451e-02,length_median=9.46485500e-02,length_95%HPD={4.59743300e-02,1.50783800e-01}])[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:4.612668e-01[&length_mean=4.64144470e-01,length_median=4.61266800e-01,length_95%HPD={3.56347800e-01,5.89067300e-01}],(3[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.272770e-01[&length_mean=1.27896821e-01,length_median=1.27277000e-01,length_95%HPD={9.26853700e-02,1.65830700e-01}],7[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:3.804039e-02[&length_mean=3.88598719e-02,length_median=3.80403900e-02,length_95%HPD={1.13750200e-02,6.73480200e-02}])[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.307714e-01[&length_mean=1.31787430e-01,length_median=1.30771400e-01,length_95%HPD={7.86235200e-02,1.90197300e-01}])[&prob=1.00000000e+00,prob_stddev=0.00000000e+00,prob_range={1.00000000e+00,1.00000000e+00},prob(percent)="100",prob+-sd="100+-0"]:1.234501e-01[&length_mean=1.25400618e-01,length_median=1.23450100e-01,length_95%HPD={6.59887800e-02,1.92357900e-01}]);
+end;

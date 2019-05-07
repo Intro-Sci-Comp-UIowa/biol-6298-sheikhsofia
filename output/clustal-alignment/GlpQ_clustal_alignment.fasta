@@ -74,7 +74,7 @@ GGCTTG-------------------------CGGCTCTGGGC------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------
->pseudomonas_aeruginosa_GlpQ_CP023255.1:5171715-5172863
+>donor_pseudomonas_aeruginosa_GlpQ_CP023255.1
 ATGCAACCAGCCTTCCTGCGCCGCCACCTCGGCGCCGCCTGCCTGATGCTCGCCGCTGGC
 CTGGCCAGCGCCGCCCACGCCGACACCGGCAACGTACAACGCGCCATCGACTGGGCCCAG
 GGCCAGGCCTCCGTTCGCCACCCGGCCAGCGACGAACGCTCGCCGCTGGTCATCGCCCAC
@@ -112,7 +112,7 @@ CAGGGCCTACCTCGACGCCGGCATCGACGGCCTGTTCAGCGACCAGCCGGACGTCGCCGT
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------
->HMEL011728-RA cds:protein_coding
+>hmelpomene_GlpQ_HMEL011728
 ATGTCGACCGACTCTAAAATGACCAAAACAACAATATTAAGATTTACTGGAATAGTTG--
 ----TAT---TCATGATTGTTGGCGGCTTAACATTTGCATTGGCCGTTCC---GTCAATG
 TCAGTGAGTGAAAGTCATCGCCGTGGCCCTGACTCTTGTAGACCAGTTATAATCGCTCAT
